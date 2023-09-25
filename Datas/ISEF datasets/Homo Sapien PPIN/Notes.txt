@@ -1,0 +1,6 @@
+PPIN download
+    - 9606.protein.links.detailed.v12.0.txt.gz
+    - STRING database
+    Data processing
+	- Convert .txt to .csv
+	- Generate a summary of the statistics

@@ -1,0 +1,6 @@
+Database source:
+The human protein atlas
+- TCGA_PAAD data
+	- 176 patients
+	- 688 genes associated with an unfavorable prognosis in pancreatic cancer.
+

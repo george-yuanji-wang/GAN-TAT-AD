@@ -1,0 +1,15 @@
+Number of rows: 13715404
+Number of columns: 10
+
+Summary statistics:
+Column		Type	Minimum	Maximum	Average
+protein1		string	inf	-inf	0.0
+protein2		string	inf	-inf	0.0
+neighborhood	int	0.0	357.0	2.53
+fusion		int	0.0	900.0	0.46
+cooccurence	int	0.0	537.0	2.88
+coexpression	int	0.0	999.0	74.44
+experimental	int	0.0	999.0	64.97
+database		int	0.0	984.0	22.62
+textmining	int	0.0	999.0	168.67
+combined_score	int	150.0	999.0	268.62
