@@ -1,0 +1,669 @@
+Gene,Ensembl,Gene description,Uniprot,Pathology prognostics - Pancreatic cancer,TAU score - Tissue
+MET,ENSG00000105976,"MET proto-oncogene, receptor tyrosine kinase",['P08581'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.21e-7'}",0.46
+MYEOV,ENSG00000172927,Myeloma overexpressed,['Q96EZ4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.54e-7'}",0.81
+EPS8,ENSG00000151491,Epidermal growth factor receptor pathway substrate 8,['Q12929'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.33e-7'}",0.24
+ZNF488,ENSG00000265763,Zinc finger protein 488,['Q96MN9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.02e-7'}",0.88
+KPNA4,ENSG00000186432,Karyopherin subunit alpha 4,['O00629'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.03e-6'}",0.47
+FZD6,ENSG00000164930,Frizzled class receptor 6,['O60353'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.20e-6'}",0.28
+LY6D,ENSG00000167656,Lymphocyte antigen 6 family member D,['Q14210'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.94e-6'}",0.79
+ANLN,ENSG00000011426,"Anillin, actin binding protein",['Q9NQW6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.00e-6'}",0.76
+INSIG2,ENSG00000125629,Insulin induced gene 2,['Q9Y5U4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.19e-6'}",0.32
+ARMC10,ENSG00000170632,Armadillo repeat containing 10,['Q8N2F6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.49e-6'}",0.15
+WNT7A,ENSG00000154764,Wnt family member 7A,['O00755'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.03e-6'}",0.83
+CHEK1,ENSG00000149554,Checkpoint kinase 1,['O14757'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.10e-6'}",0.62
+MRPL3,ENSG00000114686,Mitochondrial ribosomal protein L3,['P09001'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.51e-6'}",0.11
+LAMA3,ENSG00000053747,Laminin subunit alpha 3,['Q16787'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.58e-6'}",0.40
+COMMD2,ENSG00000114744,COMM domain containing 2,['Q86X83'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.69e-6'}",0.17
+ZFP91,ENSG00000186660,"ZFP91 zinc finger protein, atypical E3 ubiquitin ligase",['Q96JP5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.74e-6'}",0.27
+CA12,ENSG00000074410,Carbonic anhydrase 12,['O43570'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.80e-6'}",0.58
+CDK6,ENSG00000105810,Cyclin dependent kinase 6,['Q00534'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.86e-6'}",0.56
+AHNAK2,ENSG00000185567,AHNAK nucleoprotein 2,['Q8IVF2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.05e-6'}",0.57
+JAG1,ENSG00000101384,Jagged canonical Notch ligand 1,['P78504'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.10e-6'}",0.27
+RACGAP1,ENSG00000161800,Rac GTPase activating protein 1,['Q9H0H5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.12e-6'}",0.48
+CDK1,ENSG00000170312,Cyclin dependent kinase 1,['P06493'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.15e-6'}",0.58
+CCNA2,ENSG00000145386,Cyclin A2,['P20248'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.43e-6'}",0.65
+GPR87,ENSG00000138271,G protein-coupled receptor 87,['Q9BY21'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.62e-6'}",0.76
+GPRC5A,ENSG00000013588,G protein-coupled receptor class C group 5 member A,['Q8NFJ5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.63e-6'}",0.59
+FAM83A,ENSG00000147689,Family with sequence similarity 83 member A,['Q86UY5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.99e-6'}",0.84
+RIPK2,ENSG00000104312,Receptor interacting serine/threonine kinase 2,['O43353'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.00e-6'}",0.34
+ITGB6,ENSG00000115221,Integrin subunit beta 6,['P18564'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.03e-6'}",0.63
+BMAL2,ENSG00000029153,Basic helix-loop-helix ARNT like 2,['Q8WYA1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.29e-6'}",0.64
+PLAAT3,ENSG00000176485,Phospholipase A and acyltransferase 3,['P53816'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.58e-6'}",0.38
+TUBA1C,ENSG00000167553,Tubulin alpha 1c,['Q9BQE3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.64e-6'}",0.31
+SERPINB5,ENSG00000206075,Serpin family B member 5,['P36952'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.71e-6'}",0.76
+SLC35F2,ENSG00000110660,Solute carrier family 35 member F2,['Q8IXU6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.92e-6'}",0.46
+PLAAT4,ENSG00000133321,Phospholipase A and acyltransferase 4,['Q9UL19'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.26e-6'}",0.32
+MMP28,ENSG00000271447,Matrix metallopeptidase 28,['Q9H239'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.28e-6'}",0.50
+EIF2A,ENSG00000144895,Eukaryotic translation initiation factor 2A,['Q9BY44'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.57e-6'}",0.12
+RPE,ENSG00000197713,Ribulose-5-phosphate-3-epimerase,['Q96AT9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.00e-6'}",0.10
+ERGIC2,ENSG00000087502,ERGIC and golgi 2,['Q96RQ1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.02e-6'}",0.12
+B3GNT5,ENSG00000176597,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5",['Q9BYG0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.23e-6'}",0.51
+LDHA,ENSG00000134333,Lactate dehydrogenase A,['P00338'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.09e-6'}",0.23
+IPO7,ENSG00000205339,Importin 7,['O95373'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.38e-6'}",0.25
+ANXA2,ENSG00000182718,Annexin A2,['P07355'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.47e-6'}",0.23
+CDCA5,ENSG00000146670,Cell division cycle associated 5,['Q96FF9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.72e-6'}",0.73
+VPS26A,ENSG00000122958,VPS26 retromer complex component A,['O75436'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.18e-6'}",0.11
+H3C10,ENSG00000278828,H3 clustered histone 10,['P68431'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.25e-6'}",0.59
+KIF4A,ENSG00000090889,Kinesin family member 4A,['O95239'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.44e-6'}",0.77
+DLGAP5,ENSG00000126787,DLG associated protein 5,['Q15398'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.94e-6'}",0.79
+ITGA2,ENSG00000164171,Integrin subunit alpha 2,['P17301'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.02e-5'}",0.45
+SERP1,ENSG00000120742,Stress associated endoplasmic reticulum protein 1,['Q9Y6X1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.03e-5'}",0.24
+PERP,ENSG00000112378,P53 apoptosis effector related to PMP22,['Q96FX8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.05e-5'}",0.49
+KRT16,ENSG00000186832,Keratin 16,['P08779'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.09e-5'}",0.79
+AP3S1,ENSG00000177879,Adaptor related protein complex 3 subunit sigma 1,['Q92572'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.13e-5'}",0.21
+PPP2R3A,ENSG00000073711,Protein phosphatase 2 regulatory subunit B''alpha,['Q06190'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.14e-5'}",0.63
+TRIM59,ENSG00000213186,Tripartite motif containing 59,['Q8IWR1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.15e-5'}",0.61
+FAM111B,ENSG00000189057,FAM111 trypsin like peptidase B,['Q6SJ93'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.17e-5'}",0.75
+SPDL1,ENSG00000040275,Spindle apparatus coiled-coil protein 1,['Q96EA4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.19e-5'}",0.51
+TGFA,ENSG00000163235,Transforming growth factor alpha,['P01135'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.20e-5'}",0.51
+YWHAZ,ENSG00000164924,Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta,['P63104'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.20e-5'}",0.18
+TES,ENSG00000135269,Testin LIM domain protein,['Q9UGI8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.20e-5'}",0.37
+RAD51AP1,ENSG00000111247,RAD51 associated protein 1,['Q96B01'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.22e-5'}",0.68
+ATR,ENSG00000175054,ATR serine/threonine kinase,['Q13535'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.23e-5'}",0.38
+HRH1,ENSG00000196639,Histamine receptor H1,['P35367'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.27e-5'}",0.52
+NT5E,ENSG00000135318,5'-nucleotidase ecto,['P21589'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.32e-5'}",0.43
+DSG3,ENSG00000134757,Desmoglein 3,['P32926'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.43e-5'}",0.86
+CENPN,ENSG00000166451,Centromere protein N,['Q96H22'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.46e-5'}",0.54
+C16orf74,ENSG00000154102,Chromosome 16 open reading frame 74,['Q96GX8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.54e-5'}",0.53
+MRPS22,ENSG00000175110,Mitochondrial ribosomal protein S22,['P82650'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.55e-5'}",0.24
+PRPF40A,ENSG00000196504,Pre-mRNA processing factor 40 homolog A,[],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.58e-5'}",0.24
+CCNB2,ENSG00000157456,Cyclin B2,['O95067'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.74e-5'}",0.70
+GLUD1,ENSG00000148672,Glutamate dehydrogenase 1,['P00367'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.76e-5'}",0.38
+UBE2E3,ENSG00000170035,Ubiquitin conjugating enzyme E2 E3,['Q969T4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.78e-5'}",0.22
+B4GALT5,ENSG00000158470,"Beta-1,4-galactosyltransferase 5",['O43286'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.87e-5'}",0.33
+MRPL19,ENSG00000115364,Mitochondrial ribosomal protein L19,['P49406'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.97e-5'}",0.22
+SLC5A3,ENSG00000198743,Solute carrier family 5 member 3,['P53794'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.98e-5'}",0.49
+NMD3,ENSG00000169251,NMD3 ribosome export adaptor,['Q96D46'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.03e-5'}",0.25
+AP1S3,ENSG00000152056,Adaptor related protein complex 1 subunit sigma 3,['Q96PC3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.08e-5'}",0.69
+CHMP2B,ENSG00000083937,Charged multivesicular body protein 2B,['Q9UQN3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.11e-5'}",0.18
+PAQR5,ENSG00000137819,Progestin and adipoQ receptor family member 5,['Q9NXK6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.15e-5'}",0.70
+P2RY2,ENSG00000175591,Purinergic receptor P2Y2,['P41231'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.19e-5'}",0.64
+ECT2,ENSG00000114346,Epithelial cell transforming 2,['Q9H8V3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.24e-5'}",0.45
+MYO5B,ENSG00000167306,Myosin VB,['Q9ULV0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.26e-5'}",0.45
+METAP1,ENSG00000164024,Methionyl aminopeptidase 1,['P53582'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.28e-5'}",0.21
+UBE2H,ENSG00000186591,Ubiquitin conjugating enzyme E2 H,['P62256'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.33e-5'}",0.17
+PALB2,ENSG00000083093,Partner and localizer of BRCA2,['Q86YC2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.35e-5'}",0.22
+BUB1,ENSG00000169679,BUB1 mitotic checkpoint serine/threonine kinase,['O43683'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.37e-5'}",0.76
+ADAM9,ENSG00000168615,ADAM metallopeptidase domain 9,['Q13443'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.52e-5'}",0.19
+CEP55,ENSG00000138180,Centrosomal protein 55,['Q53EZ4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.66e-5'}",0.74
+TPX2,ENSG00000088325,TPX2 microtubule nucleation factor,['Q9ULW0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.68e-5'}",0.70
+PRC1,ENSG00000198901,Protein regulator of cytokinesis 1,['O43663'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.76e-5'}",0.52
+SLK,ENSG00000065613,STE20 like kinase,['Q9H2G2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.77e-5'}",0.25
+ADGRG6,ENSG00000112414,Adhesion G protein-coupled receptor G6,['Q86SQ4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.78e-5'}",0.63
+ZWILCH,ENSG00000174442,Zwilch kinetochore protein,['Q9H900'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.90e-5'}",0.56
+ARHGAP11A,ENSG00000198826,Rho GTPase activating protein 11A,['Q6P4F7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.92e-5'}",0.68
+CD59,ENSG00000085063,CD59 molecule (CD59 blood group),['P13987'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.92e-5'}",0.19
+SERPINB7,ENSG00000166396,Serpin family B member 7,['O75635'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.03e-5'}",0.90
+FOXM1,ENSG00000111206,Forkhead box M1,['Q08050'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.03e-5'}",0.68
+DDX60L,ENSG00000181381,DExD/H-box 60 like,['Q5H9U9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.04e-5'}",0.56
+ARF6,ENSG00000165527,ADP ribosylation factor 6,['P62330'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.10e-5'}",0.27
+BACH1,ENSG00000156273,BTB domain and CNC homolog 1,['O14867'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.11e-5'}",0.38
+SPTBN2,ENSG00000173898,"Spectrin beta, non-erythrocytic 2",['O15020'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.14e-5'}",0.61
+PRMT3,ENSG00000185238,Protein arginine methyltransferase 3,['O60678'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.17e-5'}",0.32
+GJB4,ENSG00000189433,Gap junction protein beta 4,['Q9NTQ9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.24e-5'}",0.89
+ZNF185,ENSG00000147394,Zinc finger protein 185 with LIM domain,['O15231'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.30e-5'}",0.55
+TMOD3,ENSG00000138594,Tropomodulin 3,['Q9NYL9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.38e-5'}",0.38
+KNSTRN,ENSG00000128944,Kinetochore localized astrin (SPAG5) binding protein,['Q9Y448'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.43e-5'}",0.46
+KIF23,ENSG00000137807,Kinesin family member 23,['Q02241'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.69e-5'}",0.69
+HMMR,ENSG00000072571,Hyaluronan mediated motility receptor,['O75330'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.71e-5'}",0.72
+TOP2A,ENSG00000131747,DNA topoisomerase II alpha,['P11388'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.83e-5'}",0.69
+PIK3CB,ENSG00000051382,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",['P42338'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.99e-5'}",0.31
+SEMA3C,ENSG00000075223,Semaphorin 3C,['Q99985'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.08e-5'}",0.36
+SMC4,ENSG00000113810,Structural maintenance of chromosomes 4,['Q9NTJ3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.20e-5'}",0.49
+AK4,ENSG00000162433,Adenylate kinase 4,['P27144'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.34e-5'}",0.52
+SLC2A1,ENSG00000117394,Solute carrier family 2 member 1,['P11166'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.39e-5'}",0.52
+SHCBP1,ENSG00000171241,SHC binding and spindle associated 1,['Q8NEM2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.47e-5'}",0.75
+UHRF1,ENSG00000276043,Ubiquitin like with PHD and ring finger domains 1,['Q96T88'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.52e-5'}",0.79
+RAC1,ENSG00000136238,Rac family small GTPase 1,['P63000'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.57e-5'}",0.14
+FGD6,ENSG00000180263,"FYVE, RhoGEF and PH domain containing 6",['Q6ZV73'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.62e-5'}",0.43
+FAM83D,ENSG00000101447,Family with sequence similarity 83 member D,['Q9H4H8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.73e-5'}",0.65
+BFAR,ENSG00000103429,Bifunctional apoptosis regulator,['Q9NZS9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.74e-5'}",0.18
+MASTL,ENSG00000120539,Microtubule associated serine/threonine kinase like,['Q96GX5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.81e-5'}",0.46
+DSG2,ENSG00000046604,Desmoglein 2,['Q14126'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.94e-5'}",0.49
+TOB1,ENSG00000141232,"Transducer of ERBB2, 1",['P50616'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.04e-5'}",0.23
+PKM,ENSG00000067225,Pyruvate kinase M1/2,['P14618'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.17e-5'}",0.31
+PDCD10,ENSG00000114209,Programmed cell death 10,['Q9BUL8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.22e-5'}",0.15
+PLAAT2,ENSG00000133328,Phospholipase A and acyltransferase 2,['Q9NWW9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.27e-5'}",0.85
+QSER1,ENSG00000060749,Glutamine and serine rich 1,[],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.27e-5'}",0.26
+WASL,ENSG00000106299,WASP like actin nucleation promoting factor,['O00401'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.30e-5'}",0.17
+PLEKHA5,ENSG00000052126,Pleckstrin homology domain containing A5,['Q9HAU0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.41e-5'}",0.33
+PNPT1,ENSG00000138035,Polyribonucleotide nucleotidyltransferase 1,['Q8TCS8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.44e-5'}",0.27
+ACTL6A,ENSG00000136518,Actin like 6A,['O96019'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.44e-5'}",0.25
+CD2AP,ENSG00000198087,CD2 associated protein,['Q9Y5K6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.53e-5'}",0.33
+PSCA,ENSG00000167653,Prostate stem cell antigen,['O43653'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.60e-5'}",0.79
+IQGAP1,ENSG00000140575,IQ motif containing GTPase activating protein 1,['P46940'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.67e-5'}",0.17
+CMTM1,ENSG00000089505,CKLF like MARVEL transmembrane domain containing 1,['Q8IZ96'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.68e-5'}",0.80
+GBP2,ENSG00000162645,Guanylate binding protein 2,['P32456'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.73e-5'}",0.27
+INCENP,ENSG00000149503,Inner centromere protein,['Q9NQS7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.76e-5'}",0.48
+SLC49A4,ENSG00000138463,Solute carrier family 49 member 4,['Q96SL1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.81e-5'}",0.41
+ITGA3,ENSG00000005884,Integrin subunit alpha 3,['P26006'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.95e-5'}",0.35
+KCMF1,ENSG00000176407,Potassium channel modulatory factor 1,['Q9P0J7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.10e-5'}",0.26
+CASK,ENSG00000147044,Calcium/calmodulin dependent serine protein kinase,['O14936'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.11e-5'}",0.30
+SPRR3,ENSG00000163209,Small proline rich protein 3,['Q9UBC9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.27e-5'}",0.78
+KLK10,ENSG00000129451,Kallikrein related peptidase 10,['O43240'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.46e-5'}",0.75
+SRPK1,ENSG00000096063,SRSF protein kinase 1,['Q96SB4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.53e-5'}",0.28
+EREG,ENSG00000124882,Epiregulin,['O14944'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.57e-5'}",0.85
+LDLR,ENSG00000130164,Low density lipoprotein receptor,['P01130'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.60e-5'}",0.38
+NFE2L3,ENSG00000050344,NFE2 like bZIP transcription factor 3,['Q9Y4A8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.62e-5'}",0.66
+NIP7,ENSG00000132603,Nucleolar pre-rRNA processing protein NIP7,['Q9Y221'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.69e-5'}",0.24
+GAREM1,ENSG00000141441,GRB2 associated regulator of MAPK1 subtype 1,['Q9H706'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.73e-5'}",0.53
+ZDHHC5,ENSG00000156599,Zinc finger DHHC-type palmitoyltransferase 5,['Q9C0B5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.74e-5'}",0.18
+KRT19,ENSG00000171345,Keratin 19,['P08727'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.82e-5'}",0.41
+NOG,ENSG00000183691,Noggin,['Q13253'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.86e-5'}",0.79
+C11orf86,ENSG00000173237,Chromosome 11 open reading frame 86,['A6NJI1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.97e-5'}",0.95
+CHMP4C,ENSG00000164695,Charged multivesicular body protein 4C,['Q96CF2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.99e-5'}",0.49
+UACA,ENSG00000137831,Uveal autoantigen with coiled-coil domains and ankyrin repeats,['Q9BZF9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.01e-5'}",0.38
+MEAK7,ENSG00000140950,"MTOR associated protein, eak-7 homolog",['Q6P9B6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.05e-5'}",0.37
+LAMC2,ENSG00000058085,Laminin subunit gamma 2,['Q13753'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.11e-5'}",0.51
+MAP3K13,ENSG00000073803,Mitogen-activated protein kinase kinase kinase 13,['O43283'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.27e-5'}",0.26
+IGF2BP2,ENSG00000073792,Insulin like growth factor 2 mRNA binding protein 2,['Q9Y6M1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.37e-5'}",0.42
+RAB10,ENSG00000084733,"RAB10, member RAS oncogene family",['P61026'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.37e-5'}",0.28
+LSM12,ENSG00000161654,LSM12 homolog,['Q3MHD2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.49e-5'}",0.16
+GJB3,ENSG00000188910,Gap junction protein beta 3,['O75712'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.56e-5'}",0.79
+SPRR1B,ENSG00000169469,Small proline rich protein 1B,['P22528'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.64e-5'}",0.81
+NCAPG,ENSG00000109805,Non-SMC condensin I complex subunit G,['Q9BPX3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.65e-5'}",0.77
+HJURP,ENSG00000123485,Holliday junction recognition protein,['Q8NCD3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.72e-5'}",0.80
+KRT7,ENSG00000135480,Keratin 7,['P08729'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.78e-5'}",0.60
+PAFAH1B2,ENSG00000168092,Platelet activating factor acetylhydrolase 1b catalytic subunit 2,['P68402'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.79e-5'}",0.21
+DIAPH1,ENSG00000131504,Diaphanous related formin 1,['O60610'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.81e-5'}",0.32
+NAA50,ENSG00000121579,"N-alpha-acetyltransferase 50, NatE catalytic subunit",['Q9GZZ1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.92e-5'}",0.34
+PTGES,ENSG00000148344,Prostaglandin E synthase,['O14684'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.97e-5'}",0.49
+PEX13,ENSG00000162928,Peroxisomal biogenesis factor 13,['Q92968'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.07e-5'}",0.27
+CXCL11,ENSG00000169248,C-X-C motif chemokine ligand 11,['O14625'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.18e-5'}",0.64
+SIAH2,ENSG00000181788,Siah E3 ubiquitin protein ligase 2,['O43255'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.21e-5'}",0.30
+KIAA1522,ENSG00000162522,KIAA1522,['Q9P206'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.25e-5'}",0.37
+NCEH1,ENSG00000144959,Neutral cholesterol ester hydrolase 1,['Q6PIU2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.25e-5'}",0.37
+PLEK2,ENSG00000100558,Pleckstrin 2,['Q9NYT0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.26e-5'}",0.56
+SAMD9,ENSG00000205413,Sterile alpha motif domain containing 9,['Q5K651'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.31e-5'}",0.59
+AREG,ENSG00000109321,Amphiregulin,['P15514'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.32e-5'}",0.58
+OPA1,ENSG00000198836,OPA1 mitochondrial dynamin like GTPase,['O60313'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.44e-5'}",0.31
+FLNB,ENSG00000136068,Filamin B,['O75369'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.45e-5'}",0.24
+GNPNAT1,ENSG00000100522,Glucosamine-phosphate N-acetyltransferase 1,['Q96EK6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.52e-5'}",0.45
+CDA,ENSG00000158825,Cytidine deaminase,['P32320'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.56e-5'}",0.62
+EFNB2,ENSG00000125266,Ephrin B2,['P52799'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.70e-5'}",0.32
+PGM1,ENSG00000079739,Phosphoglucomutase 1,['P36871'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.74e-5'}",0.48
+FNDC3B,ENSG00000075420,Fibronectin type III domain containing 3B,['Q53EP0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.06e-5'}",0.27
+NCK1,ENSG00000158092,NCK adaptor protein 1,['P16333'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.14e-5'}",0.20
+STK3,ENSG00000104375,Serine/threonine kinase 3,['Q13188'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.21e-5'}",0.21
+IARS2,ENSG00000067704,"Isoleucyl-tRNA synthetase 2, mitochondrial",['Q9NSE4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.24e-5'}",0.18
+FOSL1,ENSG00000175592,"FOS like 1, AP-1 transcription factor subunit",['P15407'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.26e-5'}",0.54
+CAST,ENSG00000153113,Calpastatin,['P20810'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.27e-5'}",0.21
+OIP5,ENSG00000104147,Opa interacting protein 5,['O43482'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.34e-5'}",0.74
+ETV6,ENSG00000139083,ETS variant transcription factor 6,['P41212'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.38e-5'}",0.39
+MKI67,ENSG00000148773,Marker of proliferation Ki-67,['P46013'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.47e-5'}",0.79
+DHX32,ENSG00000089876,DEAH-box helicase 32 (putative),['Q7L7V1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.49e-5'}",0.19
+HACD2,ENSG00000206527,3-hydroxyacyl-CoA dehydratase 2,['Q6Y1H2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.59e-5'}",0.33
+COX6B2,ENSG00000160471,Cytochrome c oxidase subunit 6B2,['Q6YFQ2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.70e-5'}",0.89
+TNFRSF10A,ENSG00000104689,TNF receptor superfamily member 10a,['O00220'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.00e-4'}",0.45
+NAB1,ENSG00000138386,NGFI-A binding protein 1,['Q13506'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.01e-4'}",0.23
+NCAPH,ENSG00000121152,Non-SMC condensin I complex subunit H,['Q15003'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.02e-4'}",0.73
+KRT13,ENSG00000171401,Keratin 13,['P13646'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.02e-4'}",0.73
+INPP4B,ENSG00000109452,Inositol polyphosphate-4-phosphatase type II B,['O15327'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.03e-4'}",0.45
+SPRR1A,ENSG00000169474,Small proline rich protein 1A,['P35321'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.03e-4'}",0.79
+GMPS,ENSG00000163655,Guanine monophosphate synthase,['P49915'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.04e-4'}",0.35
+ATL3,ENSG00000184743,Atlastin GTPase 3,['Q6DD88'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.04e-4'}",0.21
+KCTD14,ENSG00000151364,Potassium channel tetramerization domain containing 14,['Q9BQ13'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.05e-4'}",0.49
+TAX1BP1,ENSG00000106052,Tax1 binding protein 1,['Q86VP1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.06e-4'}",0.09
+F3,ENSG00000117525,"Coagulation factor III, tissue factor",['P13726'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.07e-4'}",0.24
+ATP11B,ENSG00000058063,ATPase phospholipid transporting 11B (putative),['Q9Y2G3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.09e-4'}",0.30
+KLK8,ENSG00000129455,Kallikrein related peptidase 8,['O60259'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.10e-4'}",0.80
+H1-2,ENSG00000187837,"H1.2 linker histone, cluster member",['P16403'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.12e-4'}",0.30
+RNF141,ENSG00000110315,Ring finger protein 141,['Q8WVD5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.14e-4'}",0.31
+MPZL2,ENSG00000149573,Myelin protein zero like 2,['O60487'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.14e-4'}",0.47
+KLK7,ENSG00000169035,Kallikrein related peptidase 7,['P49862'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.16e-4'}",0.80
+HMGXB4,ENSG00000100281,HMG-box containing 4,['Q9UGU5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.16e-4'}",0.36
+RBM7,ENSG00000076053,RNA binding motif protein 7,['Q9Y580'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.17e-4'}",0.33
+LRRC1,ENSG00000137269,Leucine rich repeat containing 1,['Q9BTT6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.18e-4'}",0.32
+ERAP2,ENSG00000164308,Endoplasmic reticulum aminopeptidase 2,['Q6P179'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.20e-4'}",0.44
+CAV2,ENSG00000105971,Caveolin 2,['P51636'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.21e-4'}",0.37
+KIF20B,ENSG00000138182,Kinesin family member 20B,['Q96Q89'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.21e-4'}",0.62
+PRKCI,ENSG00000163558,Protein kinase C iota,['P41743'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.22e-4'}",0.34
+PTBP3,ENSG00000119314,Polypyrimidine tract binding protein 3,['O95758'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.22e-4'}",0.28
+PRRG1,ENSG00000130962,Proline rich and Gla domain 1,['O14668'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.22e-4'}",0.57
+SPC24,ENSG00000161888,SPC24 component of NDC80 kinetochore complex,['Q8NBT2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.22e-4'}",0.66
+MALL,ENSG00000144063,"Mal, T cell differentiation protein like",['Q13021'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.23e-4'}",0.55
+SCEL,ENSG00000136155,Sciellin,['O95171'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.24e-4'}",0.81
+SFTA2,ENSG00000196260,Surfactant associated 2,['Q6UW10'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.26e-4'}",0.86
+DKK1,ENSG00000107984,Dickkopf WNT signaling pathway inhibitor 1,['O94907'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.27e-4'}",0.73
+ANXA3,ENSG00000138772,Annexin A3,['P12429'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.28e-4'}",0.48
+GTSE1,ENSG00000075218,G2 and S-phase expressed 1,['Q9NYZ3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.29e-4'}",0.79
+MOCOS,ENSG00000075643,Molybdenum cofactor sulfurase,['Q96EN8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.29e-4'}",0.67
+CENPA,ENSG00000115163,Centromere protein A,['P49450'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.30e-4'}",0.83
+PPP1R3B,ENSG00000173281,Protein phosphatase 1 regulatory subunit 3B,['Q86XI6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.31e-4'}",0.48
+IL1RAP,ENSG00000196083,Interleukin 1 receptor accessory protein,['Q9NPH3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.31e-4'}",0.68
+PLAU,ENSG00000122861,"Plasminogen activator, urokinase",['P00749'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.32e-4'}",0.45
+DERA,ENSG00000023697,Deoxyribose-phosphate aldolase,['Q9Y315'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.32e-4'}",0.34
+REEP3,ENSG00000165476,Receptor accessory protein 3,['Q6NUK4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.32e-4'}",0.22
+CDC20,ENSG00000117399,Cell division cycle 20,['Q12834'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.32e-4'}",0.65
+STIL,ENSG00000123473,STIL centriolar assembly protein,['Q15468'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.33e-4'}",0.64
+ANTXR2,ENSG00000163297,ANTXR cell adhesion molecule 2,['P58335'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.33e-4'}",0.35
+NRAS,ENSG00000213281,"NRAS proto-oncogene, GTPase",['P01111'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.36e-4'}",0.36
+CENPF,ENSG00000117724,Centromere protein F,['P49454'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.39e-4'}",0.78
+SSRP1,ENSG00000149136,Structure specific recognition protein 1,['Q08945'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.40e-4'}",0.18
+ITGB5,ENSG00000082781,Integrin subunit beta 5,['P18084'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.40e-4'}",0.21
+MYOF,ENSG00000138119,Myoferlin,['Q9NZM1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.40e-4'}",0.33
+CCL28,ENSG00000151882,C-C motif chemokine ligand 28,['Q9NRJ3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.43e-4'}",0.74
+SP1,ENSG00000185591,Sp1 transcription factor,['P08047'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.43e-4'}",0.15
+IL20RB,ENSG00000174564,Interleukin 20 receptor subunit beta,['Q6UXL0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.44e-4'}",0.82
+COPB2,ENSG00000184432,COPI coat complex subunit beta 2,['P35606'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.45e-4'}",0.12
+CDCP1,ENSG00000163814,CUB domain containing protein 1,['Q9H5V8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.48e-4'}",0.58
+TFG,ENSG00000114354,Trafficking from ER to golgi regulator,['Q92734'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.50e-4'}",0.13
+NAMPT,ENSG00000105835,Nicotinamide phosphoribosyltransferase,['P43490'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.51e-4'}",0.28
+TAP2,ENSG00000204267,"Transporter 2, ATP binding cassette subfamily B member",['Q03519'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.51e-4'}",0.33
+KRT8,ENSG00000170421,Keratin 8,['P05787'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.51e-4'}",0.42
+ATP2C1,ENSG00000017260,ATPase secretory pathway Ca2+ transporting 1,['P98194'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.52e-4'}",0.21
+DCBLD2,ENSG00000057019,"Discoidin, CUB and LCCL domain containing 2",['Q96PD2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.52e-4'}",0.30
+FLRT3,ENSG00000125848,Fibronectin leucine rich transmembrane protein 3,['Q9NZU0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.54e-4'}",0.53
+GKN1,ENSG00000169605,Gastrokine 1,['Q9NS71'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.54e-4'}",0.93
+GJB5,ENSG00000189280,Gap junction protein beta 5,['O95377'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.54e-4'}",0.79
+CD9,ENSG00000010278,CD9 molecule,['P21926'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.59e-4'}",0.23
+LDAF1,ENSG00000011638,Lipid droplet assembly factor 1,['Q96B96'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.59e-4'}",0.38
+ATP13A3,ENSG00000133657,ATPase 13A3,['Q9H7F0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.60e-4'}",0.35
+RSF1,ENSG00000048649,Remodeling and spacing factor 1,['Q96T23'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.61e-4'}",0.17
+RRM2,ENSG00000171848,Ribonucleotide reductase regulatory subunit M2,['P31350'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.62e-4'}",0.71
+B3GNT2,ENSG00000170340,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",['Q9NY97'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.62e-4'}",0.35
+PLBD1,ENSG00000121316,Phospholipase B domain containing 1,['Q6P4A8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.66e-4'}",0.49
+TMEM139,ENSG00000178826,Transmembrane protein 139,['Q8IV31'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.66e-4'}",0.62
+SOWAHC,ENSG00000198142,Sosondowah ankyrin repeat domain family member C,['Q53LP3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.66e-4'}",0.44
+EPSTI1,ENSG00000133106,Epithelial stromal interaction 1,['Q96J88'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.66e-4'}",0.44
+RALB,ENSG00000144118,RAS like proto-oncogene B,['P11234'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.67e-4'}",0.36
+LEMD1,ENSG00000186007,LEM domain containing 1,['Q68G75'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.70e-4'}",0.89
+ANO1,ENSG00000131620,Anoctamin 1,['Q5XXA6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.70e-4'}",0.47
+EZR,ENSG00000092820,Ezrin,['P15311'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.70e-4'}",0.25
+UNC93B1,ENSG00000110057,"Unc-93 homolog B1, TLR signaling regulator",['Q9H1C4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.73e-4'}",0.45
+UBAC2,ENSG00000134882,UBA domain containing 2,['Q8NBM4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.73e-4'}",0.18
+ASPH,ENSG00000198363,Aspartate beta-hydroxylase,['Q12797'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.75e-4'}",0.29
+POC1A,ENSG00000164087,POC1 centriolar protein A,['Q8NBT0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.76e-4'}",0.61
+ACOT4,ENSG00000177465,Acyl-CoA thioesterase 4,['Q8N9L9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.77e-4'}",0.66
+KRT18,ENSG00000111057,Keratin 18,['P05783'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.78e-4'}",0.32
+BUB1B,ENSG00000156970,BUB1 mitotic checkpoint serine/threonine kinase B,['O60566'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.79e-4'}",0.77
+AMIGO2,ENSG00000139211,Adhesion molecule with Ig like domain 2,['Q86SJ2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.80e-4'}",0.36
+EPYC,ENSG00000083782,Epiphycan,['Q99645'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.85e-4'}",0.95
+COL17A1,ENSG00000065618,Collagen type XVII alpha 1 chain,['Q9UMD9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.86e-4'}",0.72
+SPCS3,ENSG00000129128,Signal peptidase complex subunit 3,['P61009'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.87e-4'}",0.24
+TMCC1,ENSG00000172765,Transmembrane and coiled-coil domain family 1,['O94876'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.87e-4'}",0.39
+TOPBP1,ENSG00000163781,DNA topoisomerase II binding protein 1,['Q92547'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.88e-4'}",0.39
+ABCE1,ENSG00000164163,ATP binding cassette subfamily E member 1,['P61221'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.88e-4'}",0.15
+KIF20A,ENSG00000112984,Kinesin family member 20A,['O95235'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.90e-4'}",0.75
+ADAM10,ENSG00000137845,ADAM metallopeptidase domain 10,['O14672'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.90e-4'}",0.29
+COLGALT1,ENSG00000130309,Collagen beta(1-O)galactosyltransferase 1,['Q8NBJ5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.92e-4'}",0.24
+CCND1,ENSG00000110092,Cyclin D1,['P24385'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.96e-4'}",0.31
+PTK6,ENSG00000101213,Protein tyrosine kinase 6,['Q13882'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.96e-4'}",0.75
+ASF1B,ENSG00000105011,Anti-silencing function 1B histone chaperone,['Q9NVP2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.98e-4'}",0.73
+PTPRK,ENSG00000152894,Protein tyrosine phosphatase receptor type K,['Q15262'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.99e-4'}",0.27
+MBNL2,ENSG00000139793,Muscleblind like splicing regulator 2,['Q5VZF2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '1.99e-4'}",0.22
+EPHX4,ENSG00000172031,Epoxide hydrolase 4,['Q8IUS5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.00e-4'}",0.81
+ASCC1,ENSG00000138303,Activating signal cointegrator 1 complex subunit 1,['Q8N9N2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.00e-4'}",0.21
+S100P,ENSG00000163993,S100 calcium binding protein P,['P25815'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.00e-4'}",0.67
+PTPN12,ENSG00000127947,Protein tyrosine phosphatase non-receptor type 12,['Q05209'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.01e-4'}",0.17
+YAP1,ENSG00000137693,Yes1 associated transcriptional regulator,['P46937'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.03e-4'}",0.21
+IGSF3,ENSG00000143061,Immunoglobulin superfamily member 3,['O75054'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.03e-4'}",0.47
+S100A16,ENSG00000188643,S100 calcium binding protein A16,['Q96FQ6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.04e-4'}",0.43
+PATL1,ENSG00000166889,"PAT1 homolog 1, processing body mRNA decay factor",['Q86TB9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.04e-4'}",0.29
+S100A2,ENSG00000196754,S100 calcium binding protein A2,['P29034'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.04e-4'}",0.69
+ESRP1,ENSG00000104413,Epithelial splicing regulatory protein 1,['Q6NXG1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.05e-4'}",0.52
+EIF2AK2,ENSG00000055332,Eukaryotic translation initiation factor 2 alpha kinase 2,['P19525'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.08e-4'}",0.36
+CENPU,ENSG00000151725,Centromere protein U,['Q71F23'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.09e-4'}",0.72
+SLC16A1,ENSG00000155380,Solute carrier family 16 member 1,['P53985'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.10e-4'}",0.34
+DIAPH2,ENSG00000147202,Diaphanous related formin 2,['O60879'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.12e-4'}",0.33
+BATF2,ENSG00000168062,Basic leucine zipper ATF-like transcription factor 2,['Q8N1L9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.12e-4'}",0.51
+RAB27B,ENSG00000041353,"RAB27B, member RAS oncogene family",['O00194'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.13e-4'}",0.67
+SLC38A5,ENSG00000017483,Solute carrier family 38 member 5,['Q8WUX1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.13e-4'}",0.66
+KIF18B,ENSG00000186185,Kinesin family member 18B,['Q86Y91'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.16e-4'}",0.79
+B3GNT3,ENSG00000179913,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3",['Q9Y2A9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.16e-4'}",0.71
+MBD4,ENSG00000129071,"Methyl-CpG binding domain 4, DNA glycosylase",['O95243'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.18e-4'}",0.27
+GART,ENSG00000159131,"Phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase",['P22102'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.19e-4'}",0.17
+MCMBP,ENSG00000197771,Minichromosome maintenance complex binding protein,['Q9BTE3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.20e-4'}",0.15
+CXCL5,ENSG00000163735,C-X-C motif chemokine ligand 5,['P42830'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.23e-4'}",0.81
+RAB6A,ENSG00000175582,"RAB6A, member RAS oncogene family",['P20340'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.24e-4'}",0.17
+IRAK2,ENSG00000134070,Interleukin 1 receptor associated kinase 2,['O43187'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.26e-4'}",0.53
+ERO1A,ENSG00000197930,Endoplasmic reticulum oxidoreductase 1 alpha,['Q96HE7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.27e-4'}",0.44
+PTTG1IP,ENSG00000183255,PTTG1 interacting protein,['P53801'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.28e-4'}",0.10
+PTPN14,ENSG00000152104,Protein tyrosine phosphatase non-receptor type 14,['Q15678'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.29e-4'}",0.42
+SCNN1A,ENSG00000111319,Sodium channel epithelial 1 subunit alpha,['P37088'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.30e-4'}",0.49
+KIF11,ENSG00000138160,Kinesin family member 11,['P52732'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.30e-4'}",0.72
+GOLT1B,ENSG00000111711,Golgi transport 1B,['Q9Y3E0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.32e-4'}",0.18
+LYPLA1,ENSG00000120992,Lysophospholipase 1,['O75608'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.34e-4'}",0.22
+MCM4,ENSG00000104738,Minichromosome maintenance complex component 4,['P33991'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.38e-4'}",0.44
+ASPM,ENSG00000066279,Assembly factor for spindle microtubules,['Q8IZT6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.40e-4'}",0.86
+AHNAK,ENSG00000124942,AHNAK nucleoprotein,['Q09666'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.42e-4'}",0.24
+RRAS2,ENSG00000133818,RAS related 2,['P62070'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.44e-4'}",0.21
+YES1,ENSG00000176105,"YES proto-oncogene 1, Src family tyrosine kinase",['P07947'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.46e-4'}",0.28
+SMAD3,ENSG00000166949,SMAD family member 3,['P84022'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.48e-4'}",0.24
+CAPN2,ENSG00000162909,Calpain 2,['P17655'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.50e-4'}",0.18
+SH3GLB1,ENSG00000097033,"SH3 domain containing GRB2 like, endophilin B1",['Q9Y371'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.53e-4'}",0.25
+TNNT1,ENSG00000105048,"Troponin T1, slow skeletal type",['P13805'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.53e-4'}",0.79
+TATDN1,ENSG00000147687,TatD DNase domain containing 1,['Q6P1N9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.53e-4'}",0.22
+TTK,ENSG00000112742,TTK protein kinase,['P33981'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.54e-4'}",0.79
+ARHGAP18,ENSG00000146376,Rho GTPase activating protein 18,['Q8N392'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.54e-4'}",0.30
+KLF5,ENSG00000102554,KLF transcription factor 5,['Q13887'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.55e-4'}",0.47
+LAMB3,ENSG00000196878,Laminin subunit beta 3,['Q13751'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.55e-4'}",0.47
+PPFIBP1,ENSG00000110841,PPFIA binding protein 1,['Q86W92'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.56e-4'}",0.26
+SPTY2D1,ENSG00000179119,SPT2 chromatin protein domain containing 1,['Q68D10'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.59e-4'}",0.41
+MECOM,ENSG00000085276,MDS1 and EVI1 complex locus,['Q03112'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.59e-4'}",0.50
+PRMT5,ENSG00000100462,Protein arginine methyltransferase 5,['O14744'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.61e-4'}",0.16
+PYGL,ENSG00000100504,Glycogen phosphorylase L,['P06737'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.63e-4'}",0.38
+TMEM123,ENSG00000152558,Transmembrane protein 123,['Q8N131'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.66e-4'}",0.25
+FRMD6,ENSG00000139926,FERM domain containing 6,['Q96NE9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.66e-4'}",0.30
+ANXA8,ENSG00000265190,Annexin A8,['P13928'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.68e-4'}",0.72
+SQLE,ENSG00000104549,Squalene epoxidase,['Q14534'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.73e-4'}",0.32
+DHRS9,ENSG00000073737,Dehydrogenase/reductase 9,['Q9BPW9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.73e-4'}",0.66
+MMADHC,ENSG00000168288,Metabolism of cobalamin associated D,['Q9H3L0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.73e-4'}",0.18
+CCL20,ENSG00000115009,C-C motif chemokine ligand 20,['P78556'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.73e-4'}",0.68
+VCL,ENSG00000035403,Vinculin,['P18206'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.75e-4'}",0.25
+DDIT4,ENSG00000168209,DNA damage inducible transcript 4,['Q9NX09'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.78e-4'}",0.25
+P4HA1,ENSG00000122884,Prolyl 4-hydroxylase subunit alpha 1,['P13674'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.85e-4'}",0.31
+TXNRD3,ENSG00000197763,Thioredoxin reductase 3,['Q86VQ6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.86e-4'}",0.47
+CTSV,ENSG00000136943,Cathepsin V,['O60911'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.87e-4'}",0.78
+TSKU,ENSG00000182704,"Tsukushi, small leucine rich proteoglycan",['Q8WUA8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.87e-4'}",0.41
+ZNF148,ENSG00000163848,Zinc finger protein 148,['Q9UQR1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.88e-4'}",0.30
+SSH3,ENSG00000172830,Slingshot protein phosphatase 3,['Q8TE77'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.89e-4'}",0.30
+PROM2,ENSG00000155066,Prominin 2,['Q8N271'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.90e-4'}",0.58
+CDC6,ENSG00000094804,Cell division cycle 6,['Q99741'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.90e-4'}",0.66
+MACROD1,ENSG00000133315,Mono-ADP ribosylhydrolase 1,['Q9BQ69'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.90e-4'}",0.54
+GJB2,ENSG00000165474,Gap junction protein beta 2,['P29033'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.90e-4'}",0.72
+NLRP2,ENSG00000022556,NLR family pyrin domain containing 2,['Q9NX02'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.91e-4'}",0.55
+TGM2,ENSG00000198959,Transglutaminase 2,['P21980'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.97e-4'}",0.35
+ZBTB7A,ENSG00000178951,Zinc finger and BTB domain containing 7A,['O95365'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.99e-4'}",0.30
+DPY19L1,ENSG00000173852,Dpy-19 like C-mannosyltransferase 1,['Q2PZI1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '2.99e-4'}",0.32
+SPAG5,ENSG00000076382,Sperm associated antigen 5,['Q96R06'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.02e-4'}",0.63
+OAS1,ENSG00000089127,2'-5'-oligoadenylate synthetase 1,['P00973'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.02e-4'}",0.43
+CTNND1,ENSG00000198561,Catenin delta 1,['O60716'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.02e-4'}",0.23
+BIRC3,ENSG00000023445,Baculoviral IAP repeat containing 3,['Q13489'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.03e-4'}",0.52
+MTPN,ENSG00000105887,Myotrophin,['P58546'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.05e-4'}",0.20
+RTF1,ENSG00000137815,"RTF1 homolog, Paf1/RNA polymerase II complex component",['Q92541'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.05e-4'}",0.19
+TPM4,ENSG00000167460,Tropomyosin 4,['P67936'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.07e-4'}",0.21
+SDCBP2,ENSG00000125775,Syndecan binding protein 2,['Q9H190'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.07e-4'}",0.52
+TLR3,ENSG00000164342,Toll like receptor 3,['O15455'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.09e-4'}",0.37
+CDK7,ENSG00000134058,Cyclin dependent kinase 7,['P50613'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.09e-4'}",0.26
+DDX21,ENSG00000165732,DExD-box helicase 21,['Q9NR30'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.12e-4'}",0.29
+OSBPL10,ENSG00000144645,Oxysterol binding protein like 10,['Q9BXB5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.14e-4'}",0.39
+TMPRSS4,ENSG00000137648,Transmembrane serine protease 4,['Q9NRS4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.14e-4'}",0.75
+TRPS1,ENSG00000104447,Transcriptional repressor GATA binding 1,['Q9UHF7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.16e-4'}",0.54
+SERPINB3,ENSG00000057149,Serpin family B member 3,['P29508'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.19e-4'}",0.84
+CCDC43,ENSG00000180329,Coiled-coil domain containing 43,['Q96MW1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.19e-4'}",0.41
+SLC39A10,ENSG00000196950,Solute carrier family 39 member 10,['Q9ULF5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.23e-4'}",0.50
+REPS2,ENSG00000169891,RALBP1 associated Eps domain containing 2,['Q8NFH8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.24e-4'}",0.45
+ARHGAP23,ENSG00000275832,Rho GTPase activating protein 23,['Q9P227'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.24e-4'}",0.39
+ANKRD50,ENSG00000151458,Ankyrin repeat domain containing 50,['Q9ULJ7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.28e-4'}",0.34
+PML,ENSG00000140464,PML nuclear body scaffold,['P29590'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.29e-4'}",0.25
+DDX60,ENSG00000137628,DExD/H-box helicase 60,['Q8IY21'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.35e-4'}",0.46
+PAK2,ENSG00000180370,P21 (RAC1) activated kinase 2,['Q13177'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.36e-4'}",0.19
+HNMT,ENSG00000150540,Histamine N-methyltransferase,['P50135'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.41e-4'}",0.38
+PDZK1IP1,ENSG00000162366,PDZK1 interacting protein 1,['Q13113'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.45e-4'}",0.63
+STS,ENSG00000101846,Steroid sulfatase,[],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.47e-4'}",0.45
+RIPK4,ENSG00000183421,Receptor interacting serine/threonine kinase 4,['P57078'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.48e-4'}",0.62
+PIK3C2G,ENSG00000139144,Phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 gamma,['O75747'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.50e-4'}",0.75
+CNBP,ENSG00000169714,CCHC-type zinc finger nucleic acid binding protein,['P62633'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.51e-4'}",0.21
+LMO7,ENSG00000136153,LIM domain 7,['Q8WWI1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.51e-4'}",0.42
+CRYBG2,ENSG00000176092,Crystallin beta-gamma domain containing 2,['Q8N1P7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.53e-4'}",0.82
+RNF139,ENSG00000170881,Ring finger protein 139,['Q8WU17'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.54e-4'}",0.37
+FCF1,ENSG00000119616,FCF1 rRNA-processing protein,['Q9Y324'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.54e-4'}",0.14
+NMI,ENSG00000123609,N-myc and STAT interactor,['Q13287'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.54e-4'}",0.37
+MAGT1,ENSG00000102158,Magnesium transporter 1,['Q9H0U3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.55e-4'}",0.28
+ECM1,ENSG00000143369,Extracellular matrix protein 1,['Q16610'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.55e-4'}",0.56
+NDC1,ENSG00000058804,NDC1 transmembrane nucleoporin,['Q9BTX1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.58e-4'}",0.34
+KRAS,ENSG00000133703,"KRAS proto-oncogene, GTPase",['P01116'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.59e-4'}",0.23
+FANCI,ENSG00000140525,FA complementation group I,['Q9NVI1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.59e-4'}",0.59
+MTMR2,ENSG00000087053,Myotubularin related protein 2,['Q13614'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.60e-4'}",0.27
+PCDH1,ENSG00000156453,Protocadherin 1,['Q08174'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.61e-4'}",0.36
+TPM3,ENSG00000143549,Tropomyosin 3,['P06753'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.65e-4'}",0.46
+FA2H,ENSG00000103089,Fatty acid 2-hydroxylase,['Q7L5A8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.74e-4'}",0.75
+AFAP1L2,ENSG00000169129,Actin filament associated protein 1 like 2,['Q8N4X5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.76e-4'}",0.49
+SKA3,ENSG00000165480,Spindle and kinetochore associated complex subunit 3,['Q8IX90'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.77e-4'}",0.84
+PRELID2,ENSG00000186314,PRELI domain containing 2,['Q8N945'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.78e-4'}",0.60
+NCKAP1,ENSG00000061676,NCK associated protein 1,['Q9Y2A7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.81e-4'}",0.14
+PPP3CA,ENSG00000138814,Protein phosphatase 3 catalytic subunit alpha,['Q08209'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.82e-4'}",0.44
+LRRC8A,ENSG00000136802,Leucine rich repeat containing 8 VRAC subunit A,['Q8IWT6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.83e-4'}",0.25
+UBN1,ENSG00000118900,Ubinuclein 1,['Q9NPG3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.84e-4'}",0.31
+C3orf52,ENSG00000114529,Chromosome 3 open reading frame 52,['Q5BVD1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.85e-4'}",0.67
+OXR1,ENSG00000164830,Oxidation resistance 1,['Q8N573'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.85e-4'}",0.23
+COL7A1,ENSG00000114270,Collagen type VII alpha 1 chain,['Q02388'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.86e-4'}",0.66
+S100A10,ENSG00000197747,S100 calcium binding protein A10,['P60903'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.88e-4'}",0.28
+MAML2,ENSG00000184384,Mastermind like transcriptional coactivator 2,['Q8IZL2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.89e-4'}",0.28
+BLVRB,ENSG00000090013,Biliverdin reductase B,['P30043'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.90e-4'}",0.34
+PKP3,ENSG00000184363,Plakophilin 3,['Q9Y446'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.93e-4'}",0.67
+EPPK1,ENSG00000261150,Epiplakin 1,['P58107'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.94e-4'}",0.81
+CCDC6,ENSG00000108091,Coiled-coil domain containing 6,['Q16204'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.95e-4'}",0.18
+MAL2,ENSG00000147676,"Mal, T cell differentiation protein 2",['Q969L2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '3.98e-4'}",0.45
+CBX3,ENSG00000122565,Chromobox 3,['Q13185'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.00e-4'}",0.18
+TM4SF1,ENSG00000169908,Transmembrane 4 L six family member 1,['P30408'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.01e-4'}",0.26
+MMP3,ENSG00000149968,Matrix metallopeptidase 3,['P08254'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.09e-4'}",0.79
+RIOK3,ENSG00000101782,RIO kinase 3,['O14730'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.10e-4'}",0.38
+PLK1,ENSG00000166851,Polo like kinase 1,['P53350'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.12e-4'}",0.68
+SYT12,ENSG00000173227,Synaptotagmin 12,['Q8IV01'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.13e-4'}",0.81
+KLK11,ENSG00000167757,Kallikrein related peptidase 11,['Q9UBX7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.17e-4'}",0.62
+E2F1,ENSG00000101412,E2F transcription factor 1,['Q01094'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.18e-4'}",0.68
+RHOV,ENSG00000104140,Ras homolog family member V,['Q96L33'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.19e-4'}",0.73
+SDC4,ENSG00000124145,Syndecan 4,['P31431'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.20e-4'}",0.31
+NBN,ENSG00000104320,Nibrin,['O60934'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.20e-4'}",0.16
+KIFC1,ENSG00000237649,Kinesin family member C1,['Q9BW19'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.21e-4'}",0.72
+TMBIM1,ENSG00000135926,Transmembrane BAX inhibitor motif containing 1,['Q969X1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.22e-4'}",0.17
+STAT1,ENSG00000115415,Signal transducer and activator of transcription 1,['P42224'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.23e-4'}",0.28
+EFNB1,ENSG00000090776,Ephrin B1,['P98172'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.29e-4'}",0.29
+CAPN1,ENSG00000014216,Calpain 1,['P07384'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.30e-4'}",0.29
+LONRF3,ENSG00000175556,LON peptidase N-terminal domain and ring finger 3,['Q496Y0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.32e-4'}",0.53
+ALPP,ENSG00000163283,"Alkaline phosphatase, placental",['P05187'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.33e-4'}",0.94
+LAPTM4A,ENSG00000068697,Lysosomal protein transmembrane 4 alpha,['Q15012'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.37e-4'}",0.11
+RAB11A,ENSG00000103769,"RAB11A, member RAS oncogene family",['P62491'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.37e-4'}",0.18
+TMEM43,ENSG00000170876,Transmembrane protein 43,['Q9BTV4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.38e-4'}",0.20
+SMAGP,ENSG00000170545,Small cell adhesion glycoprotein,['Q0VAQ4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.38e-4'}",0.47
+BCAR3,ENSG00000137936,"BCAR3 adaptor protein, NSP family member",['O75815'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.38e-4'}",0.31
+RPL35A,ENSG00000182899,Ribosomal protein L35a,['P18077'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.43e-4'}",0.14
+TRIM29,ENSG00000137699,Tripartite motif containing 29,['Q14134'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.46e-4'}",0.69
+UGT1A10,ENSG00000242515,UDP glucuronosyltransferase family 1 member A10,['Q9HAW8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.55e-4'}",0.89
+KCNN4,ENSG00000104783,Potassium calcium-activated channel subfamily N member 4,['O15554'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.56e-4'}",0.67
+MELK,ENSG00000165304,Maternal embryonic leucine zipper kinase,['Q14680'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.58e-4'}",0.75
+PLS3,ENSG00000102024,Plastin 3,['P13797'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.59e-4'}",0.25
+LIPH,ENSG00000163898,Lipase H,['Q8WWY8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.59e-4'}",0.68
+MUC1,ENSG00000185499,"Mucin 1, cell surface associated",['P15941'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.60e-4'}",0.53
+CNIH4,ENSG00000143771,Cornichon family AMPA receptor auxiliary protein 4,['Q9P003'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.61e-4'}",0.16
+CXCL10,ENSG00000169245,C-X-C motif chemokine ligand 10,['P02778'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.61e-4'}",0.57
+RAB7A,ENSG00000075785,"RAB7A, member RAS oncogene family",['P51149'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.63e-4'}",0.16
+CXCL17,ENSG00000189377,C-X-C motif chemokine ligand 17,['Q6UXB2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.63e-4'}",0.76
+MSH2,ENSG00000095002,MutS homolog 2,['P43246'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.63e-4'}",0.33
+OAS2,ENSG00000111335,2'-5'-oligoadenylate synthetase 2,['P29728'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.63e-4'}",0.49
+VRK2,ENSG00000028116,VRK serine/threonine kinase 2,['Q86Y07'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.65e-4'}",0.20
+ARPC3,ENSG00000111229,Actin related protein 2/3 complex subunit 3,['O15145'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.67e-4'}",0.21
+SNX6,ENSG00000129515,Sorting nexin 6,['Q9UNH7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.68e-4'}",0.18
+ASAP2,ENSG00000151693,"ArfGAP with SH3 domain, ankyrin repeat and PH domain 2",['O43150'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.68e-4'}",0.41
+KCTD3,ENSG00000136636,Potassium channel tetramerization domain containing 3,['Q9Y597'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.71e-4'}",0.24
+TMEM41A,ENSG00000163900,Transmembrane protein 41A,['Q96HV5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.72e-4'}",0.26
+NCBP2,ENSG00000114503,Nuclear cap binding protein subunit 2,['P52298'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.75e-4'}",0.10
+KIF13B,ENSG00000197892,Kinesin family member 13B,['Q9NQT8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.77e-4'}",0.55
+PAIP1,ENSG00000172239,Poly(A) binding protein interacting protein 1,['Q9H074'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.79e-4'}",0.18
+PLS1,ENSG00000120756,Plastin 1,['Q14651'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.84e-4'}",0.66
+UBE2L6,ENSG00000156587,Ubiquitin conjugating enzyme E2 L6,['O14933'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.88e-4'}",0.19
+C6orf132,ENSG00000188112,Chromosome 6 open reading frame 132,['Q5T0Z8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.90e-4'}",0.68
+EIF2S1,ENSG00000134001,Eukaryotic translation initiation factor 2 subunit alpha,['P05198'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.97e-4'}",0.19
+MPZL3,ENSG00000160588,Myelin protein zero like 3,['Q6UWV2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '4.98e-4'}",0.53
+AADAC,ENSG00000114771,Arylacetamide deacetylase,['P22760'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.02e-4'}",0.84
+WDR76,ENSG00000092470,WD repeat domain 76,['Q9H967'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.02e-4'}",0.58
+FGFBP1,ENSG00000137440,Fibroblast growth factor binding protein 1,['Q14512'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.03e-4'}",0.81
+C19orf33,ENSG00000167644,Chromosome 19 open reading frame 33,['Q9GZP8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.05e-4'}",0.54
+ITGAV,ENSG00000138448,Integrin subunit alpha V,['P06756'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.07e-4'}",0.24
+PLK4,ENSG00000142731,Polo like kinase 4,['O00444'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.14e-4'}",0.72
+CLDN1,ENSG00000163347,Claudin 1,['O95832'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.23e-4'}",0.53
+PRIM2,ENSG00000146143,DNA primase subunit 2,['P49643'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.25e-4'}",0.48
+HTR1D,ENSG00000179546,5-hydroxytryptamine receptor 1D,['P28221'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.30e-4'}",0.91
+SRFBP1,ENSG00000151304,Serum response factor binding protein 1,['Q8NEF9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.31e-4'}",0.22
+IL15RA,ENSG00000134470,Interleukin 15 receptor subunit alpha,['Q13261'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.35e-4'}",0.38
+HAS3,ENSG00000103044,Hyaluronan synthase 3,['O00219'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.36e-4'}",0.72
+MTDH,ENSG00000147649,Metadherin,['Q86UE4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.36e-4'}",0.20
+CHRAC1,ENSG00000104472,Chromatin accessibility complex subunit 1,['Q9NRG0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.43e-4'}",0.19
+SERPINB4,ENSG00000206073,Serpin family B member 4,['P48594'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.48e-4'}",0.87
+ADIPOR1,ENSG00000159346,Adiponectin receptor 1,['Q96A54'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.50e-4'}",0.20
+POLR1B,ENSG00000125630,RNA polymerase I subunit B,['Q9H9Y6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.52e-4'}",0.26
+ADGRF4,ENSG00000153294,Adhesion G protein-coupled receptor F4,['Q8IZF3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.52e-4'}",0.84
+PRSS23,ENSG00000150687,Serine protease 23,['O95084'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.56e-4'}",0.35
+SINHCAF,ENSG00000139146,SIN3-HDAC complex associated factor,['Q9NP50'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.57e-4'}",0.26
+CD58,ENSG00000116815,CD58 molecule,['P19256'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.60e-4'}",0.34
+GINS1,ENSG00000101003,GINS complex subunit 1,['Q14691'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.62e-4'}",0.65
+ACTN4,ENSG00000130402,Actinin alpha 4,['O43707'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.65e-4'}",0.18
+AJUBA,ENSG00000129474,Ajuba LIM protein,['Q96IF1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.67e-4'}",0.49
+ESYT2,ENSG00000117868,Extended synaptotagmin 2,['A0FGR8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.73e-4'}",0.13
+DDX10,ENSG00000178105,DEAD-box helicase 10,['Q13206'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.75e-4'}",0.25
+STAMBP,ENSG00000124356,STAM binding protein,['O95630'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.79e-4'}",0.33
+CSNK1A1,ENSG00000113712,Casein kinase 1 alpha 1,['P48729'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.79e-4'}",0.20
+STK24,ENSG00000102572,Serine/threonine kinase 24,['Q9Y6E0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.81e-4'}",0.21
+EDN2,ENSG00000127129,Endothelin 2,['P20800'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.81e-4'}",0.70
+STK38L,ENSG00000211455,Serine/threonine kinase 38 like,['Q9Y2H1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.82e-4'}",0.28
+MRPL39,ENSG00000154719,Mitochondrial ribosomal protein L39,['Q9NYK5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.84e-4'}",0.23
+KCNK5,ENSG00000164626,Potassium two pore domain channel subfamily K member 5,['O95279'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.85e-4'}",0.55
+BCL2L1,ENSG00000171552,BCL2 like 1,['Q07817'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.87e-4'}",0.17
+FRMD5,ENSG00000171877,FERM domain containing 5,['Q7Z6J6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.89e-4'}",0.84
+GPSM2,ENSG00000121957,G protein signaling modulator 2,['P81274'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.89e-4'}",0.47
+SPP1,ENSG00000118785,Secreted phosphoprotein 1,['P10451'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.89e-4'}",0.55
+MAP3K5,ENSG00000197442,Mitogen-activated protein kinase kinase kinase 5,['Q99683'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.91e-4'}",0.46
+DEFB1,ENSG00000164825,Defensin beta 1,['P60022'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.94e-4'}",0.64
+CASP14,ENSG00000105141,Caspase 14,['P31944'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '5.96e-4'}",0.93
+SLC44A2,ENSG00000129353,Solute carrier family 44 member 2,['Q8IWA5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.01e-4'}",0.20
+UNC13D,ENSG00000092929,Unc-13 homolog D,['Q70J99'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.01e-4'}",0.46
+SFN,ENSG00000175793,Stratifin,['P31947'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.01e-4'}",0.69
+SPTLC3,ENSG00000172296,Serine palmitoyltransferase long chain base subunit 3,['Q9NUV7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.02e-4'}",0.41
+ALDH3B1,ENSG00000006534,Aldehyde dehydrogenase 3 family member B1,['P43353'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.07e-4'}",0.46
+PDZD8,ENSG00000165650,PDZ domain containing 8,['Q8NEN9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.10e-4'}",0.48
+AURKA,ENSG00000087586,Aurora kinase A,['O14965'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.13e-4'}",0.59
+CKS1B,ENSG00000173207,CDC28 protein kinase regulatory subunit 1B,['P61024'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.13e-4'}",0.25
+ANKRD22,ENSG00000152766,Ankyrin repeat domain 22,['Q5VYY1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.15e-4'}",0.72
+HTATIP2,ENSG00000109854,HIV-1 Tat interactive protein 2,['Q9BUP3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.18e-4'}",0.31
+PRR11,ENSG00000068489,Proline rich 11,['Q96HE9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.18e-4'}",0.70
+EXOC4,ENSG00000131558,Exocyst complex component 4,['Q96A65'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.19e-4'}",0.26
+GRHL2,ENSG00000083307,Grainyhead like transcription factor 2,['Q6ISB3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.27e-4'}",0.58
+DPYD,ENSG00000188641,Dihydropyrimidine dehydrogenase,['Q12882'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.27e-4'}",0.40
+NUSAP1,ENSG00000137804,Nucleolar and spindle associated protein 1,['Q9BXS6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.27e-4'}",0.72
+RALA,ENSG00000006451,RAS like proto-oncogene A,['P11233'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.30e-4'}",0.22
+TMEM184C,ENSG00000164168,Transmembrane protein 184C,['Q9NVA4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.37e-4'}",0.44
+ITGB4,ENSG00000132470,Integrin subunit beta 4,['P16144'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.39e-4'}",0.40
+AK2,ENSG00000004455,Adenylate kinase 2,['P54819'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.40e-4'}",0.16
+MGLL,ENSG00000074416,Monoglyceride lipase,['Q99685'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.41e-4'}",0.34
+LIPM,ENSG00000173239,Lipase family member M,['Q5VYY2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.47e-4'}",0.95
+TGIF1,ENSG00000177426,TGFB induced factor homeobox 1,['Q15583'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.47e-4'}",0.22
+ST6GALNAC2,ENSG00000070731,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 2",['Q9UJ37'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.48e-4'}",0.54
+RNF223,ENSG00000237330,Ring finger protein 223,['E7ERA6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.53e-4'}",0.86
+DARS1,ENSG00000115866,Aspartyl-tRNA synthetase 1,['P14868'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.54e-4'}",0.18
+ZDHHC20,ENSG00000180776,Zinc finger DHHC-type palmitoyltransferase 20,['Q5W0Z9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.55e-4'}",0.30
+PBK,ENSG00000168078,PDZ binding kinase,['Q96KB5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.56e-4'}",0.80
+C16orf87,ENSG00000155330,Chromosome 16 open reading frame 87,['Q6PH81'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.57e-4'}",0.44
+MUCL3,ENSG00000168631,Mucin like 3,['Q3MIW9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.58e-4'}",0.95
+FERMT1,ENSG00000101311,FERM domain containing kindlin 1,['Q9BQL6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.60e-4'}",0.66
+PICALM,ENSG00000073921,Phosphatidylinositol binding clathrin assembly protein,['Q13492'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.61e-4'}",0.13
+ARHGAP32,ENSG00000134909,Rho GTPase activating protein 32,['A7KAX9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.64e-4'}",0.37
+MSLN,ENSG00000102854,Mesothelin,['Q13421'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.66e-4'}",0.71
+CDCA4,ENSG00000170779,Cell division cycle associated 4,['Q9BXL8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.67e-4'}",0.60
+DCLRE1B,ENSG00000118655,DNA cross-link repair 1B,['Q9H816'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.70e-4'}",0.43
+SLAIN2,ENSG00000109171,SLAIN motif family member 2,['Q9P270'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.71e-4'}",0.32
+ARL14,ENSG00000179674,ADP ribosylation factor like GTPase 14,['Q8N4G2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.71e-4'}",0.87
+PPTC7,ENSG00000196850,Protein phosphatase targeting COQ7,['Q8NI37'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.76e-4'}",0.42
+PPP1R14B,ENSG00000173457,Protein phosphatase 1 regulatory inhibitor subunit 14B,['Q96C90'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.77e-4'}",0.26
+LHB,ENSG00000104826,Luteinizing hormone subunit beta,['P01229'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.78e-4'}",0.92
+RTP4,ENSG00000136514,Receptor transporter protein 4,['Q96DX8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.83e-4'}",0.41
+CKS2,ENSG00000123975,CDC28 protein kinase regulatory subunit 2,['P33552'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.85e-4'}",0.43
+IL1RN,ENSG00000136689,Interleukin 1 receptor antagonist,['P18510'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.85e-4'}",0.66
+KIF2C,ENSG00000142945,Kinesin family member 2C,['Q99661'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.86e-4'}",0.75
+LRRC59,ENSG00000108829,Leucine rich repeat containing 59,['Q96AG4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.87e-4'}",0.23
+OCIAD2,ENSG00000145247,OCIA domain containing 2,['Q56VL3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.89e-4'}",0.37
+PI3,ENSG00000124102,Peptidase inhibitor 3,['P19957'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.89e-4'}",0.72
+GRB7,ENSG00000141738,Growth factor receptor bound protein 7,['Q14451'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.90e-4'}",0.51
+UBE2C,ENSG00000175063,Ubiquitin conjugating enzyme E2 C,['O00762'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.91e-4'}",0.66
+NUDCD1,ENSG00000120526,NudC domain containing 1,['Q96RS6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.94e-4'}",0.28
+EHF,ENSG00000135373,ETS homologous factor,['Q9NZC4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.94e-4'}",0.55
+MTHFD1,ENSG00000100714,"Methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1",['P11586'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '6.96e-4'}",0.49
+CRCT1,ENSG00000169509,Cysteine rich C-terminal 1,['Q9UGL9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.03e-4'}",0.86
+HMGB2,ENSG00000164104,High mobility group box 2,['P26583'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.04e-4'}",0.45
+HBEGF,ENSG00000113070,Heparin binding EGF like growth factor,['Q99075'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.09e-4'}",0.41
+SMNDC1,ENSG00000119953,Survival motor neuron domain containing 1,['O75940'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.20e-4'}",0.24
+EARS2,ENSG00000103356,"Glutamyl-tRNA synthetase 2, mitochondrial",['Q5JPH6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.20e-4'}",0.37
+XKR9,ENSG00000221947,XK related 9,['Q5GH70'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.20e-4'}",0.77
+SLC10A3,ENSG00000126903,Solute carrier family 10 member 3,['P09131'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.22e-4'}",0.22
+RBMXL1,ENSG00000213516,RBMX like 1,['Q96E39'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.26e-4'}",0.26
+PUDP,ENSG00000130021,Pseudouridine 5'-phosphatase,['Q08623'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.27e-4'}",0.33
+KCNK1,ENSG00000135750,Potassium two pore domain channel subfamily K member 1,['O00180'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.29e-4'}",0.52
+FXR1,ENSG00000114416,FMR1 autosomal homolog 1,['P51114'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.30e-4'}",0.44
+CXorf38,ENSG00000185753,Chromosome X open reading frame 38,['Q8TB03'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.30e-4'}",0.28
+RFC4,ENSG00000163918,Replication factor C subunit 4,['P35249'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.38e-4'}",0.36
+CHMP3,ENSG00000115561,Charged multivesicular body protein 3,['Q9Y3E7'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.39e-4'}",0.13
+SPATS2L,ENSG00000196141,Spermatogenesis associated serine rich 2 like,['Q9NUQ6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.43e-4'}",0.23
+YWHAG,ENSG00000170027,Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma,['P61981'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.44e-4'}",0.32
+EMP1,ENSG00000134531,Epithelial membrane protein 1,['P54849'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.46e-4'}",0.45
+CDKN3,ENSG00000100526,Cyclin dependent kinase inhibitor 3,['Q16667'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.46e-4'}",0.71
+NSD3,ENSG00000147548,Nuclear receptor binding SET domain protein 3,['Q9BZ95'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.48e-4'}",0.25
+IL11,ENSG00000095752,Interleukin 11,['P20809'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.50e-4'}",0.69
+MCM8,ENSG00000125885,Minichromosome maintenance 8 homologous recombination repair factor,['Q9UJA3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.50e-4'}",0.47
+GPR39,ENSG00000183840,G protein-coupled receptor 39,['O43194'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.50e-4'}",0.65
+NLN,ENSG00000123213,Neurolysin,['Q9BYT8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.51e-4'}",0.48
+FAM83B,ENSG00000168143,Family with sequence similarity 83 member B,['Q5T0W9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.60e-4'}",0.74
+KIAA1217,ENSG00000120549,KIAA1217,['Q5T5P2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.63e-4'}",0.40
+PIGA,ENSG00000165195,Phosphatidylinositol glycan anchor biosynthesis class A,['P37287'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.64e-4'}",0.43
+TMC7,ENSG00000170537,Transmembrane channel like 7,['Q7Z402'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.64e-4'}",0.71
+GALNT7,ENSG00000109586,Polypeptide N-acetylgalactosaminyltransferase 7,['Q86SF2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.65e-4'}",0.41
+FAM149B1,ENSG00000138286,Family with sequence similarity 149 member B1,['Q96BN6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.81e-4'}",0.22
+KLK6,ENSG00000167755,Kallikrein related peptidase 6,['Q92876'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.82e-4'}",0.82
+SNAI2,ENSG00000019549,Snail family transcriptional repressor 2,['O43623'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.83e-4'}",0.36
+OSBPL3,ENSG00000070882,Oxysterol binding protein like 3,['Q9H4L5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.88e-4'}",0.42
+VANGL1,ENSG00000173218,VANGL planar cell polarity protein 1,['Q8TAA9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.89e-4'}",0.36
+MYO1E,ENSG00000157483,Myosin IE,['Q12965'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '7.99e-4'}",0.23
+CTNNA1,ENSG00000044115,Catenin alpha 1,['P35221'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.02e-4'}",0.13
+COPB1,ENSG00000129083,COPI coat complex subunit beta 1,['P53618'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.04e-4'}",0.09
+RNF169,ENSG00000166439,Ring finger protein 169,['Q8NCN4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.04e-4'}",0.35
+CEBPZ,ENSG00000115816,CCAAT enhancer binding protein zeta,['Q03701'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.13e-4'}",0.17
+ITPRID2,ENSG00000138434,ITPR interacting domain containing 2,['P28290'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.19e-4'}",0.32
+PPFIA1,ENSG00000131626,PTPRF interacting protein alpha 1,['Q13136'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.26e-4'}",0.17
+NET1,ENSG00000173848,Neuroepithelial cell transforming 1,['Q7Z628'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.27e-4'}",0.22
+RNF168,ENSG00000163961,Ring finger protein 168,['Q8IYW5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.31e-4'}",0.35
+CDCA8,ENSG00000134690,Cell division cycle associated 8,['Q53HL2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.32e-4'}",0.70
+CAB39,ENSG00000135932,Calcium binding protein 39,['Q9Y376'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.33e-4'}",0.30
+PGK1,ENSG00000102144,Phosphoglycerate kinase 1,['P00558'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.34e-4'}",0.23
+AGPS,ENSG00000018510,Alkylglycerone phosphate synthase,['O00116'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.35e-4'}",0.21
+DNAJC13,ENSG00000138246,DnaJ heat shock protein family (Hsp40) member C13,['O75165'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.36e-4'}",0.14
+PARD6B,ENSG00000124171,Par-6 family cell polarity regulator beta,['Q9BYG5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.38e-4'}",0.57
+CDH3,ENSG00000062038,Cadherin 3,['P22223'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.43e-4'}",0.62
+TMEM144,ENSG00000164124,Transmembrane protein 144,['Q7Z5S9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.48e-4'}",0.60
+NCAPG2,ENSG00000146918,Non-SMC condensin II complex subunit G2,['Q86XI2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.50e-4'}",0.52
+MXD1,ENSG00000059728,MAX dimerization protein 1,['Q05195'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.50e-4'}",0.53
+ELOVL1,ENSG00000066322,ELOVL fatty acid elongase 1,['Q9BW60'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.51e-4'}",0.33
+CCNG2,ENSG00000138764,Cyclin G2,['Q16589'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.57e-4'}",0.28
+UBE2K,ENSG00000078140,Ubiquitin conjugating enzyme E2 K,['P61086'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.60e-4'}",0.21
+HMGA1,ENSG00000137309,High mobility group AT-hook 1,['P17096'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.71e-4'}",0.34
+BHLHE40,ENSG00000134107,Basic helix-loop-helix family member e40,['O14503'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.74e-4'}",0.23
+WDR3,ENSG00000065183,WD repeat domain 3,['Q9UNX4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.82e-4'}",0.23
+ZBED2,ENSG00000177494,Zinc finger BED-type containing 2,['Q9BTP6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.83e-4'}",0.84
+ENDOD1,ENSG00000149218,Endonuclease domain containing 1,['O94919'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.86e-4'}",0.27
+SF3B6,ENSG00000115128,Splicing factor 3b subunit 6,['Q9Y3B4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.92e-4'}",0.16
+U2SURP,ENSG00000163714,U2 snRNP associated SURP domain containing,['O15042'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.92e-4'}",0.24
+CDC45,ENSG00000093009,Cell division cycle 45,['O75419'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.94e-4'}",0.76
+DTX3L,ENSG00000163840,Deltex E3 ubiquitin ligase 3L,['Q8TDB6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '8.99e-4'}",0.30
+H2BC4,ENSG00000180596,H2B clustered histone 4,['P62807'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.01e-4'}",0.45
+SRI,ENSG00000075142,Sorcin,['P30626'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.03e-4'}",0.31
+LOXL2,ENSG00000134013,Lysyl oxidase like 2,['Q9Y4K0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.05e-4'}",0.46
+MED15,ENSG00000099917,Mediator complex subunit 15,['Q96RN5'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.09e-4'}",0.21
+DR1,ENSG00000117505,Down-regulator of transcription 1,['Q01658'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.11e-4'}",0.24
+MBOAT1,ENSG00000172197,Membrane bound O-acyltransferase domain containing 1,['Q6ZNC8'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.15e-4'}",0.36
+ARMC1,ENSG00000104442,Armadillo repeat containing 1,['Q9NVT9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.15e-4'}",0.13
+ERBB2,ENSG00000141736,Erb-b2 receptor tyrosine kinase 2,['P04626'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.17e-4'}",0.26
+CIP2A,ENSG00000163507,Cellular inhibitor of PP2A,['Q8TCG1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.18e-4'}",0.62
+OASL,ENSG00000135114,2'-5'-oligoadenylate synthetase like,['Q15646'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.20e-4'}",0.70
+GFM1,ENSG00000168827,G elongation factor mitochondrial 1,['Q96RP9'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.20e-4'}",0.23
+WDHD1,ENSG00000198554,WD repeat and HMG-box DNA binding protein 1,['O75717'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.24e-4'}",0.59
+CYP4F11,ENSG00000171903,Cytochrome P450 family 4 subfamily F member 11,['Q9HBI6'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.28e-4'}",0.73
+EI24,ENSG00000149547,EI24 autophagy associated transmembrane protein,['O14681'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.28e-4'}",0.34
+ARHGAP42,ENSG00000165895,Rho GTPase activating protein 42,['A6NI28'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.29e-4'}",0.52
+EPB41L1,ENSG00000088367,Erythrocyte membrane protein band 4.1 like 1,['Q9H4G0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.30e-4'}",0.30
+XRN1,ENSG00000114127,5'-3' exoribonuclease 1,['Q8IZH2'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.43e-4'}",0.28
+TNFSF10,ENSG00000121858,TNF superfamily member 10,['P50591'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.43e-4'}",0.30
+NOTCH2,ENSG00000134250,Notch receptor 2,['Q04721'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.48e-4'}",0.18
+NTN4,ENSG00000074527,Netrin 4,['Q9HB63'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.50e-4'}",0.41
+MT2A,ENSG00000125148,Metallothionein 2A,['P02795'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.52e-4'}",0.29
+ABCC3,ENSG00000108846,ATP binding cassette subfamily C member 3,['O15438'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.57e-4'}",0.65
+ARHGAP29,ENSG00000137962,Rho GTPase activating protein 29,['Q52LW3'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.63e-4'}",0.33
+MYL12B,ENSG00000118680,Myosin light chain 12B,['O14950'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.69e-4'}",0.10
+HNRNPL,ENSG00000104824,Heterogeneous nuclear ribonucleoprotein L,['P14866'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.69e-4'}",0.14
+SLC6A14,ENSG00000268104,Solute carrier family 6 member 14,['Q9UN76'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.74e-4'}",0.81
+ZC3H15,ENSG00000065548,Zinc finger CCCH-type containing 15,['Q8WU90'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.75e-4'}",0.23
+NUF2,ENSG00000143228,NUF2 component of NDC80 kinetochore complex,['Q9BZD4'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.75e-4'}",0.78
+GMNN,ENSG00000112312,Geminin DNA replication inhibitor,['O75496'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.77e-4'}",0.48
+OSBPL8,ENSG00000091039,Oxysterol binding protein like 8,['Q9BZF1'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.79e-4'}",0.22
+FGF2,ENSG00000138685,Fibroblast growth factor 2,['P09038'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.85e-4'}",0.44
+TC2N,ENSG00000165929,"Tandem C2 domains, nuclear",['Q8N9U0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.86e-4'}",0.52
+ROCK1,ENSG00000067900,Rho associated coiled-coil containing protein kinase 1,['Q13464'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.93e-4'}",0.43
+PHF6,ENSG00000156531,PHD finger protein 6,['Q8IWS0'],"{'prognostic type': 'unfavorable', 'is_prognostic': True, 'p_val': '9.96e-4'}",0.34
