@@ -1,9 +1,9 @@
 from tqdm import tqdm
 
 # Path to the interacted proteins CSV file
-interacted_proteins_file = r"C:\Users\George\Desktop\ISEF datasets\Homo Sapien PPIN\PPIN_UniProt.csv"
-disease_related_proteins_file = r"C:\Users\George\Desktop\ISEF datasets\Pancreate cancer database\prognostic_protein_UniProt.csv"
-unmatched_proteins_file = r"C:\Users\George\Desktop\ISEF datasets\Homo Sapien PPIN\Left_unmatched_proteins.csv"
+interacted_proteins_file = r"C:\Users\George\Desktop\ISEF-2023\Datas\ISEF datasets\Homo Sapien PPIN\PPIN_UniProt.csv"
+disease_related_proteins_file = r"C:\Users\George\Desktop\ISEF-2023\Datas\ISEF datasets\Pancreate cancer database\prognostic_protein_UniProt.csv"
+unmatched_proteins_file = r"C:\Users\George\Desktop\ISEF-2023\Datas\ISEF datasets\Homo Sapien PPIN\Left_unmatched_proteins.csv"
 
 # Read the disease-related proteins CSV file and store them in a list
 disease_related_proteins = []

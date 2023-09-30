@@ -1,9 +1,9 @@
 import pandas as pd
 
 # Replace these with your actual file paths.
-ppin_file = r"C:\Users\George\Desktop\ISEF datasets\Homo Sapien PPIN\PPIN edges\9606.protein.links.detailed.v12.0.csv"
-idmapping_file = r"C:\Users\George\Desktop\ISEF datasets\Homo Sapien PPIN\idmapping_2023_09_24.csv"
-output_file = r"C:\Users\George\Desktop\ISEF datasets\Homo Sapien PPIN\PPIN_UniProt.csv"
+ppin_file = r"C:\Users\George\Desktop\ISEF-2023\Datas\ISEF datasets\Homo Sapien PPIN\PPIN edges\9606.protein.links.detailed.v12.0.csv"
+idmapping_file = r"C:\Users\George\Desktop\ISEF-2023\Datas\ISEF datasets\Homo Sapien PPIN\updated_idmapping.csv"
+output_file = r"C:\Users\George\Desktop\ISEF-2023\Datas\ISEF datasets\Homo Sapien PPIN\PPIN_UniProt.csv"
 
 # Read the idmapping CSV file into a DataFrame considering only the 'From' and 'Entry' columns.
 idmapping_df = pd.read_csv(idmapping_file, usecols=['From', 'Entry'])
