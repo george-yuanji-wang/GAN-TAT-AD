@@ -2,7 +2,7 @@ Number of rows: 17705817
 Number of columns: 7
 
 Summary statistics:
-Column	Type	Minimum	Maximum	Average
+Column		Type	Minimum	Maximum	Average
 chemical1		string	inf	-inf	0.0
 chemical2		string	inf	-inf	0.0
 similarity		int	0.0	999.0	44.24
