@@ -40,6 +40,21 @@ encoded_sequences = np.array(encoded_sequences, dtype=object)
 
 print("Memory size of encoded_sequences array: {} bytes".format(encoded_sequences.nbytes))
 
+print(encoded_sequences[0][0])
+
+lengths = np.vectorize(len)(encoded_sequences)
+
+# Calculate max and min
+max_length = np.max(lengths, axis=0)
+min_length = np.min(lengths, axis=0)
+
+# Calculate median, mean, and mode
+median_length = np.median(lengths, axis=0)
+mean_length = np.mean(lengths, axis=0)
+
+print(max_length,min_length, median_length, mean_length)
+
+
 np.save(r'/Users/michelle/jupyter/ISEF/Data processing/Amino Acid Sequence Encoder/encoded_sequences.py', encoded_sequences)
 
 
