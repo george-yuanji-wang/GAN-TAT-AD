@@ -4,7 +4,7 @@ import json
 json_file_path1 = r'C:\Users\George\Desktop\ISEF-2023\Datas\Node list\data processing\DTI_protein_list copy.json'
 json_file_path2 = r'C:\Users\George\Desktop\ISEF-2023\Datas\Node list\data processing\enzyme_list copy.json'
 json_file_path3 = r'C:\Users\George\Desktop\ISEF-2023\Datas\Node list\data processing\signal_protein_list copy.json'
-json_file_path4 = r'C:\Users\George\Desktop\ISEF-2023\Datas\Sequence encoder\back up data\uniprot_protein_list copy.json'
+json_file_path4 = r'C:\Users\George\Desktop\ISEF-2023\Datas\PPI\data_cleaning\protein_list.json'
 merged_json_file_path = r'C:\Users\George\Desktop\ISEF-2023\Datas\Node list\data processing\merged_protein_file.json'  # Provide a path for the merged JSON file
 
 # Read data from the first JSON file
