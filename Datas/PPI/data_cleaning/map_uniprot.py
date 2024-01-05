@@ -47,7 +47,7 @@ def map_ensp_to_uniprot(mapping_file, input_file, output_file):
 mapping_file_path = r'C:\Users\George\Desktop\ISEF-2023\Datas\PPI\data_cleaning\idmapping_2023_12_10.tsv'
 
 # Provide the path to your input file
-input_file_path = r'C:\Users\George\Desktop\ISEF-2023\Datas\PPI\data_cleaning\9606.protein.physical.links.full.v12.0.csv'
+input_file_path = r'C:\Users\George\Desktop\ISEF-2023\Datas\PPI\data_cleaning\new9606.protein.physical.links.full.v12.0.csv'
 
 # Provide the path for the output file
 output_file_path = r'C:\Users\George\Desktop\ISEF-2023\Datas\PPI\data_cleaning\PPI_raw.csv'

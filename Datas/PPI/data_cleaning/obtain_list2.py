@@ -22,6 +22,7 @@ input_file_path = r'C:\Users\George\Desktop\ISEF-2023\Datas\PPI\data_cleaning\PP
 # Call the function to process the CSV and get the list of proteins
 protein_list = process_csv(input_file_path)
 
+print(len(protein_list))
 # Store the protein list as JSON
 output_file_path = r'C:\Users\George\Desktop\ISEF-2023\Datas\PPI\data_cleaning\protein_list.json'
 with open(output_file_path, 'w') as output_file:

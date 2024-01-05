@@ -11,4 +11,4 @@ data = data[data['textmining'] > 200]
 data = data.reset_index(drop=True)
 
 # Save the updated dataset as a new CSV file
-data.to_csv(r'C:\Users\George\Desktop\ISEF-2023\Datas\PPI\data_cleaning\9606.protein.physical.links.full.v12.0.csv', index=False)
+data.to_csv(r'C:\Users\George\Desktop\ISEF-2023\Datas\PPI\data_cleaning\new9606.protein.physical.links.full.v12.0.csv', index=False)
