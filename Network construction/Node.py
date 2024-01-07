@@ -1,8 +1,9 @@
 class Node:
     def __init__(self, node_type, node_id, attributes=None):
-        self.node_type = node_type #Reaction, Compound, Protein
+        self.node_type = node_type #Reaction, Compound, Protein, Drug
         self.node_id = node_id
         self.attributes = {"node_id": node_id}
+        self.neighbors = []
 
     def update_attributes(self, attribute_type, attribute):
         # Method to update node attributes
@@ -12,6 +13,8 @@ class Node:
         else:
             self.attributes[attribute_type] = attribute
             print("New Attribute type {attribute_type} added")
+
+    def add_neighbors(self, neighbors):
 
     def get_all_attributes(self):
         # Method to get node attributes

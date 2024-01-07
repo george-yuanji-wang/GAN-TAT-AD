@@ -2,3 +2,6 @@ PPI_matrix.txt filter=lfs diff=lfs merge=lfs -text
 STP_adj_matrix.txt filter=lfs diff=lfs merge=lfs -text
 C:/Users/George/Desktop/ISEF-2023/Model/matrix/PPI_matrix.txt filter=lfs diff=lfs merge=lfs -text
 C:/Users/George/Desktop/ISEF-2023/Model/matrix/STP_adj_matrix.txt filter=lfs diff=lfs merge=lfs -text
+C:/Users/George/Desktop/ISEF-2023/Model/matrix/_PPSS_matrix.txt filter=lfs diff=lfs merge=lfs -text
+Model/matrix/_PPSS_matrix.txt filter=lfs diff=lfs merge=lfs -text
+Model/matrix/SPP_identity_matrix.txt filter=lfs diff=lfs merge=lfs -text

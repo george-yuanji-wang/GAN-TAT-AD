@@ -20,6 +20,10 @@ class Network:
         if edge.edge_id not in self.edges[edge.edge_type]:
             self.edges[edge.edge_type][edge.edge_id] = edge
 
+    def find_neighbors(self, node_type, node_id):
+        a = self.nodes[node_type]
+        node = a[node_id]
+
     def visualize(self):
         # Method to visualize the heterogeneous graph
         # You can implement this using a library like NetworkX or any other of your choice
@@ -30,12 +34,3 @@ class Network:
         # This can involve processing the graph structure to create input features and labels
         pass
 
-test = Network()
-a = nn.Node("A", 1)
-b = nn.Node("B", 2)
-
-ed = ee.Edge("PP", 1, a, b)
-test.add_node(a)
-test.add_node(b)
-
-test.add_edge(ed)
