@@ -24,9 +24,9 @@ with open(node_list_path, 'r') as file:
 path = r'C:\Users\George\Desktop\ISEF-2023\Model\matrix\_PPSS.txt'
 matrix = np.loadtxt(path)
 print(matrix.sum())
-
+graph = r'C:\Users\George\Desktop\ISEF-2023\Network construction\PPI_homo_graph_features_loaded.graphml'
 # Create an igraph object
-PPI_graph = ig.Graph.Adjacency(matrix.tolist(), mode=ig.ADJ_DIRECTED)
+PPI_graph = ig.Graph.load(graph, format='graphml')
 
 # Set node names for igraph graph
 PPI_graph.vs['name'] = node_list
