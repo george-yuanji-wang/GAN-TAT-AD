@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from imblearn.over_sampling import SMOTE
 from sklearn.ensemble import RandomForestClassifier
 
-csv_file_path = r'C:\Users\George\Desktop\ISEF-2023\Model\test\node2vec\node2vec_embedding.csv'
+csv_file_path = r'C:\Users\George\Desktop\ISEF-2023\Model\test\GAE_PPI\embed_33.csv'
 json_file_path = r'C:\Users\George\Desktop\ISEF-2023\Datas\labels\alzheimer_disease\label_dictionary.json'
 json_file_path2 = r'C:\Users\George\Desktop\ISEF-2023\Datas\Node list\back up\current_protein_Signal+meta+targets.json'
 # Load the embedding DataFrame

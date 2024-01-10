@@ -44,7 +44,7 @@ with open(node_list_file_4, 'r') as f:
     Compounds = json.load(f)
 
 # Create an empty graph
-HetG = ig.Graph()
+HetG = ig.Graph(directed=True)
 
 # Add Drugs as nodes
 for drug in Drugs:
@@ -111,5 +111,5 @@ for drug, proteins in DTI.items():
 
 # Print the summary of the graph
 print(HetG.summary())
-graph_file = r"C:\Users\George\Desktop\ISEF-2023\Network construction\het_graph.graphml"
+graph_file = r"C:\Users\George\Desktop\ISEF-2023\Network construction\Het_graph_initialize.graphml"
 HetG.save(graph_file, format="graphml")

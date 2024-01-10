@@ -1,0 +1,10 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1, "at": 1704866853.5746977}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2, "at": 1704866853.575698}
+{"obj": {"type": "AssignString", "path": ["monitoring", "cf74fd3a", "hostname"], "value": "DESKTOP-IPGEGTE"}, "version": 3, "at": 1704866853.575698}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "DESKTOP-IPGEGTE"}, "version": 4, "at": 1704866853.575698}
+{"obj": {"type": "AssignString", "path": ["monitoring", "cf74fd3a", "pid"], "value": "25324"}, "version": 5, "at": 1704866853.575698}
+{"obj": {"type": "AssignString", "path": ["monitoring", "cf74fd3a", "tid"], "value": "27736"}, "version": 6, "at": 1704866853.575698}
+{"obj": {"type": "AssignBool", "path": ["sys", "failed"], "value": false}, "version": 7, "at": 1704866853.575698}
+{"obj": {"type": "AssignInt", "path": ["parameters", "num_features"], "value": 26}, "version": 8, "at": 1704866853.5887012}
+{"obj": {"type": "AssignInt", "path": ["parameters", "epochs"], "value": 1000}, "version": 9, "at": 1704866853.5887012}
+{"obj": {"type": "AssignFloat", "path": ["parameters", "lr"], "value": 0.0005}, "version": 10, "at": 1704866853.5897012}

@@ -10,9 +10,6 @@ import matplotlib.pyplot as plt
 from imblearn.over_sampling import SMOTE
 
 
-
-csv_file_path = r'C:\Users\George\Desktop\ISEF-2023\Model\test\node2vec\node2vec_embedding.csv'
-
 def run_KNNss_100(csv_file_path):
     json_file_path = r'C:\Users\George\Desktop\ISEF-2023\Datas\labels\alzheimer_disease\label_dictionary.json'
     json_file_path2 = r'C:\Users\George\Desktop\ISEF-2023\Datas\Node list\back up\current_protein_Signal+meta+targets.json'
@@ -157,6 +154,3 @@ def run_KNNss_100(csv_file_path):
         plt.scatter(fpr[idx], tpr[idx], marker='o', label=f'Threshold = {threshold:.2f}')
     plt.legend(loc='lower right')
     plt.show()
-
-
-run_KNNss_100(csv_file_path)

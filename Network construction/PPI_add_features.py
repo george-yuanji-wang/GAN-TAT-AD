@@ -3,6 +3,7 @@ import json
 import numpy as np
 import pandas as pd
 import csv
+import math
 
 PPI = ig.Graph.Load(r'C:\Users\George\Desktop\ISEF-2023\Network construction\PPI_homo_graph_initialize.graphml', format='graphml')
 print(PPI.summary())
@@ -14,6 +15,7 @@ i=0
 pagerank = PPI.pagerank()
 cluster_coeffs = PPI.transitivity_local_undirected(mode="zero")
 nnd = PPI.neighborhood_size(order=1, mode="all")
+betweenness = PPI.betweenness(directed=True)
 for index, row in df_proteins.iterrows():
     protein_id = row["Protein"]
     
@@ -23,15 +25,17 @@ for index, row in df_proteins.iterrows():
     # Calculate Indegree for protein nodes
     protein_indegree = PPI.degree(node_index, mode="in")
     protein_outdegree = PPI.degree(node_index, mode="out")
-    #protein_betweenness = PPI.betweenness(vertices=node_index)
     protein_closeness = PPI.closeness(vertices=node_index)
+    if math.isnan(protein_closeness):
+        protein_closeness = 0
     protein_pagerank = pagerank[node_index]
     protein_cluster_coefficients = cluster_coeffs[node_index]
     protein_nnd = nnd[node_index]
+    protein_betweenness = betweenness[node_index]
 
     PPI.vs[node_index]["Indegree"] = protein_indegree
     PPI.vs[node_index]["Outdegree"] = protein_outdegree
-    #PPI.vs[node_index]["Betweenness"] = protein_betweenness
+    PPI.vs[node_index]["Betweenness"] = protein_betweenness
     PPI.vs[node_index]["Closeness"] = protein_closeness
     PPI.vs[node_index]["Pagerank"] = protein_pagerank
     PPI.vs[node_index]["Cluster_coefficients"] = protein_cluster_coefficients
@@ -68,7 +72,7 @@ for index, row in df_proteins.iterrows():
 
 
 # Assuming you want to check the status of the first few nodes
-selected_nodes = PPI.vs[2534:2539]  # Change the slice as needed
+selected_nodes = PPI.vs[45:55]  # Change the slice as needed
 
 # Print information for each selected node
 for node in selected_nodes:
@@ -76,7 +80,7 @@ for node in selected_nodes:
     print(f"Protein ID: {node['name']}")
     print(f"Indegree: {node['Indegree']}")
     print(f"Outdegree: {node['Outdegree']}")
-    #print(f"Betweenness: {node['Betweenness']}")
+    print(f"Betweenness: {node['Betweenness']}")
     print(f"Closeness: {node['Closeness']}")
     print(f"Pagerank: {node['Pagerank']}")
     print(f"Cluster Coefficients: {node['Cluster_coefficients']}")
