@@ -154,3 +154,5 @@ def run_KNNss_100(csv_file_path):
         plt.scatter(fpr[idx], tpr[idx], marker='o', label=f'Threshold = {threshold:.2f}')
     plt.legend(loc='lower right')
     plt.show()
+
+run_KNNss_100(r'C:\Users\George\Desktop\ISEF-2023\Model\test\node2vec_PPI\node2vec_embedding_100walks.csv')
