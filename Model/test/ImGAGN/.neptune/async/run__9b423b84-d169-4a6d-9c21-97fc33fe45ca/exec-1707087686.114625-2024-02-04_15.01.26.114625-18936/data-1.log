@@ -1,0 +1,29 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1, "at": 1707087686.5082633}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2, "at": 1707087686.509263}
+{"obj": {"type": "AssignString", "path": ["monitoring", "9c13ae5c", "hostname"], "value": "DESKTOP-IPGEGTE"}, "version": 3, "at": 1707087686.509263}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "DESKTOP-IPGEGTE"}, "version": 4, "at": 1707087686.509263}
+{"obj": {"type": "AssignString", "path": ["monitoring", "9c13ae5c", "pid"], "value": "18936"}, "version": 5, "at": 1707087686.509263}
+{"obj": {"type": "AssignString", "path": ["monitoring", "9c13ae5c", "tid"], "value": "6196"}, "version": 6, "at": 1707087686.509263}
+{"obj": {"type": "AssignBool", "path": ["sys", "failed"], "value": false}, "version": 7, "at": 1707087686.509263}
+{"obj": {"type": "AssignInt", "path": ["parameters", "ratio"], "value": 2}, "version": 8, "at": 1707087686.5202665}
+{"obj": {"type": "AssignInt", "path": ["parameters", "epochs"], "value": 30}, "version": 9, "at": 1707087686.5202665}
+{"obj": {"type": "AssignString", "path": ["parameters", "layer_channels"], "value": "[52, 26]"}, "version": 10, "at": 1707087686.5212657}
+{"obj": {"type": "AssignFloat", "path": ["parameters", "lr"], "value": 0.001}, "version": 11, "at": 1707087686.5212657}
+{"obj": {"type": "AssignFloat", "path": ["parameters", "dropout"], "value": 0.5}, "version": 12, "at": 1707087686.5212657}
+{"obj": {"type": "AssignFloat", "path": ["parameters", "Weight_decay"], "value": 0.003}, "version": 13, "at": 1707087686.5212657}
+{"obj": {"type": "AssignInt", "path": ["parameters", "epoch"], "value": 30}, "version": 14, "at": 1707087686.5212657}
+{"obj": {"type": "AssignInt", "path": ["parameters", "layer_type"], "value": 2}, "version": 15, "at": 1707087686.5222669}
+{"obj": {"type": "AssignInt", "path": ["parameters", "discriminator_type"], "value": 1}, "version": 16, "at": 1707087686.5222669}
+{"obj": {"type": "AssignFloat", "path": ["parameters", "alpha"], "value": 0.2}, "version": 17, "at": 1707087686.5222669}
+{"obj": {"type": "LogFloats", "path": ["test_AUC"], "values": [{"value": 0.6956497948016416, "step": null, "ts": 1707087702.1914594}]}, "version": 18, "at": 1707087702.1914594}
+{"obj": {"type": "LogFloats", "path": ["test_acc"], "values": [{"value": 0.42515779981965734, "step": null, "ts": 1707087702.1914594}]}, "version": 19, "at": 1707087702.1914594}
+{"obj": {"type": "LogFloats", "path": ["test_f1"], "values": [{"value": 0.027459954233409613, "step": null, "ts": 1707087702.1914594}]}, "version": 20, "at": 1707087702.1914594}
+{"obj": {"type": "LogFloats", "path": ["train", "epoch"], "values": [{"value": 29.0, "step": null, "ts": 1707087702.1914594}]}, "version": 21, "at": 1707087702.1914594}
+{"obj": {"type": "LogFloats", "path": ["test_AUC"], "values": [{"value": 0.7114090287277701, "step": null, "ts": 1707087717.7611966}]}, "version": 22, "at": 1707087717.7611966}
+{"obj": {"type": "LogFloats", "path": ["test_acc"], "values": [{"value": 0.7980162308385933, "step": null, "ts": 1707087717.7611966}]}, "version": 23, "at": 1707087717.762198}
+{"obj": {"type": "LogFloats", "path": ["test_f1"], "values": [{"value": 0.04680851063829787, "step": null, "ts": 1707087717.762198}]}, "version": 24, "at": 1707087717.762198}
+{"obj": {"type": "LogFloats", "path": ["train", "epoch"], "values": [{"value": 29.0, "step": null, "ts": 1707087717.762198}]}, "version": 25, "at": 1707087717.762198}
+{"obj": {"type": "LogFloats", "path": ["test_AUC"], "values": [{"value": 0.7204559963520292, "step": null, "ts": 1707087734.6501389}]}, "version": 26, "at": 1707087734.6501389}
+{"obj": {"type": "LogFloats", "path": ["test_acc"], "values": [{"value": 0.890892696122633, "step": null, "ts": 1707087734.6501389}]}, "version": 27, "at": 1707087734.6501389}
+{"obj": {"type": "LogFloats", "path": ["test_f1"], "values": [{"value": 0.06923076923076923, "step": null, "ts": 1707087734.6511397}]}, "version": 28, "at": 1707087734.6511397}
+{"obj": {"type": "LogFloats", "path": ["train", "epoch"], "values": [{"value": 29.0, "step": null, "ts": 1707087734.6511397}]}, "version": 29, "at": 1707087734.6511397}
