@@ -95,7 +95,42 @@ rf = RandomForestClassifier()
 svc = SVC()
 knn = KNeighborsClassifier()
 
+model = rf
+
+model.fit(X_train_smote, y_train_smote)
+y_pred = model.predict(X_test)
+y_prob = model.predict_proba(X)
+fpr, tpr, auc_score = compute_roc_auc(model, X_test, y_test)
+name = 'Random Forest'
+print(f"{name} AUC-ROC: {auc_score:.2f}")
+plot_roc_curve(fpr, tpr, name, auc_score)
+print(f"{name} Classification Report:\n{classification_report(y_test, y_pred)}")
+print(f"{name} Confusion Matrix:\n{confusion_matrix(y_test, y_pred)}\n")
+
+
+prob = y_prob[:, 1]
+names = np.array(PPI_graph.vs["name"])
+
+print(prob.shape, names.shape)
+
+output = pd.DataFrame({
+    "Name": names,
+    "Probability": prob
+})
+
+output = output.sort_values(by="Probability", ascending=False)
+csv_file_path = 'prediction_base_nograph_all.csv'
+output.to_csv(csv_file_path, index=False)
+
+my_list = ['P18507', 'P23416', 'P21918', 'P31513', 'P28472', 'P35367', 'O00591', 'P19838', 'P19634', 'P08908', 'P47869', 'Q00653', 'P18505', 'P31645', 'Q12809', 'P02768', 'P98066', 'P35348', 'P10635', 'P05067', 'Q12879', 'P08173', 'O15399', 'P14867', 'P20813', 'Q8N1C3', 'P47870', 'P08913', 'P06276', 'P21728', 'P14416', 'P35368', 'P24462', 'P46098', 'P31644', 'P20309', 'P11712', 'O14764', 'P08172', 'P20815', 'O60391', 'Q13224', 'P50406', 'P08588', 'P28566', 'Q14957', 'P22303', 'P35462', 'Q96FL8', 'Q9UNQ0', 'P25100', 'P28222', 'Q9UN88', 'P08684', 'P33261', 'P02763', 'P11229', 'P07550', 'P28223', 'O75311', 'Q9HB55', 'P21917', 'P48167', 'Q9H015', 'P22310', 'P28221', 'Q16445', 'P28335', 'P13945', 'P23415', 'P78334', 'P36544', 'P05177', 'P34903', 'P30939', 'Q99928', 'Q05586', 'P08183', 'P48169', 'Q8TCU5', 'P11509', 'P05181', 'P18089']
+
+output = output[~output['Name'].isin(my_list)]
+print(output.all)
+
+csv_file_path = 'prediction_base_nograph_unknown.csv'
+output.to_csv(csv_file_path, index=False)
 # Train and evaluate models
+'''
 models = {'Logistic Regression': lr, 'Random Forest': rf, 'SVC': svc, 'KNN': knn}
 for name, model in models.items():
     model.fit(X_train_smote, y_train_smote)
@@ -105,3 +140,4 @@ for name, model in models.items():
     plot_roc_curve(fpr, tpr, name, auc_score)
     print(f"{name} Classification Report:\n{classification_report(y_test, y_pred)}")
     print(f"{name} Confusion Matrix:\n{confusion_matrix(y_test, y_pred)}\n")
+'''
