@@ -1,0 +1,22 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1, "at": 1708312802.0132174}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2, "at": 1708312802.0132174}
+{"obj": {"type": "AssignString", "path": ["monitoring", "c7ca6e38", "hostname"], "value": "DESKTOP-IPGEGTE"}, "version": 3, "at": 1708312802.0132174}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "DESKTOP-IPGEGTE"}, "version": 4, "at": 1708312802.0132174}
+{"obj": {"type": "AssignString", "path": ["monitoring", "c7ca6e38", "pid"], "value": "25676"}, "version": 5, "at": 1708312802.0132174}
+{"obj": {"type": "AssignString", "path": ["monitoring", "c7ca6e38", "tid"], "value": "16164"}, "version": 6, "at": 1708312802.0132174}
+{"obj": {"type": "AssignBool", "path": ["sys", "failed"], "value": false}, "version": 7, "at": 1708312802.0132174}
+{"obj": {"type": "AssignInt", "path": ["parameters", "ratio"], "value": 1}, "version": 8, "at": 1708312802.0333447}
+{"obj": {"type": "AssignInt", "path": ["parameters", "epochs"], "value": 18}, "version": 9, "at": 1708312802.0343444}
+{"obj": {"type": "AssignString", "path": ["parameters", "layer_channels"], "value": "[52, 26]"}, "version": 10, "at": 1708312802.0343444}
+{"obj": {"type": "AssignFloat", "path": ["parameters", "lr"], "value": 0.01}, "version": 11, "at": 1708312802.0343444}
+{"obj": {"type": "AssignFloat", "path": ["parameters", "dropout"], "value": 0.3}, "version": 12, "at": 1708312802.0343444}
+{"obj": {"type": "AssignFloat", "path": ["parameters", "Weight_decay"], "value": 0.0004}, "version": 13, "at": 1708312802.0343444}
+{"obj": {"type": "AssignInt", "path": ["parameters", "epoch"], "value": 18}, "version": 14, "at": 1708312802.0343444}
+{"obj": {"type": "AssignInt", "path": ["parameters", "layer_type"], "value": 1}, "version": 15, "at": 1708312802.0343444}
+{"obj": {"type": "AssignInt", "path": ["parameters", "discriminator_type"], "value": 0}, "version": 16, "at": 1708312802.0353446}
+{"obj": {"type": "AssignInt", "path": ["parameters", "alpha"], "value": 20}, "version": 17, "at": 1708312802.0353446}
+{"obj": {"type": "LogFloats", "path": ["test_AUC"], "values": [{"value": 0.7023255813953487, "step": null, "ts": 1708312811.6577067}]}, "version": 18, "at": 1708312811.6577067}
+{"obj": {"type": "LogFloats", "path": ["test_acc"], "values": [{"value": 0.9247069431920649, "step": null, "ts": 1708312811.6577067}]}, "version": 19, "at": 1708312811.6577067}
+{"obj": {"type": "LogFloats", "path": ["test_f1"], "values": [{"value": 0.11640211640211641, "step": null, "ts": 1708312811.6577067}]}, "version": 20, "at": 1708312811.6577067}
+{"obj": {"type": "LogFloats", "path": ["train", "epoch"], "values": [{"value": 17.0, "step": null, "ts": 1708312811.6577067}]}, "version": 21, "at": 1708312811.658707}
+{"obj": {"type": "LogFloats", "path": ["Loss"], "values": [{"value": 0.039978981018066406, "step": null, "ts": 1708312811.658707}]}, "version": 22, "at": 1708312811.658707}
