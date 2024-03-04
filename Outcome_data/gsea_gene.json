@@ -1,0 +1,1549 @@
+{
+    "GABRA6": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q16445",
+        "Probability": 0.9930177
+    },
+    "GRIN1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q05586",
+        "Probability": 0.9917124
+    },
+    "GLRA2": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P23416",
+        "Probability": 0.9903035
+    },
+    "GABRB1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P18505",
+        "Probability": 0.99028516
+    },
+    "GLRA1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P23415",
+        "Probability": 0.9897136
+    },
+    "GABRA4": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P48169",
+        "Probability": 0.9895839
+    },
+    "ADRB2": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P07550",
+        "Probability": 0.9894862
+    },
+    "GRIN2B": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q13224",
+        "Probability": 0.98947024
+    },
+    "HTR2A": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P28223",
+        "Probability": 0.98941886
+    },
+    "GRIN2A": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q12879",
+        "Probability": 0.98927283
+    },
+    "GLRB": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P48167",
+        "Probability": 0.988179
+    },
+    "HTR2C": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P28335",
+        "Probability": 0.9878865
+    },
+    "HTR1B": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P28222",
+        "Probability": 0.98770255
+    },
+    "ADRA1A": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P35348",
+        "Probability": 0.98749197
+    },
+    "GABRA2": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P47869",
+        "Probability": 0.98670554
+    },
+    "GABRA5": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P31644",
+        "Probability": 0.98657435
+    },
+    "GABRD": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "O14764",
+        "Probability": 0.9863442
+    },
+    "HTR1A": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P08908",
+        "Probability": 0.9857899
+    },
+    "CHRM3": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P20309",
+        "Probability": 0.98560405
+    },
+    "GABRA3": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P34903",
+        "Probability": 0.984997
+    },
+    "ADRA1B": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P35368",
+        "Probability": 0.98493516
+    },
+    "HTR1E": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P28566",
+        "Probability": 0.9836365
+    },
+    "DRD3": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P35462",
+        "Probability": 0.98263663
+    },
+    "GABRB3": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P28472",
+        "Probability": 0.98149216
+    },
+    "GABRQ": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q9UN88",
+        "Probability": 0.98136145
+    },
+    "GRIN2D": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "O15399",
+        "Probability": 0.9808862
+    },
+    "SLC6A4": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P31645",
+        "Probability": 0.97930884
+    },
+    "CHRM2": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P08172",
+        "Probability": 0.97868484
+    },
+    "DRD4": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P21917",
+        "Probability": 0.97850937
+    },
+    "GABRG1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q8N1C3",
+        "Probability": 0.9780706
+    },
+    "GRIN2C": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q14957",
+        "Probability": 0.97791487
+    },
+    "MTNR1B": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P49286",
+        "Probability": 0.9775545
+    },
+    "GLRA3": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "O75311",
+        "Probability": 0.9772637
+    },
+    "GABRG2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P18507",
+        "Probability": 0.9769183
+    },
+    "HTR1D": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P28221",
+        "Probability": 0.97672975
+    },
+    "CHRNA6": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q15825",
+        "Probability": 0.9764074
+    },
+    "ABCG2": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q9UNQ0",
+        "Probability": 0.9758867
+    },
+    "GABRG3": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q99928",
+        "Probability": 0.975069
+    },
+    "GABRR3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "A8MPY1",
+        "Probability": 0.97502524
+    },
+    "PTGIR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P43119",
+        "Probability": 0.97421515
+    },
+    "HTR1F": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P30939",
+        "Probability": 0.971447
+    },
+    "CHRNE": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q04844",
+        "Probability": 0.97093856
+    },
+    "ADRA2B": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P18089",
+        "Probability": 0.9703974
+    },
+    "GABRE": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P78334",
+        "Probability": 0.9698734
+    },
+    "CYP2C19": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P33261",
+        "Probability": 0.969605
+    },
+    "CHRNA7": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P36544",
+        "Probability": 0.9695979
+    },
+    "HRH1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P35367",
+        "Probability": 0.96904874
+    },
+    "ADRB1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P08588",
+        "Probability": 0.9688364
+    },
+    "CYP2C9": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P11712",
+        "Probability": 0.96841055
+    },
+    "CHRNB3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q05901",
+        "Probability": 0.96632355
+    },
+    "P2RY12": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9H244",
+        "Probability": 0.96548456
+    },
+    "CHRM4": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P08173",
+        "Probability": 0.9652475
+    },
+    "GRIK3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q13003",
+        "Probability": 0.96507126
+    },
+    "GABRA1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P14867",
+        "Probability": 0.96501595
+    },
+    "GABRP": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "O00591",
+        "Probability": 0.9634217
+    },
+    "GABRB2": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P47870",
+        "Probability": 0.9624178
+    },
+    "KCNH2": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q12809",
+        "Probability": 0.9623528
+    },
+    "DRD5": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P21918",
+        "Probability": 0.9614487
+    },
+    "CHRM1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P11229",
+        "Probability": 0.9611326
+    },
+    "ADRA2A": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P08913",
+        "Probability": 0.9592008
+    },
+    "CYP2B6": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P20813",
+        "Probability": 0.95904243
+    },
+    "DRD1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P21728",
+        "Probability": 0.9584296
+    },
+    "HCRTR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O43613",
+        "Probability": 0.95810676
+    },
+    "ADRB3": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P13945",
+        "Probability": 0.95715845
+    },
+    "CYP2D6": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P10635",
+        "Probability": 0.9570597
+    },
+    "TRPM2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O94759",
+        "Probability": 0.9556992
+    },
+    "AVPR1B": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P47901",
+        "Probability": 0.9547087
+    },
+    "GABRR2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P28476",
+        "Probability": 0.9541144
+    },
+    "HCRTR2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O43614",
+        "Probability": 0.95332736
+    },
+    "HCAR3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P49019",
+        "Probability": 0.9504927
+    },
+    "CHRNB1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P11230",
+        "Probability": 0.95025086
+    },
+    "GLP2R": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O95838",
+        "Probability": 0.949228
+    },
+    "RHO": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P08100",
+        "Probability": 0.94350266
+    },
+    "GABRR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P24046",
+        "Probability": 0.9426055
+    },
+    "HTR2B": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P41595",
+        "Probability": 0.9420017
+    },
+    "CHRND": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q07001",
+        "Probability": 0.9412991
+    },
+    "SMO": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q99835",
+        "Probability": 0.9404905
+    },
+    "ADORA1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P30542",
+        "Probability": 0.94027567
+    },
+    "HCAR2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q8TDS4",
+        "Probability": 0.93985295
+    },
+    "SSTR3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P32745",
+        "Probability": 0.9386803
+    },
+    "SLC22A4": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q9H015",
+        "Probability": 0.93822676
+    },
+    "CHRNA3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P32297",
+        "Probability": 0.9376863
+    },
+    "CHRNA9": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9UGM1",
+        "Probability": 0.9368431
+    },
+    "GRM8": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O00222",
+        "Probability": 0.9367856
+    },
+    "CACNA1S": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q13698",
+        "Probability": 0.9360801
+    },
+    "F2RL2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O00254",
+        "Probability": 0.93519354
+    },
+    "HTR5A": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P47898",
+        "Probability": 0.93472284
+    },
+    "SLC47A1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q96FL8",
+        "Probability": 0.93225527
+    },
+    "GRM3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q14832",
+        "Probability": 0.93202645
+    },
+    "NPC1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O15118",
+        "Probability": 0.931252
+    },
+    "MTNR1A": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P48039",
+        "Probability": 0.9309633
+    },
+    "DRD2": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P14416",
+        "Probability": 0.93077576
+    },
+    "ADORA2B": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P29275",
+        "Probability": 0.9304561
+    },
+    "CASR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P41180",
+        "Probability": 0.92905587
+    },
+    "SLC6A2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P23975",
+        "Probability": 0.92678636
+    },
+    "AGTR2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P50052",
+        "Probability": 0.9265194
+    },
+    "BCHE": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P06276",
+        "Probability": 0.92624605
+    },
+    "SLC6A1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P30531",
+        "Probability": 0.92565614
+    },
+    "CYP4F12": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9HCS2",
+        "Probability": 0.92449796
+    },
+    "PRLHR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P49683",
+        "Probability": 0.92394745
+    },
+    "GGCX": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P38435",
+        "Probability": 0.92343813
+    },
+    "GRID1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9ULK0",
+        "Probability": 0.9225265
+    },
+    "CHRNA5": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P30532",
+        "Probability": 0.92242646
+    },
+    "OR2W1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9Y3N9",
+        "Probability": 0.91866785
+    },
+    "SLC9A1": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P19634",
+        "Probability": 0.91835845
+    },
+    "HRH2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P25021",
+        "Probability": 0.917378
+    },
+    "SLC12A5": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9H2X9",
+        "Probability": 0.91659325
+    },
+    "TAAR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q96RJ0",
+        "Probability": 0.91635656
+    },
+    "NPY4R": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P50391",
+        "Probability": 0.91635656
+    },
+    "TBXA2R": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P21731",
+        "Probability": 0.91626394
+    },
+    "BDKRB2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P30411",
+        "Probability": 0.91586083
+    },
+    "CCKAR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P32238",
+        "Probability": 0.9145558
+    },
+    "HTR3A": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P46098",
+        "Probability": 0.91448426
+    },
+    "OR8H1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q8NGG4",
+        "Probability": 0.9144776
+    },
+    "ALB": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P02768",
+        "Probability": 0.9142623
+    },
+    "FFAR4": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q5NUL3",
+        "Probability": 0.91398627
+    },
+    "OXTR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P30559",
+        "Probability": 0.913523
+    },
+    "GRM7": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q14831",
+        "Probability": 0.9134991
+    },
+    "OR6B3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q8NGW1",
+        "Probability": 0.9133388
+    },
+    "PTGFR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P43088",
+        "Probability": 0.9125473
+    },
+    "GRIA4": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P48058",
+        "Probability": 0.9116987
+    },
+    "APP": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P05067",
+        "Probability": 0.91098076
+    },
+    "CHRNA10": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9GZZ6",
+        "Probability": 0.910846
+    },
+    "GRIA2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P42262",
+        "Probability": 0.9100366
+    },
+    "UGT1A4": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P22310",
+        "Probability": 0.90951586
+    },
+    "GABBR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9UBS5",
+        "Probability": 0.9095023
+    },
+    "P2RY2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P41231",
+        "Probability": 0.908901
+    },
+    "NTSR2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O95665",
+        "Probability": 0.90793973
+    },
+    "GRIA3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P42263",
+        "Probability": 0.90771604
+    },
+    "CHRNB2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P17787",
+        "Probability": 0.9076688
+    },
+    "TACR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P25103",
+        "Probability": 0.90655416
+    },
+    "FPR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P21462",
+        "Probability": 0.9061786
+    },
+    "TRPA1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O75762",
+        "Probability": 0.9061388
+    },
+    "AGTR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P30556",
+        "Probability": 0.90549624
+    },
+    "SLC38A3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q99624",
+        "Probability": 0.90543
+    },
+    "GRM4": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q14833",
+        "Probability": 0.9047987
+    },
+    "TACR2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P21452",
+        "Probability": 0.9044459
+    },
+    "SLC7A9": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P82251",
+        "Probability": 0.9040283
+    },
+    "ABCA1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O95477",
+        "Probability": 0.9032527
+    },
+    "SLC3A1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q07837",
+        "Probability": 0.90292513
+    },
+    "GCGR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P47871",
+        "Probability": 0.9015374
+    },
+    "CACNA1C": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q13936",
+        "Probability": 0.9002254
+    },
+    "SCN8A": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9UQD0",
+        "Probability": 0.89973307
+    },
+    "GABBR2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O75899",
+        "Probability": 0.8995271
+    },
+    "CHRNA2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q15822",
+        "Probability": 0.8993925
+    },
+    "SLC12A2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P55011",
+        "Probability": 0.8977463
+    },
+    "CHRNA4": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P43681",
+        "Probability": 0.8963722
+    },
+    "UGT1A3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P35503",
+        "Probability": 0.8958618
+    },
+    "UGT1A8": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9HAW9",
+        "Probability": 0.8958618
+    },
+    "HLA-B": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P03989",
+        "Probability": 0.8954265
+    },
+    "CHRNB4": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P30926",
+        "Probability": 0.8937011
+    },
+    "GRIK2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q13002",
+        "Probability": 0.89333695
+    },
+    "HTR6": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P50406",
+        "Probability": 0.89280874
+    },
+    "GRIA1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P42261",
+        "Probability": 0.892248
+    },
+    "KCNJ1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P48048",
+        "Probability": 0.89088905
+    },
+    "GRM5": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P41594",
+        "Probability": 0.8904711
+    },
+    "CYP1A2": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "P05177",
+        "Probability": 0.89046526
+    },
+    "CHRNG": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P07510",
+        "Probability": 0.8900932
+    },
+    "CTNS": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O60931",
+        "Probability": 0.8894891
+    },
+    "LRRC8D": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q7L1W4",
+        "Probability": 0.887713
+    },
+    "ADORA2A": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P29274",
+        "Probability": 0.8863896
+    },
+    "GRM1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q13255",
+        "Probability": 0.88630396
+    },
+    "HTR3C": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q8WXA8",
+        "Probability": 0.8859372
+    },
+    "SLC12A3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P55017",
+        "Probability": 0.88491356
+    },
+    "CCR5": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P51681",
+        "Probability": 0.8847606
+    },
+    "VKORC1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9BQB6",
+        "Probability": 0.88261575
+    },
+    "SCN7A": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q01118",
+        "Probability": 0.8820485
+    },
+    "HRH4": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9H3N8",
+        "Probability": 0.88001275
+    },
+    "SCN2A": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q99250",
+        "Probability": 0.8797286
+    },
+    "HLA-A": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P01892",
+        "Probability": 0.8796806
+    },
+    "LHCGR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P22888",
+        "Probability": 0.8787648
+    },
+    "PTGER1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P34995",
+        "Probability": 0.8787382
+    },
+    "CYP3A43": {
+        "all_predicts": 1,
+        "predicted_unknown": 0,
+        "known": 1,
+        "Protein": "Q9HB55",
+        "Probability": 0.8778082
+    },
+    "PTGDR2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9Y5Y4",
+        "Probability": 0.8759867
+    },
+    "CYP11B1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P15538",
+        "Probability": 0.8759074
+    },
+    "HTR3B": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O95264",
+        "Probability": 0.8755381
+    },
+    "ADGRL1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O94910",
+        "Probability": 0.8755287
+    },
+    "GLP1R": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P43220",
+        "Probability": 0.875457
+    },
+    "GRID2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O43424",
+        "Probability": 0.87500566
+    },
+    "SOAT1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P35610",
+        "Probability": 0.8731265
+    },
+    "NPSR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q6W5P4",
+        "Probability": 0.87141174
+    },
+    "PTAFR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P25105",
+        "Probability": 0.8706795
+    },
+    "GRIK5": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q16478",
+        "Probability": 0.86981183
+    },
+    "OPN1LW": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P04000",
+        "Probability": 0.86816466
+    },
+    "TSHR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P16473",
+        "Probability": 0.8678281
+    },
+    "NLRP14": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q86W24",
+        "Probability": 0.86621946
+    },
+    "ADORA3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P0DMS8",
+        "Probability": 0.86498487
+    },
+    "CYP27B1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O15528",
+        "Probability": 0.86439073
+    },
+    "ABCB6": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9NP58",
+        "Probability": 0.8642649
+    },
+    "ANO1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q5XXA6",
+        "Probability": 0.8638722
+    },
+    "VKORC1L1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q8N0U8",
+        "Probability": 0.86348695
+    },
+    "GNRHR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P30968",
+        "Probability": 0.8630265
+    },
+    "SLC6A5": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9Y345",
+        "Probability": 0.86289495
+    },
+    "SUCNR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9BXA5",
+        "Probability": 0.86263597
+    },
+    "EDNRB": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P24530",
+        "Probability": 0.86177796
+    },
+    "OPRL1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P41146",
+        "Probability": 0.8615603
+    },
+    "SCN10A": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9Y5Y9",
+        "Probability": 0.86076516
+    },
+    "SLCO1A2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P46721",
+        "Probability": 0.86070716
+    },
+    "DHCR24": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q15392",
+        "Probability": 0.8600795
+    },
+    "CHRNA1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P02708",
+        "Probability": 0.8599108
+    },
+    "CYP1B1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q16678",
+        "Probability": 0.859582
+    },
+    "ATP2A2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P16615",
+        "Probability": 0.8594435
+    },
+    "GDPD5": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q8WTR4",
+        "Probability": 0.8577611
+    },
+    "SLC7A11": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9UPY5",
+        "Probability": 0.85677797
+    },
+    "SCN11A": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9UI33",
+        "Probability": 0.85674804
+    },
+    "OPRM1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P35372",
+        "Probability": 0.8560148
+    },
+    "TACR3": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P29371",
+        "Probability": 0.85559326
+    },
+    "CXCR6": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O00574",
+        "Probability": 0.8555031
+    },
+    "CYP2J2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P51589",
+        "Probability": 0.85346466
+    },
+    "GHRHR": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q02643",
+        "Probability": 0.85344636
+    },
+    "CXCR4": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P61073",
+        "Probability": 0.85336334
+    },
+    "SLC12A6": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9UHW9",
+        "Probability": 0.8515941
+    },
+    "HLA-DRB1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P04229",
+        "Probability": 0.850554
+    },
+    "NPY5R": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q15761",
+        "Probability": 0.8502405
+    },
+    "GLA": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P06280",
+        "Probability": 0.8502237
+    },
+    "SLC7A8": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9UHI5",
+        "Probability": 0.85005563
+    },
+    "CXCR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P25024",
+        "Probability": 0.8497932
+    },
+    "PTH1R": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q03431",
+        "Probability": 0.8480684
+    },
+    "MAGT1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "Q9H0U3",
+        "Probability": 0.84753346
+    },
+    "FFAR1": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "O14842",
+        "Probability": 0.84739465
+    },
+    "SLC16A2": {
+        "all_predicts": 1,
+        "predicted_unknown": 1,
+        "known": 0,
+        "Protein": "P36021",
+        "Probability": 0.84645265
+    }
+}
