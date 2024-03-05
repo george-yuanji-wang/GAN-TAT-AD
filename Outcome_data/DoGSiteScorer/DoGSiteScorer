@@ -2,14 +2,14 @@
 import requests
 import json
 import time
-import subprocess
+
 
 # Read the protein names from the text file
 with open(r'C:\Users\Srisharan\OneDrive\Desktop\ISEF\ISEF-2023\Outcome_data\All_unknown_predicted_proteins.csv', 'r') as file:
     next(file)  # Skip the header line
     protein_names = [line.split(',')[0].strip() for line in file][:5]  # Limit to the first 5 names
 
-
+datasss = {}
 # Loop through each of the first 5 protein names
 for uniprot_name in protein_names:
 
@@ -57,12 +57,45 @@ for uniprot_name in protein_names:
 
     job_id = new_url.split("/")[-1]
 
-    # Call cURL with the new URL
-    subprocess.run(["curl", new_url])
+    
+    status_code = None
+    while status_code != 200:
+        response_two = requests.get(new_url)
+        stats_code = response_two.status_code
 
-    result_url = new_url.decode("utf-8")
+        if status_code != 200:
+            time.sleep(5)
 
-    print(result_url['result_table'])
+    result_table = response_two.json()['result_table']
+
+    data = requests.get(result_table).text
+
+    rows = data.strip().split('\n')
+    headers = rows[0].split()
+
+    data = {}
+
+    for row in rows[1:]:
+        values = row.split()
+        row_dict = {}
+        i = 0
+
+        for header, value in zip(header, values):
+
+            if i > 3:
+                row_dict[header] = value
+
+            i += 1
+
+        data[values[0]] = row_dict
+
+    datasss[uniprot_name] = data
+
+with open(r'/Users/michelle/jupyter/ISEF/Outcome_data/DoGSiteScorer/DoGSiteScorer_data.json', 'w') as json_file:
+    json.dump(datasss, json_file, indent=4)
+
+
+
 
 
 
