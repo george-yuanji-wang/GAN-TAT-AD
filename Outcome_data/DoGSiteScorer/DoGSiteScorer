@@ -1,15 +1,15 @@
-
 import requests
 import json
 import time
 import subprocess
 
 # Read the protein names from the text file
-with open(r'C:\Users\Srisharan\OneDrive\Desktop\ISEF\ISEF-2023\Outcome_data\All_unknown_predicted_proteins.csv', 'r') as file:
+with open(r'Outcome_data\All_unknown_predicted_proteins.csv', 'r') as file:
     next(file)  # Skip the header line
-    protein_names = [line.split(',')[0].strip() for line in file][:5]  # Limit to the first 5 names
+    protein_names = [line.split(',')[0].strip() for line in file] # Limit to the first 5 names
 
 
+datasss = {}
 # Loop through each of the first 5 protein names
 for uniprot_name in protein_names:
 
@@ -52,17 +52,51 @@ for uniprot_name in protein_names:
 
     # Once the status code is 200, parse and print the response
     response_json = response.json()
-    
+
     new_url = response_json["location"]
 
     job_id = new_url.split("/")[-1]
 
-    # Call cURL with the new URL
-    subprocess.run(["curl", new_url])
+    # Make the GET request
+    status_code = None
+    while status_code != 200:
+          # Send POST request
+          response_two = requests.get(new_url)         # Get status code from the response
+          status_code = response_two.status_code
+          # Check if status code is not 200
+          if status_code != 200:
+              print("Waiting for status code 200. Current status code:", status_code)
+              # Wait for 5 seconds before checking again
+              time.sleep(5)
 
-    result_url = new_url.decode("utf-8")
+    result_table = response_two.json()["result_table"]
 
-    print(result_url['result_table'])
+    data = requests.get(result_table).text
 
 
+    rows = data.strip().split('\n')
+    headers = rows[0].split()
 
+    data = {}
+    for row in rows[1:]:
+        values = row.split()
+        row_dict = {}
+        i = 0
+        for header, value in zip(headers, values):
+          if i > 3:
+            row_dict[header] = value
+
+          i += 1
+
+        data[values[0]] = row_dict
+
+    print(data)
+
+    datasss[uniprot_name] = data
+
+
+  
+print(datasss)
+
+with open("DogSiteScorer_data.json", "w") as json_file:
+    json.dump(datasss, json_file, indent=4)
