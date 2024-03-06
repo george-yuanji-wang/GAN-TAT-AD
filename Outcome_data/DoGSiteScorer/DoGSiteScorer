@@ -1,14 +1,17 @@
 import requests
 import json
 import time
+<<<<<<< HEAD
 import subprocess
 import csv
+=======
+
+>>>>>>> 9d94d05ed0bc11166bce644389c3b5480bd9168e
 
 # Read the protein names from the text file
 with open(r'C:\Users\Srisharan\OneDrive\Desktop\ISEF\ISEF-2023\Outcome_data\All_unknown_predicted_proteins.csv', 'r') as file:
     next(file)  # Skip the header line
     protein_names = [line.split(',')[0].strip() for line in file][:85]  # Limit to the first 5 names
-
 
 datasss = {}
 # Loop through each of the first 5 protein names

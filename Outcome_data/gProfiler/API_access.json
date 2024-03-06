@@ -1,0 +1,5692 @@
+[
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of skeletal muscle contraction via the regulation of the release of sequestered calcium ion by sarcoplasmic reticulum into cytosol. The sarcoplasmic reticulum is the endoplasmic reticulum of striated muscle, specialised for the sequestration of calcium ions that are released upon receipt of a signal relayed by the T tubules from the neuromuscular junction.\" [GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 15945,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion",
+        "native": "GO:0014809",
+        "p_value": 4.869618240374145e-13,
+        "parents": [
+            "GO:0010880",
+            "GO:0014722"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 1.0,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 4,
+        "source_order": 4747,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the rate, frequency or extent of release of sequestered calcium ion into cytosol by the sarcoplasmic reticulum, the process in which the release of sequestered calcium ion by sarcoplasmic reticulum into cytosol occurs via calcium release channels.\" [GOC:BHF, GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 15721,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",
+        "native": "GO:0010880",
+        "p_value": 2.75023310094465e-12,
+        "parents": [
+            "GO:0014808",
+            "GO:0051279"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.1724137931034483,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 29,
+        "source_order": 4523,
+        "group_id": 6
+    },
+    {
+        "description": "\"The process in which the release of sequestered calcium ion by sarcoplasmic reticulum into cytosol occurs via calcium release channels.\" [GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 15944,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",
+        "native": "GO:0014808",
+        "p_value": 6.444098031547727e-12,
+        "parents": [
+            "GO:0070296",
+            "GO:1903514"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.14705882352941177,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 34,
+        "source_order": 4746,
+        "group_id": 6
+    },
+    {
+        "description": "\"The directed movement of calcium ion from endoplasmic reticulum to cytosol.\" [GO_REF:0000078, GOC:BHF, GOC:mtg_cardiac_conduct_nov11, GOC:rl, GOC:TermGenie, PMID:16402920]",
+        "effective_domain_size": 21031,
+        "goshv": 34851,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "release of sequestered calcium ion into cytosol by endoplasmic reticulum",
+        "native": "GO:1903514",
+        "p_value": 7.518114370139026e-12,
+        "parents": [
+            "GO:0051209"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.14285714285714285,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 35,
+        "source_order": 23653,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of skeletal muscle contraction by changing the calcium ion signals that trigger contraction.\" [GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 15915,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of skeletal muscle contraction by calcium ion signaling",
+        "native": "GO:0014722",
+        "p_value": 1.7041718495172668e-11,
+        "parents": [
+            "GO:0014819",
+            "GO:0019722"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.5714285714285714,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 7,
+        "source_order": 4717,
+        "group_id": 6
+    },
+    {
+        "description": "\"The directed movement of calcium ions (Ca2+) into, out of or within the sarcoplasmic reticulum.\" [GOC:BHF, GOC:vk]",
+        "effective_domain_size": 21031,
+        "goshv": 27733,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "sarcoplasmic reticulum calcium ion transport",
+        "native": "GO:0070296",
+        "p_value": 1.735522028867603e-11,
+        "parents": [
+            "GO:0006816"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.12195121951219512,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 41,
+        "source_order": 16535,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of calcium ion transmembrane transporter activity.\" [GOC:BHF, GOC:TermGenie]",
+        "effective_domain_size": 21031,
+        "goshv": 32845,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "regulation of calcium ion transmembrane transporter activity",
+        "native": "GO:1901019",
+        "p_value": 2.602714029556376e-10,
+        "parents": [
+            "GO:0032412",
+            "GO:1903169"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.07246376811594203,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 69,
+        "source_order": 21647,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of the release into the cytosolic compartment of calcium ions sequestered in the endoplasmic reticulum or mitochondria.\" [GOC:ai, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 25261,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of release of sequestered calcium ion into cytosol",
+        "native": "GO:0051279",
+        "p_value": 5.93367533310014e-10,
+        "parents": [
+            "GO:0051209",
+            "GO:0051282",
+            "GO:1903169"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.06172839506172839,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 81,
+        "source_order": 14063,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of striated muscle contraction.\" [GOC:go_curators]",
+        "effective_domain_size": 21031,
+        "goshv": 13808,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of striated muscle contraction",
+        "native": "GO:0006942",
+        "p_value": 1.4155650210690793e-09,
+        "parents": [
+            "GO:0006937",
+            "GO:0006941"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.052083333333333336,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 96,
+        "source_order": 2610,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of skeletal muscle contraction.\" [GOC:ef, GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 15954,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of skeletal muscle contraction",
+        "native": "GO:0014819",
+        "p_value": 1.4893094803306577e-09,
+        "parents": [
+            "GO:0003009",
+            "GO:0006942"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.2222222222222222,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 18,
+        "source_order": 4756,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of cation channel activity.\" [GOC:BHF]",
+        "effective_domain_size": 21031,
+        "goshv": 38327,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "regulation of cation channel activity",
+        "native": "GO:2001257",
+        "p_value": 1.7435748355187747e-09,
+        "parents": [
+            "GO:0032412",
+            "GO:1904062"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.05,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 100,
+        "source_order": 27129,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of cardiac muscle contraction via the regulation of the release of sequestered calcium ion by sarcoplasmic reticulum into cytosol. The sarcoplasmic reticulum is the endoplasmic reticulum of striated muscle, specialised for the sequestration of calcium ions that are released upon receipt of a signal relayed by the T tubules from the neuromuscular junction.\" [GOC:BHF, GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 15722,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion",
+        "native": "GO:0010881",
+        "p_value": 2.9125814764573263e-09,
+        "parents": [
+            "GO:0010880",
+            "GO:0010882"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.19047619047619047,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 21,
+        "source_order": 4524,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the activity of a ryanodine-sensitive calcium-release channel. The ryanodine-sensitive calcium-release channel catalyzes the transmembrane transfer of a calcium ion by a channel that opens when a ryanodine class ligand has been bound by the channel complex or one of its constituent parts.\" [GOC:BHF, GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 26190,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "regulation of ryanodine-sensitive calcium-release channel activity",
+        "native": "GO:0060314",
+        "p_value": 5.170518961640618e-09,
+        "parents": [
+            "GO:0051279",
+            "GO:1901019",
+            "GO:2001257"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.16666666666666666,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 24,
+        "source_order": 14992,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of cardiac muscle contraction by changing the calcium ion signals that trigger contraction.\" [GOC:BHF, GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 15723,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of cardiac muscle contraction by calcium ion signaling",
+        "native": "GO:0010882",
+        "p_value": 7.273985704174524e-09,
+        "parents": [
+            "GO:0019722",
+            "GO:0055117"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.15384615384615385,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 26,
+        "source_order": 4525,
+        "group_id": 6
+    },
+    {
+        "description": "\"The process in which calcium ions sequestered in the endoplasmic reticulum, Golgi apparatus or mitochondria are released into the cytosolic compartment.\" [GOC:dph, GOC:hjd, GOC:mtg_lung, PMID:1814929]",
+        "effective_domain_size": 21031,
+        "goshv": 25211,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "release of sequestered calcium ion into cytosol",
+        "native": "GO:0051209",
+        "p_value": 8.029191005954063e-09,
+        "parents": [
+            "GO:0051283",
+            "GO:0097553"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.037037037037037035,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 135,
+        "source_order": 14013,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of the binding or confining calcium ions such that they are separated from other components of a biological system.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25265,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "negative regulation of sequestering of calcium ion",
+        "native": "GO:0051283",
+        "p_value": 8.335648677937065e-09,
+        "parents": [
+            "GO:0048523",
+            "GO:0051208",
+            "GO:0051282"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03676470588235294,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 136,
+        "source_order": 14067,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of the binding or confining calcium ions such that they are separated from other components of a biological system.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25264,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of sequestering of calcium ion",
+        "native": "GO:0051282",
+        "p_value": 8.976633282358038e-09,
+        "parents": [
+            "GO:0032879",
+            "GO:0050794",
+            "GO:0051208"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.036231884057971016,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 138,
+        "source_order": 14066,
+        "group_id": 6
+    },
+    {
+        "description": "\"The process of binding or confining calcium ions such that they are separated from other components of a biological system.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25210,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "sequestering of calcium ion",
+        "native": "GO:0051208",
+        "p_value": 1.0376854663679491e-08,
+        "parents": [
+            "GO:0006874",
+            "GO:0051651"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.035211267605633804,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 142,
+        "source_order": 14012,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of muscle contraction.\" [GOC:go_curators]",
+        "effective_domain_size": 21031,
+        "goshv": 13804,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of muscle contraction",
+        "native": "GO:0006937",
+        "p_value": 2.023258805887851e-08,
+        "parents": [
+            "GO:0006936",
+            "GO:0090257"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.030864197530864196,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 162,
+        "source_order": 2606,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of calcium ion transmembrane transport.\" [GO_REF:0000058, GOC:BHF, GOC:rl, GOC:TermGenie, PMID:24125847]",
+        "effective_domain_size": 21031,
+        "goshv": 34576,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of calcium ion transmembrane transport",
+        "native": "GO:1903169",
+        "p_value": 2.0872859832893707e-08,
+        "parents": [
+            "GO:0051924",
+            "GO:0070588",
+            "GO:1904062"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03067484662576687,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 163,
+        "source_order": 23378,
+        "group_id": 6
+    },
+    {
+        "description": "\"A process in which force is generated within striated muscle tissue, resulting in the shortening of the muscle. Force generation involves a chemo-mechanical energy conversion step that is carried out by the actin/myosin complex activity, which generates force through ATP hydrolysis. Striated muscle is a type of muscle in which the repeating units (sarcomeres) of the contractile myofibrils are arranged in registry throughout the cell, resulting in transverse or oblique striations observable at the level of the light microscope.\" [GOC:jl, GOC:mtg_muscle, ISBN:0198506732]",
+        "effective_domain_size": 21031,
+        "goshv": 13807,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "TAS"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "striated muscle contraction",
+        "native": "GO:0006941",
+        "p_value": 3.64612753983356e-08,
+        "parents": [
+            "GO:0006936"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.027472527472527472,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 182,
+        "source_order": 2609,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the activity of an ion transporter.\" [GOC:mah, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 19020,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "regulation of monoatomic ion transmembrane transporter activity",
+        "native": "GO:0032412",
+        "p_value": 4.7779786531625115e-08,
+        "parents": [
+            "GO:0022898"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.026041666666666668,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 192,
+        "source_order": 7822,
+        "group_id": 6
+    },
+    {
+        "description": "\"A process in which a calcium ion is transported from one side of a membrane to the other into the cytosol by means of some agent such as a transporter or pore.\" [GOC:vw]",
+        "effective_domain_size": 21031,
+        "goshv": 30440,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "calcium ion transmembrane import into cytosol",
+        "native": "GO:0097553",
+        "p_value": 5.44066896891649e-08,
+        "parents": [
+            "GO:0070588"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.025380710659898477,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 197,
+        "source_order": 19242,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of transmembrane transporter activity.\" [GOC:dph, GOC:mtg_cardio, GOC:mtg_transport]",
+        "effective_domain_size": 21031,
+        "goshv": 18064,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "regulation of transmembrane transporter activity",
+        "native": "GO:0022898",
+        "p_value": 5.872282154367914e-08,
+        "parents": [
+            "GO:0032409",
+            "GO:0034762"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.025,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 200,
+        "source_order": 6866,
+        "group_id": 6
+    },
+    {
+        "description": "\"A process in which force is generated within skeletal muscle tissue, resulting in a change in muscle geometry. Force generation involves a chemo-mechanical energy conversion step that is carried out by the actin/myosin complex activity, which generates force through ATP hydrolysis. In the skeletal muscle, the muscle contraction takes advantage of an ordered sarcomeric structure and in most cases it is under voluntary control.\" [GOC:mtg_cardio, GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 12665,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "skeletal muscle contraction",
+        "native": "GO:0003009",
+        "p_value": 7.933788473180982e-08,
+        "parents": [
+            "GO:0006941",
+            "GO:0050881"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.08695652173913043,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 46,
+        "source_order": 1467,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the activity of a transporter.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 19017,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "regulation of transporter activity",
+        "native": "GO:0032409",
+        "p_value": 8.070489099528414e-08,
+        "parents": [
+            "GO:0065009"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.023474178403755867,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 213,
+        "source_order": 7819,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any intracellular signal transduction in which the signal is passed on within the cell via calcium ions.\" [GOC:signaling]",
+        "effective_domain_size": 21031,
+        "goshv": 17430,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "calcium-mediated signaling",
+        "native": "GO:0019722",
+        "p_value": 1.017309878276753e-07,
+        "parents": [
+            "GO:0141124"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02242152466367713,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 223,
+        "source_order": 6232,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of a muscle system process, a multicellular organismal process carried out by any of the organs or tissues in a muscle system.\" [GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 29874,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of muscle system process",
+        "native": "GO:0090257",
+        "p_value": 1.112771644755423e-07,
+        "parents": [
+            "GO:0003012",
+            "GO:0044057"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.022026431718061675,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 227,
+        "source_order": 18676,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process in which a substance or cellular entity, such as a protein complex or organelle, is maintained in a specific location within, or in the membrane of, a cell, and is prevented from moving elsewhere.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25517,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "maintenance of location in cell",
+        "native": "GO:0051651",
+        "p_value": 1.2692745112641798e-07,
+        "parents": [
+            "GO:0009987",
+            "GO:0051235",
+            "GO:0051641"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02145922746781116,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 233,
+        "source_order": 14319,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of the directed movement of calcium ions into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25650,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of calcium ion transport",
+        "native": "GO:0051924",
+        "p_value": 1.5048313943773618e-07,
+        "parents": [
+            "GO:0006816",
+            "GO:0010959"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02074688796680498,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 241,
+        "source_order": 14452,
+        "group_id": 6
+    },
+    {
+        "description": "\"The movement of an organism or part of an organism using mechanoreceptors, the nervous system, striated muscle and/or the skeletal system.\" [GOC:dph]",
+        "effective_domain_size": 21031,
+        "goshv": 24958,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "musculoskeletal movement",
+        "native": "GO:0050881",
+        "p_value": 2.2116521790472852e-07,
+        "parents": [
+            "GO:0050879",
+            "GO:0050905"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.06779661016949153,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 59,
+        "source_order": 13760,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any physiological process involved in changing the position of a multicellular organism or an anatomical part of a multicellular organism.\" [GOC:dph, GOC:mtg_muscle, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 24957,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "multicellular organismal movement",
+        "native": "GO:0050879",
+        "p_value": 2.369536990039863e-07,
+        "parents": [
+            "GO:0032501"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.06666666666666667,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 60,
+        "source_order": 13759,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of cation transmembrane transport.\" [GO_REF:0000058, GOC:TermGenie, PMID:15304482]",
+        "effective_domain_size": 21031,
+        "goshv": 35312,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of monoatomic cation transmembrane transport",
+        "native": "GO:1904062",
+        "p_value": 3.3809632731407326e-07,
+        "parents": [
+            "GO:0034765",
+            "GO:0098655"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0176678445229682,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 283,
+        "source_order": 24114,
+        "group_id": 6
+    },
+    {
+        "description": "\"A homeostatic process involved in the maintenance of a steady state level of calcium ions within a cell.\" [GOC:ceb, GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 13759,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "intracellular calcium ion homeostasis",
+        "native": "GO:0006874",
+        "p_value": 5.348931626208742e-07,
+        "parents": [
+            "GO:0030003",
+            "GO:0055074"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.016129032258064516,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 310,
+        "source_order": 2561,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of cardiac muscle contraction.\" [GOC:ecd]",
+        "effective_domain_size": 21031,
+        "goshv": 25920,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of cardiac muscle contraction",
+        "native": "GO:0055117",
+        "p_value": 5.90278916280531e-07,
+        "parents": [
+            "GO:0006942",
+            "GO:0008016",
+            "GO:0060048"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.05333333333333334,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 75,
+        "source_order": 14722,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of the directed movement of ions from one side of a membrane to the other.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 20234,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of monoatomic ion transmembrane transport",
+        "native": "GO:0034765",
+        "p_value": 6.57719082913974e-07,
+        "parents": [
+            "GO:0034220",
+            "GO:0034762",
+            "GO:0043269"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.015479876160990712,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 323,
+        "source_order": 9036,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process involved in the maintenance of an internal steady state of calcium ions within an organism or cell.\" [GOC:ceb, GOC:jid, GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 25893,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "calcium ion homeostasis",
+        "native": "GO:0055074",
+        "p_value": 7.784076087941934e-07,
+        "parents": [
+            "GO:0055080",
+            "GO:0098771"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.014970059880239521,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 334,
+        "source_order": 14695,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the activity of an ion transporter.\" [GOC:mah, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 19022,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of ion transmembrane transporter activity",
+        "native": "GO:0032414",
+        "p_value": 8.078043949907623e-07,
+        "parents": [
+            "GO:0032411",
+            "GO:0032412",
+            "GO:0034767"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.04938271604938271,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 81,
+        "source_order": 7824,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that decreases the activity of a ryanodine-sensitive calcium-release channel. The ryanodine-sensitive calcium-release channel catalyzes the transmembrane transfer of a calcium ion by a channel that opens when a ryanodine class ligand has been bound by the channel complex or one of its constituent parts.\" [GOC:BHF, GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 26191,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of ryanodine-sensitive calcium-release channel activity",
+        "native": "GO:0060315",
+        "p_value": 8.443042139489731e-07,
+        "parents": [
+            "GO:0051280",
+            "GO:0060314",
+            "GO:1901020",
+            "GO:2001258"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.2727272727272727,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 11,
+        "source_order": 14993,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process in which a cell, substance or cellular entity, such as a protein complex or organelle, is maintained in a location and prevented from moving elsewhere.\" [GOC:ai, GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 25231,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "maintenance of location",
+        "native": "GO:0051235",
+        "p_value": 8.640043920115306e-07,
+        "parents": [
+            "GO:0051179"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.01466275659824047,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 341,
+        "source_order": 14033,
+        "group_id": 6
+    },
+    {
+        "description": "\"A process in which a calcium ion is transported from one side of a membrane to the other by means of some agent such as a transporter or pore.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 27887,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "calcium ion transmembrane transport",
+        "native": "GO:0070588",
+        "p_value": 8.768234482728331e-07,
+        "parents": [
+            "GO:0006816",
+            "GO:0098655",
+            "GO:0098662"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.014619883040935672,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 342,
+        "source_order": 16689,
+        "group_id": 6
+    },
+    {
+        "description": "\"A process in which force is generated within muscle tissue, resulting in a change in muscle geometry. Force generation involves a chemo-mechanical energy conversion step that is carried out by the actin/myosin complex activity, which generates force through ATP hydrolysis.\" [GOC:ef, GOC:mtg_muscle, ISBN:0198506732]",
+        "effective_domain_size": 21031,
+        "goshv": 13803,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "TAS"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "muscle contraction",
+        "native": "GO:0006936",
+        "p_value": 8.768234482728331e-07,
+        "parents": [
+            "GO:0003012"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.014619883040935672,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 342,
+        "source_order": 2605,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the activity of a transporter.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 19019,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of transporter activity",
+        "native": "GO:0032411",
+        "p_value": 1.1851335681479528e-06,
+        "parents": [
+            "GO:0032409",
+            "GO:0044093",
+            "GO:0051050"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0449438202247191,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 89,
+        "source_order": 7821,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate, or extent of metal ion transport. Metal ion transport is the directed movement of metal ions, any metal ion with an electric charge, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 15792,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of metal ion transport",
+        "native": "GO:0010959",
+        "p_value": 1.2848444523868525e-06,
+        "parents": [
+            "GO:0030001",
+            "GO:0043269"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.013550135501355014,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 369,
+        "source_order": 4594,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of the release into the cytosolic compartment of calcium ions sequestered in the endoplasmic reticulum or mitochondria.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25262,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of release of sequestered calcium ion into cytosol",
+        "native": "GO:0051280",
+        "p_value": 1.463251798448136e-06,
+        "parents": [
+            "GO:0051209",
+            "GO:0051279",
+            "GO:0051284",
+            "GO:1903170"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.23076923076923078,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 13,
+        "source_order": 14064,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of the binding or confining calcium ions such that they are separated from other components of a biological system.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25266,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of sequestering of calcium ion",
+        "native": "GO:0051284",
+        "p_value": 2.327568369765175e-06,
+        "parents": [
+            "GO:0048522",
+            "GO:0051208",
+            "GO:0051282"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.2,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 15,
+        "source_order": 14068,
+        "group_id": 6
+    },
+    {
+        "description": "\"A organ system process carried out at the level of a muscle. Muscle tissue is composed of contractile cells or fibers.\" [GOC:mtg_cardio]",
+        "effective_domain_size": 21031,
+        "goshv": 12668,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "TAS"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "TAS",
+                "IC"
+            ]
+        ],
+        "name": "muscle system process",
+        "native": "GO:0003012",
+        "p_value": 2.7394527878145735e-06,
+        "parents": [
+            "GO:0003008"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.011655011655011656,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 429,
+        "source_order": 1470,
+        "group_id": 6
+    },
+    {
+        "description": "\"The directed movement of calcium (Ca) ions into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 13722,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "calcium ion transport",
+        "native": "GO:0006816",
+        "p_value": 2.971484530429897e-06,
+        "parents": [
+            "GO:0030001"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.011467889908256881,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 436,
+        "source_order": 2524,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of the directed movement of a solute from one side of a membrane to the other.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 20231,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of transmembrane transport",
+        "native": "GO:0034762",
+        "p_value": 3.3299689971621233e-06,
+        "parents": [
+            "GO:0050794",
+            "GO:0051049",
+            "GO:0055085"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.011210762331838564,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 446,
+        "source_order": 9033,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of the directed movement of charged atoms or small charged molecules into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:jl]",
+        "effective_domain_size": 21031,
+        "goshv": 22144,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of monoatomic ion transport",
+        "native": "GO:0043269",
+        "p_value": 3.5217399874172853e-06,
+        "parents": [
+            "GO:0006811",
+            "GO:0051049"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.011086474501108648,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 451,
+        "source_order": 10946,
+        "group_id": 6
+    },
+    {
+        "description": "\"Muscle contraction of cardiac muscle tissue.\" [GOC:dph]",
+        "effective_domain_size": 21031,
+        "goshv": 25974,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "cardiac muscle contraction",
+        "native": "GO:0060048",
+        "p_value": 6.411768704762288e-06,
+        "parents": [
+            "GO:0006941",
+            "GO:0060047"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02962962962962963,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 135,
+        "source_order": 14776,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of cation transmembrane transport.\" [GO_REF:0000058, GOC:TermGenie, PMID:15304482]",
+        "effective_domain_size": 21031,
+        "goshv": 35314,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of cation transmembrane transport",
+        "native": "GO:1904064",
+        "p_value": 6.411768704762288e-06,
+        "parents": [
+            "GO:0034767",
+            "GO:0098655",
+            "GO:1904062"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02962962962962963,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 135,
+        "source_order": 24116,
+        "group_id": 6
+    },
+    {
+        "description": "\"A homeostatic process involved in the maintenance of a steady state level of monoatomic cations within a cell. Monatomic cations (also called simple cations) are cations consisting of exactly one atom.\" [GOC:ceb, GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 18083,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "intracellular monoatomic cation homeostasis",
+        "native": "GO:0030003",
+        "p_value": 7.844795234807522e-06,
+        "parents": [
+            "GO:0006873",
+            "GO:0055080"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.00945179584120983,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 529,
+        "source_order": 6885,
+        "group_id": 6
+    },
+    {
+        "description": "\"A homeostatic process involved in the maintenance of a steady state level of monoatomic ions within a cell. Monatomic ions (also called simple ions) are ions consisting of exactly one atom.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 13758,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "intracellular monoatomic ion homeostasis",
+        "native": "GO:0006873",
+        "p_value": 8.537933047896266e-06,
+        "parents": [
+            "GO:0050801",
+            "GO:0055082"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.00929368029739777,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 538,
+        "source_order": 2560,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process involved in the maintenance of an internal steady state of inorganic ions within an organism or cell.\" [GOC:dos]",
+        "effective_domain_size": 21031,
+        "goshv": 30627,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "inorganic ion homeostasis",
+        "native": "GO:0098771",
+        "p_value": 8.617876241228636e-06,
+        "parents": [
+            "GO:0048878"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.00927643784786642,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 539,
+        "source_order": 19429,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of a system process, a multicellular organismal process carried out by any of the organs or tissues in an organ system.\" [GOC:jl]",
+        "effective_domain_size": 21031,
+        "goshv": 22451,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "NAS"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of system process",
+        "native": "GO:0044057",
+        "p_value": 8.861305451875717e-06,
+        "parents": [
+            "GO:0003008",
+            "GO:0051239"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.00922509225092251,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 542,
+        "source_order": 11253,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of the directed movement of ions from one side of a membrane to the other.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 20236,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of monoatomic ion transmembrane transport",
+        "native": "GO:0034767",
+        "p_value": 1.0077762519252816e-05,
+        "parents": [
+            "GO:0034220",
+            "GO:0034764",
+            "GO:0034765",
+            "GO:0043270"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.026490066225165563,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 151,
+        "source_order": 9038,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process pertaining to the functions of the nervous and muscular systems of an organism.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 24980,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "neuromuscular process",
+        "native": "GO:0050905",
+        "p_value": 1.5126356793842486e-05,
+        "parents": [
+            "GO:0050877"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.023952095808383235,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 167,
+        "source_order": 13782,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process involved in the maintenance of an internal steady state of monoatomic cations within an organism or cell. Monatomic cations (also called simple cations) are cations consisting of exactly one atom.\" [GOC:ceb, GOC:jid, GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 25896,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "monoatomic cation homeostasis",
+        "native": "GO:0055080",
+        "p_value": 1.5513689522176025e-05,
+        "parents": [
+            "GO:0050801"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.00825082508250825,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 606,
+        "source_order": 14698,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that stops, prevents or reduces the frequency, rate or extent of calcium ion transmembrane transporter activity.\" [GOC:BHF, GOC:TermGenie]",
+        "effective_domain_size": 21031,
+        "goshv": 32846,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of calcium ion transmembrane transporter activity",
+        "native": "GO:1901020",
+        "p_value": 1.6742948866624968e-05,
+        "parents": [
+            "GO:0032413",
+            "GO:1901019",
+            "GO:1903170"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.10714285714285714,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 28,
+        "source_order": 21648,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process involved in the maintenance of an internal steady state of monoatomic ions within an organism or cell. Monatomic ions (also called simple ions) are ions consisting of exactly one atom.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 24894,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "monoatomic ion homeostasis",
+        "native": "GO:0050801",
+        "p_value": 1.6841177395741204e-05,
+        "parents": [
+            "GO:0048878"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.008116883116883116,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 616,
+        "source_order": 13696,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of calcium ion transmembrane transporter activity.\" [GOC:BHF, GOC:TermGenie]",
+        "effective_domain_size": 21031,
+        "goshv": 32847,
+        "intersection_size": 3,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of calcium ion transmembrane transporter activity",
+        "native": "GO:1901021",
+        "p_value": 2.296808204590594e-05,
+        "parents": [
+            "GO:0032414",
+            "GO:1901019",
+            "GO:1904427"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0967741935483871,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 31,
+        "source_order": 21649,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of heart contraction. Heart contraction is the process in which the heart decreases in volume in a characteristic way to propel blood through the body.\" [GOC:dph, GOC:go_curators, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 14329,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "NAS"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of heart contraction",
+        "native": "GO:0008016",
+        "p_value": 3.189779348863766e-05,
+        "parents": [
+            "GO:0060047",
+            "GO:1903522"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.01990049751243781,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 201,
+        "source_order": 3131,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that stops, prevents or reduces the frequency, rate or extent of cation channel activity.\" [GOC:BHF]",
+        "effective_domain_size": 21031,
+        "goshv": 38328,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of cation channel activity",
+        "native": "GO:2001258",
+        "p_value": 3.343340740971423e-05,
+        "parents": [
+            "GO:0032413",
+            "GO:1904063",
+            "GO:2001257"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.08571428571428572,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 35,
+        "source_order": 27130,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of the directed movement of charged atoms or small charged molecules into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:jl]",
+        "effective_domain_size": 21031,
+        "goshv": 22145,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of monoatomic ion transport",
+        "native": "GO:0043270",
+        "p_value": 3.731902630972015e-05,
+        "parents": [
+            "GO:0006811",
+            "GO:0043269",
+            "GO:0051050"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.019138755980861243,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 209,
+        "source_order": 10947,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of the directed movement of a solute from one side of a membrane to the other.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 20233,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of transmembrane transport",
+        "native": "GO:0034764",
+        "p_value": 3.804220879778223e-05,
+        "parents": [
+            "GO:0034762",
+            "GO:0048522",
+            "GO:0051050",
+            "GO:0055085"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.01904761904761905,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 210,
+        "source_order": 9035,
+        "group_id": 6
+    },
+    {
+        "description": "\"A homeostatic process involved in the maintenance of a steady state level of a chemical within a cell.\" [GOC:isa_complete, GOC:jid]",
+        "effective_domain_size": 21031,
+        "goshv": 25898,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "intracellular chemical homeostasis",
+        "native": "GO:0055082",
+        "p_value": 3.8923809501808325e-05,
+        "parents": [
+            "GO:0019725",
+            "GO:0048878"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.006868131868131868,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 728,
+        "source_order": 14700,
+        "group_id": 6
+    },
+    {
+        "description": "\"The multicellular organismal process in which the heart decreases in volume in a characteristic way to propel blood through the body.\" [GOC:dph]",
+        "effective_domain_size": 21031,
+        "goshv": 25973,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "NAS"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "heart contraction",
+        "native": "GO:0060047",
+        "p_value": 5.9782977827914794e-05,
+        "parents": [
+            "GO:0003015",
+            "GO:0008015"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.01702127659574468,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 235,
+        "source_order": 14775,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of the release into the cytosolic compartment of calcium ions sequestered in the endoplasmic reticulum or mitochondria.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25263,
+        "intersection_size": 3,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of release of sequestered calcium ion into cytosol",
+        "native": "GO:0051281",
+        "p_value": 6.300473686191711e-05,
+        "parents": [
+            "GO:0051209",
+            "GO:0051279",
+            "GO:1904427"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.06976744186046512,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 43,
+        "source_order": 14065,
+        "group_id": 6
+    },
+    {
+        "description": "\"A process in which an inorganic cation is transported from one side of a membrane to the other by means of some agent such as a transporter or pore.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 30558,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "inorganic cation transmembrane transport",
+        "native": "GO:0098662",
+        "p_value": 6.564599285893795e-05,
+        "parents": [
+            "GO:0098660"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.006188118811881188,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 808,
+        "source_order": 19360,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that stops, prevents or reduces the frequency, rate or extent of calcium ion transmembrane transport.\" [GO_REF:0000058, GOC:BHF, GOC:rl, GOC:TermGenie, PMID:24125847]",
+        "effective_domain_size": 21031,
+        "goshv": 34577,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of calcium ion transmembrane transport",
+        "native": "GO:1903170",
+        "p_value": 6.761000992852237e-05,
+        "parents": [
+            "GO:0051926",
+            "GO:0070588",
+            "GO:1903169",
+            "GO:1904063"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.06818181818181818,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 44,
+        "source_order": 23379,
+        "group_id": 6
+    },
+    {
+        "description": "\"A circulatory system process carried out by the heart. The heart is a hollow, muscular organ, which, by contracting rhythmically, keeps up the circulation of the blood. The heart is a hollow, muscular organ, which, by contracting rhythmically, keeps up the circulation of the blood.\" [GOC:mtg_cardio]",
+        "effective_domain_size": 21031,
+        "goshv": 12671,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "NAS"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "heart process",
+        "native": "GO:0003015",
+        "p_value": 7.183958301658992e-05,
+        "parents": [
+            "GO:0003013"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.016260162601626018,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 246,
+        "source_order": 1473,
+        "group_id": 6
+    },
+    {
+        "description": "\"The process in which a monoatomic cation is transported across a membrane. Monatomic cations (also called simple cations) are positively charged ions consisting of exactly one atom.\" [GOC:dos, GOC:vw]",
+        "effective_domain_size": 21031,
+        "goshv": 30551,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "monoatomic cation transmembrane transport",
+        "native": "GO:0098655",
+        "p_value": 7.510777063339375e-05,
+        "parents": [
+            "GO:0006812",
+            "GO:0034220"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.006024096385542169,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 830,
+        "source_order": 19353,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process involved in the maintenance of an internal steady state at the level of the cell.\" [GOC:isa_complete, GOC:jl, ISBN:0395825172]",
+        "effective_domain_size": 21031,
+        "goshv": 17432,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "cellular homeostasis",
+        "native": "GO:0019725",
+        "p_value": 7.556241815538734e-05,
+        "parents": [
+            "GO:0042592"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.006016847172081829,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 831,
+        "source_order": 6234,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of blood circulation.\" [GO_REF:0000058, GOC:mr, GOC:TermGenie, PMID:10659969]",
+        "effective_domain_size": 21031,
+        "goshv": 34859,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "NAS"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of blood circulation",
+        "native": "GO:1903522",
+        "p_value": 8.168862315563086e-05,
+        "parents": [
+            "GO:0008015",
+            "GO:0044057"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.015748031496062992,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 254,
+        "source_order": 23661,
+        "group_id": 6
+    },
+    {
+        "description": "\"A fine reticular network of membrane-limited elements that pervades the sarcoplasm of a muscle cell; continuous over large portions of the cell and with the nuclear envelope; that part of the endoplasmic reticulum specialized for calcium release, uptake and storage.\" [GOC:mtg_muscle, ISBN:0124325653, ISBN:0198547684]",
+        "effective_domain_size": 22097,
+        "goshv": 39136,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "ISS",
+                "IBA",
+                "TAS",
+                "IC",
+                "IEA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "TAS",
+                "IEA"
+            ],
+            [],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "sarcoplasmic reticulum",
+        "native": "GO:0016529",
+        "p_value": 8.2317775132034e-05,
+        "parents": [
+            "GO:0005783",
+            "GO:0016528"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.04,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 75,
+        "source_order": 753,
+        "group_id": 4
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of cation channel activity.\" [GOC:BHF]",
+        "effective_domain_size": 21031,
+        "goshv": 38329,
+        "intersection_size": 3,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of cation channel activity",
+        "native": "GO:2001259",
+        "p_value": 8.827005665882643e-05,
+        "parents": [
+            "GO:0032414",
+            "GO:1904064",
+            "GO:2001257"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0625,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 48,
+        "source_order": 27131,
+        "group_id": 6
+    },
+    {
+        "description": "\"The directed movement of metal ions, any metal ion with an electric charge, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 18081,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "metal ion transport",
+        "native": "GO:0030001",
+        "p_value": 9.898600200092254e-05,
+        "parents": [
+            "GO:0006812"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.005701254275940707,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 877,
+        "source_order": 6883,
+        "group_id": 6
+    },
+    {
+        "description": "\"The process in which an inorganic ion is transported across a membrane.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 30556,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "inorganic ion transmembrane transport",
+        "native": "GO:0098660",
+        "p_value": 0.00011269777590235092,
+        "parents": [
+            "GO:0055085"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.005555555555555556,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 900,
+        "source_order": 19358,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that stops or reduces the activity of an ion transporter.\" [GOC:mah, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 19021,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of ion transmembrane transporter activity",
+        "native": "GO:0032413",
+        "p_value": 0.00014138805079997105,
+        "parents": [
+            "GO:0032410",
+            "GO:0032412",
+            "GO:0034766"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.05357142857142857,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 56,
+        "source_order": 7823,
+        "group_id": 6
+    },
+    {
+        "description": "\"The cytoplasm of a muscle cell; includes the sarcoplasmic reticulum.\" [ISBN:0198547684]",
+        "effective_domain_size": 22097,
+        "goshv": 39135,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "ISS",
+                "IBA",
+                "TAS",
+                "IC",
+                "IEA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "TAS",
+                "IEA"
+            ],
+            [],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "sarcoplasm",
+        "native": "GO:0016528",
+        "p_value": 0.00015800027537212201,
+        "parents": [
+            "GO:0005737"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03225806451612903,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 93,
+        "source_order": 752,
+        "group_id": 4
+    },
+    {
+        "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of calcium ions into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25651,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of calcium ion transport",
+        "native": "GO:0051926",
+        "p_value": 0.00018350425534481,
+        "parents": [
+            "GO:0006816",
+            "GO:0043271",
+            "GO:0051924"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.04918032786885246,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 61,
+        "source_order": 14453,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that stops or reduces the activity of a transporter.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 19018,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of transporter activity",
+        "native": "GO:0032410",
+        "p_value": 0.0002024477871513017,
+        "parents": [
+            "GO:0032409",
+            "GO:0044092",
+            "GO:0051051"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.047619047619047616,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 63,
+        "source_order": 7820,
+        "group_id": 6
+    },
+    {
+        "description": "\"A process in which a monoatomic ion is transported across a membrane. Monatomic ions (also called simple ions) are ions consisting of exactly one atom.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 19991,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "monoatomic ion transmembrane transport",
+        "native": "GO:0034220",
+        "p_value": 0.00020384028047747076,
+        "parents": [
+            "GO:0006811",
+            "GO:0055085"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.004935834155972359,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1013,
+        "source_order": 8793,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any biological process involved in the maintenance of an internal steady state of a chemical.\" [GOC:isa_complete]",
+        "effective_domain_size": 21031,
+        "goshv": 24742,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "chemical homeostasis",
+        "native": "GO:0048878",
+        "p_value": 0.00022264409323992878,
+        "parents": [
+            "GO:0042592"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.004849660523763337,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1031,
+        "source_order": 13544,
+        "group_id": 6
+    },
+    {
+        "description": "\"The directed movement of a monoatomic cation, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Monatomic cations (also called simple cations) are positively charged ions consisting of exactly one atom.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 13719,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "monoatomic cation transport",
+        "native": "GO:0006812",
+        "p_value": 0.00022481621839041008,
+        "parents": [
+            "GO:0006811"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.00484027105517909,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1033,
+        "source_order": 2521,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that stops, prevents or reduces the frequency, rate or extent of cation transmembrane transport.\" [GO_REF:0000058, GOC:TermGenie, PMID:15304482]",
+        "effective_domain_size": 21031,
+        "goshv": 35313,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of cation transmembrane transport",
+        "native": "GO:1904063",
+        "p_value": 0.00037254766622776695,
+        "parents": [
+            "GO:0034766",
+            "GO:0098655",
+            "GO:1904062"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03896103896103896,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 77,
+        "source_order": 24115,
+        "group_id": 6
+    },
+    {
+        "description": "\"The volume enclosed by the membranes of the sarcoplasmic reticulum.\" [GOC:rph]",
+        "effective_domain_size": 22097,
+        "goshv": 39739,
+        "intersection_size": 2,
+        "intersections": [
+            [
+                "IBA",
+                "IC",
+                "IEA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [],
+            [],
+            []
+        ],
+        "name": "sarcoplasmic reticulum lumen",
+        "native": "GO:0033018",
+        "p_value": 0.0004057188146929807,
+        "parents": [
+            "GO:0005788",
+            "GO:0016529"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.2,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 10,
+        "source_order": 1356,
+        "group_id": 4
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of calcium ion transmembrane transport.\" [GO_REF:0000058, GOC:TermGenie, PMID:22910094]",
+        "effective_domain_size": 21031,
+        "goshv": 35634,
+        "intersection_size": 3,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of calcium ion transmembrane transport",
+        "native": "GO:1904427",
+        "p_value": 0.00046774254083571204,
+        "parents": [
+            "GO:0051928",
+            "GO:0070588",
+            "GO:1903169",
+            "GO:1904064"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03614457831325301,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 83,
+        "source_order": 24436,
+        "group_id": 6
+    },
+    {
+        "description": "\"Platelike region of a muscle sarcomere to which the plus ends of actin filaments are attached.\" [GOC:mtg_muscle, ISBN:0815316194]",
+        "effective_domain_size": 22097,
+        "goshv": 39249,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IBA"
+            ],
+            [],
+            [
+                "ISS",
+                "IEA"
+            ],
+            []
+        ],
+        "name": "Z disc",
+        "native": "GO:0030018",
+        "p_value": 0.00047606131608302093,
+        "parents": [
+            "GO:0031674",
+            "GO:0110165"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.022388059701492536,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 134,
+        "source_order": 866,
+        "group_id": 5
+    },
+    {
+        "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of ions from one side of a membrane to the other.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 20235,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of monoatomic ion transmembrane transport",
+        "native": "GO:0034766",
+        "p_value": 0.000502740743241118,
+        "parents": [
+            "GO:0034220",
+            "GO:0034763",
+            "GO:0034765",
+            "GO:0043271"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03529411764705882,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 85,
+        "source_order": 9037,
+        "group_id": 6
+    },
+    {
+        "description": "\"The directed movement of a monoatomic ion into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Monatomic ions (also called simple ions) are ions consisting of exactly one atom.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 13718,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "monoatomic ion transport",
+        "native": "GO:0006811",
+        "p_value": 0.000598442813897288,
+        "parents": [
+            "GO:0006810"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.003980891719745223,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1256,
+        "source_order": 2520,
+        "group_id": 6
+    },
+    {
+        "description": "\"A region of a sarcomere that appears as a light band on each side of the Z disc, comprising a region of the sarcomere where thin (actin) filaments are not overlapped by thick (myosin) filaments; contains actin, troponin, and tropomyosin; each sarcomere includes half of an I band at each end.\" [ISBN:0321204131]",
+        "effective_domain_size": 22097,
+        "goshv": 39571,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IBA",
+                "IEA"
+            ],
+            [],
+            [
+                "ISS",
+                "IEA"
+            ],
+            []
+        ],
+        "name": "I band",
+        "native": "GO:0031674",
+        "p_value": 0.0006553202815483988,
+        "parents": [
+            "GO:0030017",
+            "GO:0110165"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.020134228187919462,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 149,
+        "source_order": 1188,
+        "group_id": 5
+    },
+    {
+        "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of a solute from one side of a membrane to the other.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 20232,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of transmembrane transport",
+        "native": "GO:0034763",
+        "p_value": 0.0012540547405966234,
+        "parents": [
+            "GO:0034762",
+            "GO:0048523",
+            "GO:0051051",
+            "GO:0055085"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02608695652173913,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 115,
+        "source_order": 9034,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that increases the activity of a ryanodine-sensitive calcium-release channel. The ryanodine-sensitive calcium-release channel catalyzes the transmembrane transfer of a calcium ion by a channel that opens when a ryanodine class ligand has been bound by the channel complex or one of its constituent parts.\" [GOC:BHF, GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 26192,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of ryanodine-sensitive calcium-release channel activity",
+        "native": "GO:0060316",
+        "p_value": 0.0012911407567693242,
+        "parents": [
+            "GO:0051281",
+            "GO:0060314",
+            "GO:1901021",
+            "GO:2001259"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.2222222222222222,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 9,
+        "source_order": 14994,
+        "group_id": 6
+    },
+    {
+        "description": "\"The flow of blood through the body of an animal, enabling the transport of nutrients to the tissues and the removal of waste products.\" [GOC:mtg_heart, ISBN:0192800825]",
+        "effective_domain_size": 21031,
+        "goshv": 14328,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "NAS"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "blood circulation",
+        "native": "GO:0008015",
+        "p_value": 0.0012994880325690771,
+        "parents": [
+            "GO:0003013"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.007889546351084813,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 507,
+        "source_order": 3130,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of charged atoms or small charged molecules into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:jl]",
+        "effective_domain_size": 21031,
+        "goshv": 22146,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "negative regulation of monoatomic ion transport",
+        "native": "GO:0043271",
+        "p_value": 0.0013210366174805017,
+        "parents": [
+            "GO:0006811",
+            "GO:0043269",
+            "GO:0051051"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02564102564102564,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 117,
+        "source_order": 10948,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of the directed movement of calcium ions into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25652,
+        "intersection_size": 3,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of calcium ion transport",
+        "native": "GO:0051928",
+        "p_value": 0.001390355298682206,
+        "parents": [
+            "GO:0006816",
+            "GO:0043270",
+            "GO:0051924"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.025210084033613446,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 119,
+        "source_order": 14454,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a muscle inactivity stimulus. This process occurs as part of the regulation of muscle adaptation.\" [GOC:ef, GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 16009,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [
+                "IEA"
+            ],
+            [],
+            [
+                "IEA"
+            ],
+            []
+        ],
+        "name": "response to muscle inactivity involved in regulation of muscle adaptation",
+        "native": "GO:0014877",
+        "p_value": 0.001613772425150851,
+        "parents": [
+            "GO:0014870",
+            "GO:0014874"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.2,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 10,
+        "source_order": 4811,
+        "group_id": 7
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a denervation stimulus. This process occurs as part of the regulation of muscle adaptation.\" [GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 16025,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [
+                "IEA"
+            ],
+            [],
+            [
+                "IEA"
+            ],
+            []
+        ],
+        "name": "response to denervation involved in regulation of muscle adaptation",
+        "native": "GO:0014894",
+        "p_value": 0.001613772425150851,
+        "parents": [
+            "GO:0014877"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.2,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 10,
+        "source_order": 4827,
+        "group_id": 7
+    },
+    {
+        "description": "\"The process in which a solute is transported across a lipid bilayer, from one side of a membrane to the other.\" [GOC:dph, GOC:jid]",
+        "effective_domain_size": 21031,
+        "goshv": 25899,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "transmembrane transport",
+        "native": "GO:0055085",
+        "p_value": 0.0016286555967225326,
+        "parents": [
+            "GO:0006810",
+            "GO:0009987"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.003259452411994785,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1534,
+        "source_order": 14701,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a caffeine stimulus. Caffeine is an alkaloid found in numerous plant species, where it acts as a natural pesticide that paralyzes and kills certain insects feeding upon them.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 28267,
+        "intersection_size": 2,
+        "intersections": [
+            [
+                "IMP"
+            ],
+            [],
+            [],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "cellular response to caffeine",
+        "native": "GO:0071313",
+        "p_value": 0.0019722008964701597,
+        "parents": [
+            "GO:0031000",
+            "GO:0071312",
+            "GO:0071415"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.18181818181818182,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 11,
+        "source_order": 17069,
+        "group_id": 8
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a muscle inactivity stimulus.\" [GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 16002,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [
+                "IEA"
+            ],
+            [],
+            [
+                "IEA"
+            ],
+            []
+        ],
+        "name": "response to muscle inactivity",
+        "native": "GO:0014870",
+        "p_value": 0.0019722008964701597,
+        "parents": [
+            "GO:0014854"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.18181818181818182,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 11,
+        "source_order": 4804,
+        "group_id": 7
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of the directed movement of substances (such as macromolecules, small molecules, ions) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25096,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of transport",
+        "native": "GO:0051049",
+        "p_value": 0.001973562184306593,
+        "parents": [
+            "GO:0006810",
+            "GO:0032879"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.003136762860727729,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1594,
+        "source_order": 13898,
+        "group_id": 6
+    },
+    {
+        "description": "\"The repeating unit of a myofibril in a muscle cell, composed of an array of overlapping thick and thin filaments between two adjacent Z discs.\" [ISBN:0815316194]",
+        "effective_domain_size": 22097,
+        "goshv": 39248,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IBA",
+                "IEA"
+            ],
+            [],
+            [
+                "ISS",
+                "IEA"
+            ],
+            []
+        ],
+        "name": "sarcomere",
+        "native": "GO:0030017",
+        "p_value": 0.002113031655949186,
+        "parents": [
+            "GO:0030016",
+            "GO:0110165"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.013636363636363636,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 220,
+        "source_order": 865,
+        "group_id": 5
+    },
+    {
+        "description": "Abnormal calcium handling and its effects on muscle contraction in DMD",
+        "effective_domain_size": 8286,
+        "goshv": 46447,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [
+                "WP"
+            ],
+            [],
+            [
+                "WP"
+            ],
+            []
+        ],
+        "name": "Abnormal calcium handling and its effects on muscle contraction in DMD",
+        "native": "WP:WP5343",
+        "p_value": 0.0022827933588158164,
+        "parents": [
+            "WP:000000"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.14285714285714285,
+        "significant": true,
+        "source": "WP",
+        "term_size": 14,
+        "source_order": 762,
+        "group_id": 20
+    },
+    {
+        "description": "\"A organ system process carried out by any of the organs or tissues of the circulatory system. The circulatory system is an organ system that moves extracellular fluids to and from tissue within a multicellular organism.\" [GOC:mtg_cardio]",
+        "effective_domain_size": 21031,
+        "goshv": 12669,
+        "intersection_size": 4,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "NAS"
+            ],
+            [],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "circulatory system process",
+        "native": "GO:0003013",
+        "p_value": 0.0024117602801430557,
+        "parents": [
+            "GO:0003008"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.006756756756756757,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 592,
+        "source_order": 1471,
+        "group_id": 6
+    },
+    {
+        "description": "\"The contractile element of skeletal and cardiac muscle; a long, highly organized bundle of actin, myosin, and other proteins that contracts by a sliding filament mechanism.\" [ISBN:0815316194]",
+        "effective_domain_size": 22097,
+        "goshv": 39247,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IBA",
+                "IEA"
+            ],
+            [],
+            [
+                "IDA",
+                "ISS",
+                "IEA"
+            ],
+            []
+        ],
+        "name": "myofibril",
+        "native": "GO:0030016",
+        "p_value": 0.0028117257959855146,
+        "parents": [
+            "GO:0043292"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.012396694214876033,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 242,
+        "source_order": 864,
+        "group_id": 5
+    },
+    {
+        "description": "\"Any biological process involved in the maintenance of an internal steady state.\" [GOC:jl, ISBN:0395825172]",
+        "effective_domain_size": 21031,
+        "goshv": 21799,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "NAS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "homeostatic process",
+        "native": "GO:0042592",
+        "p_value": 0.0028217346039111145,
+        "parents": [
+            "GO:0008150"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0029205607476635513,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1712,
+        "source_order": 10601,
+        "group_id": 6
+    },
+    {
+        "description": "\"Catalysis of the reaction: R-X + glutathione = H-X + R-S-glutathione. R may be an aliphatic, aromatic or heterocyclic group; X may be a sulfate, nitrile or halide group.\" [EC:2.5.1.18]",
+        "effective_domain_size": 20212,
+        "goshv": 728,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "IDA",
+                "IBA",
+                "IEA"
+            ],
+            [],
+            [
+                "IDA",
+                "IEA"
+            ]
+        ],
+        "name": "glutathione transferase activity",
+        "native": "GO:0004364",
+        "p_value": 0.002954497767826695,
+        "parents": [
+            "GO:0016765"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.08,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 25,
+        "source_order": 728,
+        "group_id": 1
+    },
+    {
+        "description": "\"Fibers, composed of actin, myosin, and associated proteins, found in cells of smooth or striated muscle.\" [GOC:go_curators, ISBN:0815316194]",
+        "effective_domain_size": 22097,
+        "goshv": 40283,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IBA",
+                "IEA"
+            ],
+            [],
+            [
+                "IDA",
+                "ISS",
+                "IEA"
+            ],
+            []
+        ],
+        "name": "contractile fiber",
+        "native": "GO:0043292",
+        "p_value": 0.0031742887861469387,
+        "parents": [
+            "GO:0005737",
+            "GO:0043232",
+            "GO:0099512"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.011904761904761904,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 252,
+        "source_order": 1900,
+        "group_id": 5
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a purine-containing compound stimulus.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 28365,
+        "intersection_size": 2,
+        "intersections": [
+            [
+                "IMP"
+            ],
+            [],
+            [],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "cellular response to purine-containing compound",
+        "native": "GO:0071415",
+        "p_value": 0.0032621648684689588,
+        "parents": [
+            "GO:0014074",
+            "GO:0071407",
+            "GO:0071417"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.14285714285714285,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 14,
+        "source_order": 17167,
+        "group_id": 8
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an inactivity stimulus.\" [GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 15987,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [
+                "IEA"
+            ],
+            [],
+            [
+                "IEA"
+            ],
+            []
+        ],
+        "name": "response to inactivity",
+        "native": "GO:0014854",
+        "p_value": 0.0032621648684689588,
+        "parents": [
+            "GO:0050896"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.14285714285714285,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 14,
+        "source_order": 4789,
+        "group_id": 7
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of a molecular function, an elemental biological activity occurring at the molecular level, such as catalysis or binding.\" [GOC:isa_complete]",
+        "effective_domain_size": 21031,
+        "goshv": 27584,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "ISS"
+            ],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "regulation of molecular function",
+        "native": "GO:0065009",
+        "p_value": 0.0036163967298106364,
+        "parents": [
+            "GO:0065007"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0027793218454697055,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1799,
+        "source_order": 16386,
+        "group_id": 6
+    },
+    {
+        "description": "\"An intracellular signaling module that is part of larger signaling pathways that can be initiated either intracellularly or by cell surface receptors. Intracellular signaling cassettes are discrete signaling units that are often shared by multiple signaling pathways.\" [GOC:ha, GOC:pg]",
+        "effective_domain_size": 21031,
+        "goshv": 31797,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "intracellular signaling cassette",
+        "native": "GO:0141124",
+        "p_value": 0.004284820915645388,
+        "parents": [
+            "GO:0035556"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0026867275658248252,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1861,
+        "source_order": 20599,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a caffeine stimulus. Caffeine is an alkaloid found in numerous plant species, where it acts as a natural pesticide that paralyzes and kills certain insects feeding upon them.\" [GOC:ef, GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 18430,
+        "intersection_size": 2,
+        "intersections": [
+            [
+                "IMP"
+            ],
+            [],
+            [],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "response to caffeine",
+        "native": "GO:0031000",
+        "p_value": 0.004300937414132311,
+        "parents": [
+            "GO:0014074",
+            "GO:0043279"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.125,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 16,
+        "source_order": 7232,
+        "group_id": 8
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus. This occurs as part of the regulation of muscle adaptation.\" [GOC:ef, GOC:mtg_muscle]",
+        "effective_domain_size": 21031,
+        "goshv": 16006,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [
+                "IEA"
+            ],
+            [],
+            [
+                "IEA"
+            ],
+            []
+        ],
+        "name": "response to stimulus involved in regulation of muscle adaptation",
+        "native": "GO:0014874",
+        "p_value": 0.004300937414132311,
+        "parents": [
+            "GO:0043502",
+            "GO:0050896"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.125,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 16,
+        "source_order": 4808,
+        "group_id": 7
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of any process in which a cell, a substance, or a cellular entity is transported to, or maintained in, a specific location.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 19353,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IDA",
+                "IMP",
+                "ISS",
+                "IBA"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IDA",
+                "IC"
+            ]
+        ],
+        "name": "regulation of localization",
+        "native": "GO:0032879",
+        "p_value": 0.006426706391738527,
+        "parents": [
+            "GO:0050789",
+            "GO:0051179"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.002477700693756194,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 2018,
+        "source_order": 8155,
+        "group_id": 6
+    },
+    {
+        "description": "\"The lipid bilayer surrounding the sarcoplasmic reticulum.\" [GOC:rph]",
+        "effective_domain_size": 22097,
+        "goshv": 39738,
+        "intersection_size": 2,
+        "intersections": [
+            [
+                "TAS"
+            ],
+            [
+                "TAS",
+                "IEA"
+            ],
+            [],
+            [],
+            []
+        ],
+        "name": "sarcoplasmic reticulum membrane",
+        "native": "GO:0033017",
+        "p_value": 0.008502886378855382,
+        "parents": [
+            "GO:0005789",
+            "GO:0016529",
+            "GO:0098588"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.045454545454545456,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 44,
+        "source_order": 1355,
+        "group_id": 4
+    },
+    {
+        "description": "\"The chemical reactions and pathways resulting in the breakdown of a xenobiotic compound, a compound foreign to the organim exposed to it. It may be synthesized by another organism (like ampicilin) or it can be a synthetic chemical.\" [GOC:jl, GOC:krc]",
+        "effective_domain_size": 21031,
+        "goshv": 21549,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "IDA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "xenobiotic catabolic process",
+        "native": "GO:0042178",
+        "p_value": 0.009884628940338433,
+        "parents": [
+            "GO:0006805",
+            "GO:0044248"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.08333333333333333,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 24,
+        "source_order": 10351,
+        "group_id": 9
+    },
+    {
+        "description": "\"Any process that activates or increases the frequency, rate or extent of the directed movement of substances (such as macromolecules, small molecules, ions) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 25097,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of transport",
+        "native": "GO:0051050",
+        "p_value": 0.009895906296783885,
+        "parents": [
+            "GO:0006810",
+            "GO:0048518",
+            "GO:0051049"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.004739336492890996,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 844,
+        "source_order": 13899,
+        "group_id": 6
+    },
+    {
+        "description": "\"A multicellular organismal process carried out by any of the organs or tissues in an organ system. An organ system is a regularly interacting or interdependent group of organs or tissues that work together to carry out a biological objective.\" [GOC:mtg_cardio]",
+        "effective_domain_size": 21031,
+        "goshv": 12664,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "TAS",
+                "NAS"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "TAS",
+                "IC"
+            ]
+        ],
+        "name": "system process",
+        "native": "GO:0003008",
+        "p_value": 0.011277982196118792,
+        "parents": [
+            "GO:0032501"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0022143489813994687,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 2258,
+        "source_order": 1466,
+        "group_id": 6
+    },
+    {
+        "description": "Muscle contraction",
+        "effective_domain_size": 10842,
+        "goshv": 44459,
+        "intersection_size": 3,
+        "intersections": [
+            [
+                "REAC"
+            ],
+            [
+                "REAC"
+            ],
+            [],
+            [
+                "REAC"
+            ],
+            []
+        ],
+        "name": "Muscle contraction",
+        "native": "REAC:R-HSA-397014",
+        "p_value": 0.012098542850847332,
+        "parents": [
+            "REAC:0000000"
+        ],
+        "precision": 0.6,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.014778325123152709,
+        "significant": true,
+        "source": "REAC",
+        "term_size": 203,
+        "source_order": 1448,
+        "group_id": 17
+    },
+    {
+        "description": "\"Catalysis of the transfer of an alkyl or aryl (but not methyl) group from one compound (donor) to another (acceptor).\" [GOC:jl, ISBN:0198506732]",
+        "effective_domain_size": 20212,
+        "goshv": 2962,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "IDA",
+                "IBA",
+                "IEA"
+            ],
+            [],
+            [
+                "IDA",
+                "IEA"
+            ]
+        ],
+        "name": "transferase activity, transferring alkyl or aryl (other than methyl) groups",
+        "native": "GO:0016765",
+        "p_value": 0.01737120229697903,
+        "parents": [
+            "GO:0016740"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03333333333333333,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 60,
+        "source_order": 2962,
+        "group_id": 1
+    },
+    {
+        "description": "Glutathione conjugation",
+        "effective_domain_size": 10842,
+        "goshv": 44037,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "REAC"
+            ],
+            [],
+            [
+                "REAC"
+            ]
+        ],
+        "name": "Glutathione conjugation",
+        "native": "REAC:R-HSA-156590",
+        "p_value": 0.018249232113922893,
+        "parents": [
+            "REAC:R-HSA-156580"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.058823529411764705,
+        "significant": true,
+        "source": "REAC",
+        "term_size": 34,
+        "source_order": 1026,
+        "group_id": 18
+    },
+    {
+        "description": "Glutathione metabolism",
+        "effective_domain_size": 8484,
+        "goshv": 42502,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "KEGG"
+            ],
+            [],
+            [
+                "KEGG"
+            ]
+        ],
+        "name": "Glutathione metabolism",
+        "native": "KEGG:00480",
+        "p_value": 0.020712442658771583,
+        "parents": [
+            "KEGG:00000"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03571428571428571,
+        "significant": true,
+        "source": "KEGG",
+        "term_size": 56,
+        "source_order": 61,
+        "group_id": 11
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an alkaloid stimulus. Alkaloids are a large group of nitrogenous substances found in naturally in plants, many of which have extracts that are pharmacologically active.\" [GOC:mah]",
+        "effective_domain_size": 21031,
+        "goshv": 28266,
+        "intersection_size": 2,
+        "intersections": [
+            [
+                "IMP"
+            ],
+            [],
+            [],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "cellular response to alkaloid",
+        "native": "GO:0071312",
+        "p_value": 0.025143627479112793,
+        "parents": [
+            "GO:0043279",
+            "GO:0071417"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.05263157894736842,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 38,
+        "source_order": 17068,
+        "group_id": 8
+    },
+    {
+        "description": "\"The process in which a signal is passed on to downstream components within the cell, which become activated themselves to further propagate the signal and finally trigger a change in the function or state of the cell.\" [GOC:bf, GOC:jl, GOC:signaling, ISBN:3527303782]",
+        "effective_domain_size": 21031,
+        "goshv": 20603,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "ISS",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "intracellular signal transduction",
+        "native": "GO:0035556",
+        "p_value": 0.02599182502019912,
+        "parents": [
+            "GO:0007165"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0018740629685157421,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 2668,
+        "source_order": 9405,
+        "group_id": 6
+    },
+    {
+        "description": "\"Any process that activates or increases the rate or extent of a molecular function, an elemental biological activity occurring at the molecular level, such as catalysis or binding.\" [GO:jl]",
+        "effective_domain_size": 21031,
+        "goshv": 22476,
+        "intersection_size": 4,
+        "intersections": [
+            [],
+            [
+                "IMP"
+            ],
+            [
+                "IDA"
+            ],
+            [
+                "ISS"
+            ],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "positive regulation of molecular function",
+        "native": "GO:0044093",
+        "p_value": 0.028008255971053966,
+        "parents": [
+            "GO:0065009"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0036463081130355514,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1097,
+        "source_order": 11278,
+        "group_id": 6
+    },
+    {
+        "description": "Chemical carcinogenesis - DNA adducts",
+        "effective_domain_size": 8484,
+        "goshv": 42897,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "KEGG"
+            ],
+            [],
+            [
+                "KEGG"
+            ]
+        ],
+        "name": "Chemical carcinogenesis - DNA adducts",
+        "native": "KEGG:05204",
+        "p_value": 0.02965984265900151,
+        "parents": [
+            "KEGG:00000"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.029850746268656716,
+        "significant": true,
+        "source": "KEGG",
+        "term_size": 67,
+        "source_order": 456,
+        "group_id": 12
+    },
+    {
+        "description": "Drug metabolism - cytochrome P450",
+        "effective_domain_size": 8484,
+        "goshv": 42597,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "KEGG"
+            ],
+            [],
+            [
+                "KEGG"
+            ]
+        ],
+        "name": "Drug metabolism - cytochrome P450",
+        "native": "KEGG:00982",
+        "p_value": 0.030551392599392043,
+        "parents": [
+            "KEGG:00000"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.029411764705882353,
+        "significant": true,
+        "source": "KEGG",
+        "term_size": 68,
+        "source_order": 156,
+        "group_id": 13
+    },
+    {
+        "description": "\"Inhibition of the reactions brought about by dioxygen (O2) or peroxides. Usually the antioxidant is effective because it can itself be more easily oxidized than the substance protected. The term is often applied to components that can trap free radicals, thereby breaking the chain reaction that normally leads to extensive biological damage.\" [ISBN:0198506732]",
+        "effective_domain_size": 20212,
+        "goshv": 2733,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "IDA",
+                "IBA",
+                "IEA"
+            ],
+            [],
+            [
+                "IDA"
+            ]
+        ],
+        "name": "antioxidant activity",
+        "native": "GO:0016209",
+        "p_value": 0.0325220802351741,
+        "parents": [
+            "GO:0003674"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.024390243902439025,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 82,
+        "source_order": 2733,
+        "group_id": 2
+    },
+    {
+        "description": "Platinum drug resistance",
+        "effective_domain_size": 8484,
+        "goshv": 42639,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "KEGG"
+            ],
+            [],
+            [
+                "KEGG"
+            ]
+        ],
+        "name": "Platinum drug resistance",
+        "native": "KEGG:01524",
+        "p_value": 0.0342473399565796,
+        "parents": [
+            "KEGG:00000"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.027777777777777776,
+        "significant": true,
+        "source": "KEGG",
+        "term_size": 72,
+        "source_order": 198,
+        "group_id": 14
+    },
+    {
+        "description": "Metabolism of xenobiotics by cytochrome P450",
+        "effective_domain_size": 8484,
+        "goshv": 42595,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "KEGG"
+            ],
+            [],
+            [
+                "KEGG"
+            ]
+        ],
+        "name": "Metabolism of xenobiotics by cytochrome P450",
+        "native": "KEGG:00980",
+        "p_value": 0.03617303055002259,
+        "parents": [
+            "KEGG:00000"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02702702702702703,
+        "significant": true,
+        "source": "KEGG",
+        "term_size": 74,
+        "source_order": 154,
+        "group_id": 15
+    },
+    {
+        "description": "Drug metabolism - other enzymes",
+        "effective_domain_size": 8484,
+        "goshv": 42598,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "KEGG"
+            ],
+            [],
+            [
+                "KEGG"
+            ]
+        ],
+        "name": "Drug metabolism - other enzymes",
+        "native": "KEGG:00983",
+        "p_value": 0.04121332865596422,
+        "parents": [
+            "KEGG:00000"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02531645569620253,
+        "significant": true,
+        "source": "KEGG",
+        "term_size": 79,
+        "source_order": 157,
+        "group_id": 16
+    },
+    {
+        "description": "\"Any process that modulates the frequency, rate or extent of a multicellular organismal process, the processes pertinent to the function of a multicellular organism above the cellular level; includes the integrated processes of tissues and organs.\" [GOC:ai, GOC:dph, GOC:tb]",
+        "effective_domain_size": 21031,
+        "goshv": 25235,
+        "intersection_size": 5,
+        "intersections": [
+            [
+                "IMP",
+                "IBA",
+                "NAS"
+            ],
+            [
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ],
+            [
+                "IMP",
+                "ISS",
+                "IBA",
+                "IEA"
+            ],
+            [
+                "IC"
+            ]
+        ],
+        "name": "regulation of multicellular organismal process",
+        "native": "GO:0051239",
+        "p_value": 0.04333645082879565,
+        "parents": [
+            "GO:0032501",
+            "GO:0050789"
+        ],
+        "precision": 1.0,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.001692047377326565,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 2955,
+        "source_order": 14037,
+        "group_id": 6
+    },
+    {
+        "description": "Ion homeostasis",
+        "effective_domain_size": 10842,
+        "goshv": 44250,
+        "intersection_size": 2,
+        "intersections": [
+            [
+                "REAC"
+            ],
+            [
+                "REAC"
+            ],
+            [],
+            [],
+            []
+        ],
+        "name": "Ion homeostasis",
+        "native": "REAC:R-HSA-5578775",
+        "p_value": 0.04637838129942091,
+        "parents": [
+            "REAC:R-HSA-5576891"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.037037037037037035,
+        "significant": true,
+        "source": "REAC",
+        "term_size": 54,
+        "source_order": 1239,
+        "group_id": 19
+    },
+    {
+        "description": "\"The chemical reactions and pathways involving glutathione, the tripeptide glutamylcysteinylglycine, which acts as a coenzyme for some enzymes and as an antioxidant in the protection of sulfhydryl groups in enzymes and other proteins; it has a specific role in the reduction of hydrogen peroxide (H2O2) and oxidized ascorbate, and it participates in the gamma-glutamyl cycle.\" [ISBN:0198506732]",
+        "effective_domain_size": 21031,
+        "goshv": 13673,
+        "intersection_size": 2,
+        "intersections": [
+            [],
+            [],
+            [
+                "IBA",
+                "IEA"
+            ],
+            [],
+            [
+                "IDA",
+                "IEA"
+            ]
+        ],
+        "name": "glutathione metabolic process",
+        "native": "GO:0006749",
+        "p_value": 0.04921546558374559,
+        "parents": [
+            "GO:0006518",
+            "GO:0006575",
+            "GO:0006790"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03773584905660377,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 53,
+        "source_order": 2475,
+        "group_id": 10
+    },
+    {
+        "description": "\"The region between the inner and outer lipid bilayers of the terminal cisterna envelope. This space is enriched in calsequestrin.\" [GOC:mtg_muscle]",
+        "effective_domain_size": 22097,
+        "goshv": 39086,
+        "intersection_size": 1,
+        "intersections": [
+            [],
+            [
+                "IEA"
+            ],
+            [],
+            [],
+            []
+        ],
+        "name": "terminal cisterna lumen",
+        "native": "GO:0014804",
+        "p_value": 0.049840321577772705,
+        "parents": [
+            "GO:0014802",
+            "GO:0033018"
+        ],
+        "precision": 0.2,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 1.0,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 1,
+        "source_order": 703,
+        "group_id": 4
+    },
+    {
+        "description": "\"Binding to a calcium ion to prevent it from interacting with other partners or to inhibit its localization to the area of the cell or complex where it is active.\" [PMID:13130076]",
+        "effective_domain_size": 20212,
+        "goshv": 10447,
+        "intersection_size": 1,
+        "intersections": [
+            [
+                "IDA",
+                "IMP"
+            ],
+            [],
+            [],
+            [],
+            []
+        ],
+        "name": "calcium ion sequestering activity",
+        "native": "GO:0140314",
+        "p_value": 0.049874555517963104,
+        "parents": [
+            "GO:0140487"
+        ],
+        "precision": 0.2,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 1.0,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1,
+        "source_order": 10447,
+        "group_id": 3
+    }
+]
