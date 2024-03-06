@@ -47,7 +47,7 @@ plt.xlim(0, 20)
 
 # Set plot labels and title
 plt.title('Number of Protein Pockets vs. Probability')
-plt.xlabel('Number of Protein Pockets Above 0.75')
+plt.xlabel('Number of Protein Pockets Above 0.6')
 plt.ylabel('Probability')
 plt.grid(True)
 plt.tight_layout()
