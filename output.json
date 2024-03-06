@@ -1,0 +1,338 @@
+{
+    "P49286": {
+        "probability": "0.9775545",
+        "max_VAL": 0.916275
+    },
+    "Q15825": {
+        "probability": "0.9764074",
+        "max_VAL": 0.817609
+    },
+    "A8MPY1": {
+        "probability": "0.97502524",
+        "max_VAL": 0.88343
+    },
+    "P43119": {
+        "probability": "0.97421515",
+        "max_VAL": 0.843744
+    },
+    "Q04844": {
+        "probability": "0.97093856",
+        "max_VAL": 0.799742
+    },
+    "Q05901": {
+        "probability": "0.96632355",
+        "max_VAL": 0.843663
+    },
+    "Q9H244": {
+        "probability": "0.96548456",
+        "max_VAL": 0.881046
+    },
+    "Q13003": {
+        "probability": "0.96507126",
+        "max_VAL": 0.815617
+    },
+    "O43613": {
+        "probability": "0.95810676",
+        "max_VAL": 0.881594
+    },
+    "O94759": {
+        "probability": "0.9556992",
+        "max_VAL": 0.864948
+    },
+    "P47901": {
+        "probability": "0.9547087",
+        "max_VAL": 0.880113
+    },
+    "P28476": {
+        "probability": "0.9541144",
+        "max_VAL": 0.848894
+    },
+    "O43614": {
+        "probability": "0.95332736",
+        "max_VAL": 0.911171
+    },
+    "P49019": {
+        "probability": "0.9504927",
+        "max_VAL": 0.972416
+    },
+    "P11230": {
+        "probability": "0.95025086",
+        "max_VAL": 0.844208
+    },
+    "O95838": {
+        "probability": "0.949228",
+        "max_VAL": 0.902599
+    },
+    "P08100": {
+        "probability": "0.94350266",
+        "max_VAL": 0.85055
+    },
+    "P24046": {
+        "probability": "0.9426055",
+        "max_VAL": 0.920451
+    },
+    "P41595": {
+        "probability": "0.9420017",
+        "max_VAL": 0.874451
+    },
+    "Q07001": {
+        "probability": "0.9412991",
+        "max_VAL": 0.876118
+    },
+    "Q99835": {
+        "probability": "0.9404905",
+        "max_VAL": 0.957198
+    },
+    "P30542": {
+        "probability": "0.94027567",
+        "max_VAL": 0.847398
+    },
+    "Q8TDS4": {
+        "probability": "0.93985295",
+        "max_VAL": 0.848473
+    },
+    "P32745": {
+        "probability": "0.9386803",
+        "max_VAL": 0.959907
+    },
+    "P32297": {
+        "probability": "0.9376863",
+        "max_VAL": 0.889767
+    },
+    "Q9UGM1": {
+        "probability": "0.9368431",
+        "max_VAL": 0.869775
+    },
+    "O00222": {
+        "probability": "0.9367856",
+        "max_VAL": 0.847685
+    },
+    "Q13698": {
+        "probability": "0.9360801",
+        "max_VAL": 0.866005
+    },
+    "O00254": {
+        "probability": "0.93519354",
+        "max_VAL": 0.899897
+    },
+    "P47898": {
+        "probability": "0.93472284",
+        "max_VAL": 0.899673
+    },
+    "Q14832": {
+        "probability": "0.93202645",
+        "max_VAL": 0.815463
+    },
+    "O15118": {
+        "probability": "0.931252",
+        "max_VAL": 0.88276
+    },
+    "P48039": {
+        "probability": "0.9309633",
+        "max_VAL": 0.920591
+    },
+    "P29275": {
+        "probability": "0.9304561",
+        "max_VAL": 0.809379
+    },
+    "P41180": {
+        "probability": "0.92905587",
+        "max_VAL": 0.886494
+    },
+    "P23975": {
+        "probability": "0.92678636",
+        "max_VAL": 0.854512
+    },
+    "P50052": {
+        "probability": "0.9265194",
+        "max_VAL": 0.865167
+    },
+    "P30531": {
+        "probability": "0.92565614",
+        "max_VAL": 0.844114
+    },
+    "Q9HCS2": {
+        "probability": "0.92449796",
+        "max_VAL": 0.841146
+    },
+    "P49683": {
+        "probability": "0.92394745",
+        "max_VAL": 0.847426
+    },
+    "P38435": {
+        "probability": "0.92343813",
+        "max_VAL": 0.823896
+    },
+    "Q9ULK0": {
+        "probability": "0.9225265",
+        "max_VAL": 0.828749
+    },
+    "P30532": {
+        "probability": "0.92242646",
+        "max_VAL": 0.816868
+    },
+    "Q9Y3N9": {
+        "probability": "0.91866785",
+        "max_VAL": 0.823677
+    },
+    "P25021": {
+        "probability": "0.917378",
+        "max_VAL": 0.80864
+    },
+    "Q9H2X9": {
+        "probability": "0.91659325",
+        "max_VAL": 0.872298
+    },
+    "Q96RJ0": {
+        "probability": "0.91635656",
+        "max_VAL": 0.808614
+    },
+    "P50391": {
+        "probability": "0.91635656",
+        "max_VAL": 0.860921
+    },
+    "P21731": {
+        "probability": "0.91626394",
+        "max_VAL": 0.897776
+    },
+    "P30411": {
+        "probability": "0.91586083",
+        "max_VAL": 0.835795
+    },
+    "P32238": {
+        "probability": "0.9145558",
+        "max_VAL": 0.809708
+    },
+    "Q8NGG4": {
+        "probability": "0.9144776",
+        "max_VAL": 0.808618
+    },
+    "Q5NUL3": {
+        "probability": "0.91398627",
+        "max_VAL": 0.963517
+    },
+    "P30559": {
+        "probability": "0.913523",
+        "max_VAL": 0.885343
+    },
+    "Q14831": {
+        "probability": "0.9134991",
+        "max_VAL": 0.843678
+    },
+    "Q8NGW1": {
+        "probability": "0.9133388",
+        "max_VAL": 0.816934
+    },
+    "P43088": {
+        "probability": "0.9125473",
+        "max_VAL": 0.840564
+    },
+    "P48058": {
+        "probability": "0.9116987",
+        "max_VAL": 0.851886
+    },
+    "Q9GZZ6": {
+        "probability": "0.910846",
+        "max_VAL": 0.836181
+    },
+    "P42262": {
+        "probability": "0.9100366",
+        "max_VAL": 0.852608
+    },
+    "Q9UBS5": {
+        "probability": "0.9095023",
+        "max_VAL": 0.890129
+    },
+    "P41231": {
+        "probability": "0.908901",
+        "max_VAL": 0.835833
+    },
+    "O95665": {
+        "probability": "0.90793973",
+        "max_VAL": 0.95263
+    },
+    "P42263": {
+        "probability": "0.90771604",
+        "max_VAL": 0.872833
+    },
+    "P17787": {
+        "probability": "0.9076688",
+        "max_VAL": 0.859491
+    },
+    "P25103": {
+        "probability": "0.90655416",
+        "max_VAL": 0.984966
+    },
+    "P21462": {
+        "probability": "0.9061786",
+        "max_VAL": 0.840668
+    },
+    "O75762": {
+        "probability": "0.9061388",
+        "max_VAL": 0.879191
+    },
+    "P30556": {
+        "probability": "0.90549624",
+        "max_VAL": 0.851195
+    },
+    "Q99624": {
+        "probability": "0.90543",
+        "max_VAL": 0.813101
+    },
+    "Q14833": {
+        "probability": "0.9047987",
+        "max_VAL": 0.849472
+    },
+    "P21452": {
+        "probability": "0.9044459",
+        "max_VAL": 0.826136
+    },
+    "P82251": {
+        "probability": "0.9040283",
+        "max_VAL": 0.834102
+    },
+    "O95477": {
+        "probability": "0.9032527",
+        "max_VAL": 0.879533
+    },
+    "Q07837": {
+        "probability": "0.90292513",
+        "max_VAL": 0.821532
+    },
+    "P47871": {
+        "probability": "0.9015374",
+        "max_VAL": 0.811704
+    },
+    "Q13936": {
+        "probability": "0.9002254",
+        "max_VAL": 0.890568
+    },
+    "Q9UQD0": {
+        "probability": "0.89973307",
+        "max_VAL": 0.848773
+    },
+    "O75899": {
+        "probability": "0.8995271",
+        "max_VAL": 0.895146
+    },
+    "Q15822": {
+        "probability": "0.8993925",
+        "max_VAL": 0.861737
+    },
+    "P55011": {
+        "probability": "0.8977463",
+        "max_VAL": 0.860578
+    },
+    "P43681": {
+        "probability": "0.8963722",
+        "max_VAL": 0.816237
+    },
+    "P35503": {
+        "probability": "0.8958618",
+        "max_VAL": 0.814543
+    },
+    "Q9HAW9": {
+        "probability": "0.8958618",
+        "max_VAL": 0.822685
+    }
+}

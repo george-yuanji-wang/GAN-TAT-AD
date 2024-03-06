@@ -2,18 +2,21 @@ import requests
 import json
 import time
 import subprocess
+import csv
 
 # Read the protein names from the text file
-with open(r'Outcome_data\All_unknown_predicted_proteins.csv', 'r') as file:
+with open(r'C:\Users\Srisharan\OneDrive\Desktop\ISEF\ISEF-2023\Outcome_data\All_unknown_predicted_proteins.csv', 'r') as file:
     next(file)  # Skip the header line
-    protein_names = [line.split(',')[0].strip() for line in file] # Limit to the first 5 names
+    protein_names = [line.split(',')[0].strip() for line in file][:85]  # Limit to the first 5 names
 
 
 datasss = {}
 # Loop through each of the first 5 protein names
 for uniprot_name in protein_names:
-
+    if uniprot_name == 'P03989':
+        continue  # Skip the iteration if uniprot_name is '86'
     # Define the JSON payload
+    print(uniprot_name)
     payload = {
         "dogsite": {
             "pdbCode": f'{uniprot_name}',
@@ -90,13 +93,44 @@ for uniprot_name in protein_names:
 
         data[values[0]] = row_dict
 
-    print(data)
 
     datasss[uniprot_name] = data
 
 
-  
-print(datasss)
 
 with open("DogSiteScorer_data.json", "w") as json_file:
     json.dump(datasss, json_file, indent=4)
+
+
+# Read the JSON file
+with open('DogSiteScorer_data.json', 'r') as file:
+    json_data = json.load(file)
+
+# Read the CSV file
+csv_data = {}
+with open('Outcome_data\All_unknown_predicted_proteins.csv', 'r') as file:
+    csv_reader = csv.reader(file)
+    next(csv_reader)  # Skip the header row
+    for row in csv_reader:
+        protein_id, probability = row
+        csv_data[protein_id] = probability
+
+# Create a dictionary to store the final output
+final_output = {}
+
+# Iterate through the JSON data and store the corresponding probability from the CSV
+for protein_id, values in json_data.items():
+    max_val = float('-inf')
+    for item_id, item_data in values.items():
+        if 'VAL' in item_data:
+            val = float(item_data['VAL'])
+            if val > max_val:
+                max_val = val
+    # Check if the protein ID exists in the CSV data
+    if protein_id in csv_data:
+        probability = csv_data[protein_id]
+        final_output[protein_id] = {"probability": probability, "max_VAL": max_val}
+
+# Save the final output as a JSON file
+with open('output.json', 'w') as outfile:
+    json.dump(final_output, outfile, indent=4)
