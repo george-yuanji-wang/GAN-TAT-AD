@@ -1,21 +1,18 @@
 import requests
 import json
 import time
-<<<<<<< HEAD
 import subprocess
 import csv
-=======
-
->>>>>>> 9d94d05ed0bc11166bce644389c3b5480bd9168e
 
 # Read the protein names from the text file
-with open(r'C:\Users\Srisharan\OneDrive\Desktop\ISEF\ISEF-2023\Outcome_data\All_unknown_predicted_proteins.csv', 'r') as file:
+with open(r'Outcome_data\All_predicted_proteins.csv', 'r') as file:
     next(file)  # Skip the header line
-    protein_names = [line.split(',')[0].strip() for line in file][:85]  # Limit to the first 5 names
+    protein_names = [line.split(',')[0].strip() for line in file][:1109]  # Limit to the first 5 names
 
 datasss = {}
 # Loop through each of the first 5 protein names
 for uniprot_name in protein_names:
+    consecutive_202 = 0
     if uniprot_name == 'P03989':
         continue  # Skip the iteration if uniprot_name is '86'
     # Define the JSON payload
@@ -52,9 +49,19 @@ for uniprot_name in protein_names:
         status_code = response.status_code
         # Check if status code is not 200
         if status_code != 200:
+            if status_code == 202 or status_code == 400:
+                consecutive_202 += 1
+                if consecutive_202 >= 50:
+                    print(f"Encountered 50 consecutive 202 status codes for {uniprot_name}. Moving on to the next one.")
+                    break  # Break out of the loop to move to the next UniProt ID
             print("Waiting for status code 200. Current status code:", status_code)
             # Wait for 5 seconds before checking again
             time.sleep(5)
+        else:
+            consecutive_202 = 0  # Reset the counter if status code is 200
+
+    if consecutive_202 >= 50:
+        continue 
 
     # Once the status code is 200, parse and print the response
     response_json = response.json()
@@ -101,7 +108,7 @@ for uniprot_name in protein_names:
 
 
 
-with open("DogSiteScorer_data.json", "w") as json_file:
+with open("DogSiteScorer_data_withALLPredicted.json", "w") as json_file:
     json.dump(datasss, json_file, indent=4)
 
 
@@ -111,7 +118,7 @@ with open('DogSiteScorer_data.json', 'r') as file:
 
 # Read the CSV file
 csv_data = {}
-with open('Outcome_data\All_unknown_predicted_proteins.csv', 'r') as file:
+with open('Outcome_data\All_predicted_proteins.csv', 'r') as file:
     csv_reader = csv.reader(file)
     next(csv_reader)  # Skip the header row
     for row in csv_reader:

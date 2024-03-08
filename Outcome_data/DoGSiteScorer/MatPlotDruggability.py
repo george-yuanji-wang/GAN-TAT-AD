@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import linregress
 
 # Load the final output from the JSON file
-with open('output.json', 'r') as file:
+with open('Outcome_data\DoGSiteScorer\MaxDrugScore.json', 'r') as file:
     final_output = json.load(file)
 
 # Initialize lists to store data
@@ -40,8 +40,8 @@ plt.xlabel('Predicted Probability')
 plt.ylabel('Druggability Score')
 
 # Set axis limits
-plt.xlim(0.875, 1)
-plt.ylim(0.5, 1)
+plt.xlim(0.9, 1)
+plt.ylim(0, 1)
 
 # Show plot
 plt.grid(True)
