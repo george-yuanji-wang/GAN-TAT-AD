@@ -10,7 +10,7 @@ Original file is located at
 import csv
 
 #Known
-known_file = open("gProfiler_known.csv", "r")
+known_file = open(r'C:\Users\George\Desktop\ISEF-2023\Outcome_data\gProfiler\gProfiler_known.csv', "r")
 known_reader = csv.reader(known_file)
 
 MF_List = []
@@ -31,7 +31,7 @@ for row in known_reader:
     continue
 
 #Unknown
-unknown_file = open("gProfiler_unknown.csv", "r")
+unknown_file = open(r'C:\Users\George\Desktop\ISEF-2023\Outcome_data\gProfiler\gProfiler_unknown.csv', "r")
 unknown_reader = csv.reader(unknown_file)
 
 Unknown_MF_List = []
@@ -51,7 +51,7 @@ for row in unknown_reader:
   else:
     continue
 
-print(MF_List)
+
 
 def find_intersection(list1, list2):
     set1 = set(item[1] for item in list1)
@@ -68,7 +68,7 @@ Known_List_MF, Our_Predictions_MF = find_intersection(MF_List, Unknown_MF_List)
 Known_List_BP, Our_Predictions_BP = find_intersection(BP_List, Unknown_BP_List)
 Known_List_REAC, Our_Predictions_REAC = find_intersection(REAC_List, Unknown_REAC_List)
 Known_List_KEGG, Our_Predictions_KEGG = find_intersection(KEGG_List, Unknown_KEGG_List)
-print(Our_Predictions_BP)
+
 
 def pair_lists(A, B):
     dict_B = {}
@@ -90,13 +90,14 @@ BP_result = pair_lists(Known_List_BP, Our_Predictions_BP)
 KEGG_result = pair_lists(Known_List_KEGG, Our_Predictions_KEGG)
 REAC_result = pair_lists(Known_List_REAC, Our_Predictions_REAC)
 
-print(MF_result)
-print(BP_result)
+
 
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
+import statsmodels.api as sm
+import pandas as pd
 
 def create_graph(data,name):
     x_values = []
@@ -118,40 +119,48 @@ def create_graph(data,name):
     #plt.scatter(x_values, unknown_scores, color='orange', label='Unknown Score (Predicted)')
 
     plt.xlabel('Pathways')
-    plt.ylabel('P-Values, Negative Log_10')
-    plt.title('Approved and Predicted Targets for ' + str(name))
+    plt.ylabel('P-Values, -Log_10')
+    plt.title('Approved and Predicted Targets Enrichment for ' + str(name))
 
-
-    known_poly_features = PolynomialFeatures(degree=8)
-    x_known_poly = known_poly_features.fit_transform(np.array(x_values).reshape(-1, 1))
-    model_known = LinearRegression()
-    model_known.fit(x_known_poly, known_scores)
-    x_known_range = np.linspace(min(x_values), max(x_values), 10000000)
-    x_known_poly_range = known_poly_features.transform(x_known_range.reshape(-1, 1))
-    y_known_poly_fit = model_known.predict(x_known_poly_range)
-    plt.plot(x_known_range, y_known_poly_fit, color='green', label='Curve of Best Fit (Approved)')
-
-    unknown_poly_features = PolynomialFeatures(degree=7)
-    x_unknown_poly = unknown_poly_features.fit_transform(np.array(x_values).reshape(-1, 1))
-    model_unknown = LinearRegression()
-    model_unknown.fit(x_unknown_poly, unknown_scores)
-    x_unknown_range = np.linspace(min(x_values), max(x_values), 10000000)
-    x_unknown_poly_range = unknown_poly_features.transform(x_unknown_range.reshape(-1, 1))
-    y_unknown_poly_fit = model_unknown.predict(x_unknown_poly_range)
-    plt.plot(x_unknown_range, y_unknown_poly_fit, color='red', label='Curve of Best Fit (Predicted)')
-
-    # Displaying the points
-    #plt.scatter(x_values, known_scores, color='blue', label='Known Score (Actual)')
-    #plt.scatter(x_values, unknown_scores, color='orange', label='Unknown Score (Predicted)')
-
+    print(len(x_values))
+    print(len(unknown_scores))
+    print(len(known_scores))
+    window_size = 8  # Adjust this for more or less smoothing
+    y_smoothed = pd.Series(unknown_scores).rolling(window=window_size).mean()
+    plt.plot(x_values, y_smoothed, color='#99b3ff', label='Moving Average')
+    y_smoothed = pd.Series(known_scores).rolling(window=window_size).mean()
+    plt.plot(x_values, y_smoothed, color='#0000ff', label='Moving Average')
+    #plt.scatter(x_values, known_scores, color='pink', label='Targets of FDA Approved Drugs')
+    #plt.scatter(x_values, unknown_scores, color='orange', label='Inferred Proteins')
     plt.legend(loc='upper right')
-    plt.ylim(bottom=0)
+    plt.ylim(0, 256)
+    plt.yscale('symlog', base=2)
+    #plt.yticks([2, 5, 10, 20, 40, 100])
+
 
     plt.show()
 
-MF_graph = create_graph(MF_result,'Molecular Function')
+    
 
-BP_graph = create_graph(BP_result,'Biological Process')
+    # Plot the original data and the LOWESS smoothed data
+    #plt.scatter(x_values, unknown_scores, color='blue', alpha=0.6, label='unknown')'''
+    '''
+    lowess = sm.nonparametric.lowess
+    frac = 0.05  
+    y_lowess = lowess(unknown_scores, x_values, frac=frac)
+    plt.plot(y_lowess[:, 0], y_lowess[:, 1], color='green', label='LOWESS')
+    y_lowess = lowess(known_scores, x_values, frac=frac)
+    plt.plot(y_lowess[:, 0], y_lowess[:, 1], color='red', label='LOWESS')
+    #plt.scatter(x_values, known_scores, color='blue', label='Known Score (Actual)')
+    #plt.scatter(x_values, unknown_scores, color='orange', label='Unknown Score (Predicted)')
+    plt.legend(loc='upper right')
+    plt.ylim(bottom=0)
+
+    plt.show()'''
+
+#MF_graph = create_graph(MF_result,'Molecular Function')
+
+#BP_graph = create_graph(BP_result,'Biological Process')
 
 KEGG_graph = create_graph(KEGG_result,"KEGG")
 

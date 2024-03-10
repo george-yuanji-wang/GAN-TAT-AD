@@ -1,5 +1,8 @@
 import json
 import csv
+from scipy import stats
+import numpy as np
+from scipy.stats import variation, skew, kurtosis
 
 # Function to read data from CSV file
 def read_csv(file_path):
@@ -32,6 +35,8 @@ def write_json(data, file_path):
 # Main function
 def main():
     # Read probabilities from the CSV file
+    trim_percentage = 10 
+    top_n = 3 
     probabilities = read_csv('Outcome_data\All_predicted_proteins.csv')
     count = 0
     # Read VAL values from the second JSON file
@@ -40,16 +45,60 @@ def main():
     # Extracting VAL values for each protein
     max_vals = {}
     for key, pockets in val_data.items():
-        best_pocket = ""
-        max_score = 0
-        for pocket, attribute in pockets.items():
-            if float(attribute['VAL']) > max_score:
-                max_score = float(attribute['VAL'])
-                best_pocket = pocket
+        scores = [float(attribute['VAL']) for pocket, attribute in pockets.items()]
+        if scores:
+        
+            # Basic metrics
+            average_score = np.mean(scores)
+            median_score = np.median(scores)
+            upper_quartile_score = np.percentile(scores, 75)
+            
+            # Trimmed mean
+            trimmed_scores = stats.trim_mean(scores, trim_percentage / 100)
+            
+            # Harmonic mean of top N scores
+            top_n_scores = sorted(scores, reverse=True)[:top_n]
+            harmonic_mean_top_n = stats.hmean(top_n_scores) if top_n_scores else 0
 
+            # Finding best pocket as before
+            best_pocket = ""
+            max_score = 0
+            for pocket, attribute in pockets.items():
+                if float(attribute['VAL']) > max_score:
+                    max_score = float(attribute['VAL'])
+                    best_pocket = pocket
+                    
+            # Assuming equal weights for weighted average, which simplifies to just the average
+            weighted_average_score = average_score  # Adjust this line if you have specific weights
 
-        count += 1
-        max_vals[key] = {'druggability_score':max_score, 'Best_Pocket': best_pocket}
+            # Composite score - Example: simple average of median and upper quartile
+            composite_score = (median_score + upper_quartile_score) / 2
+
+            score_variance = np.var(scores)
+            score_std_dev = np.std(scores)
+            score_range = max(scores) - min(scores)
+            score_skewness = skew(scores)
+            score_kurtosis = kurtosis(scores)
+            cumulative_score_above_threshold = sum(score for score in scores if score > 0.8)  # Define threshold
+            
+            # Update max_vals with all metrics for each protein
+            max_vals[key] = {
+                'Best_Pocket': best_pocket,
+                'Max_Score': max_score,
+                'Average_Score': average_score,
+                'Weighted_Average_Score': weighted_average_score,
+                'Median_Score': median_score,
+                'Trimmed_Mean_Score': trimmed_scores,
+                'Upper_Quartile_Score': upper_quartile_score,
+                'Composite_Score': composite_score,
+                'Harmonic_Mean_Top_N': harmonic_mean_top_n,
+                'Score_Variance': score_variance,
+                'score_std_dev': score_std_dev,
+                'score_range': score_range,
+                'score_skewness': score_skewness,
+                'score_kurtosis': score_kurtosis,
+                'cumulative_score_above_threshold': cumulative_score_above_threshold
+            }
     print(count)
     # Combine protein IDs, probabilities, and max VALs
     result = []
