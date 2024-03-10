@@ -18,11 +18,17 @@ with open('Outcome_data\DoGSiteScorer\MaxDrugScore.json', 'r') as file:
 # Initialize lists to store data
 predicted_probabilities = []
 druggability_scores = []
+i = 0
+
+protein_threshold = 2000
+
 
 # Extract data from final output
-for data in final_output.values():
-    predicted_probabilities.append(float(data['probability']))
-    druggability_scores.append(float(data['max_VAL']))
+for data in final_output:
+    if i < protein_threshold:
+        predicted_probabilities.append(float(data['Probability']))
+        druggability_scores.append(float(data['Max_Val']['druggability_score']))
+        i += 1
 
 # Perform linear regression
 slope, intercept, _, _, _ = linregress(predicted_probabilities, druggability_scores)
@@ -40,7 +46,7 @@ plt.xlabel('Predicted Probability')
 plt.ylabel('Druggability Score')
 
 # Set axis limits
-plt.xlim(0.9, 1)
+plt.xlim(0, 1)
 plt.ylim(0, 1)
 
 # Show plot
